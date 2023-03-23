@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import openpyxl
 
 
 APP_TITLE = "Monitoreo Vacunación Influenza"
