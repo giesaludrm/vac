@@ -7,7 +7,7 @@ import geopandas as gpd
 
 st.set_page_config("Monitoreo Vacunación Influenza", layout="wide")
 APP_TITLE = "Monitoreo Vacunación Influenza"
-APP_SUB_TITLE = "Fuente: Registro Nacional de Inmunizaciones"
+APP_SUB_TITLE = ""
 
 st.title(APP_TITLE)
 st.caption(APP_SUB_TITLE)
