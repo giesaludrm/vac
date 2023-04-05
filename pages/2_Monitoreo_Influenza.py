@@ -1,33 +1,11 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import openpyxl
 import geopandas as gpd
 import numpy as np
-import locale
-locale.setlocale(locale.LC_ALL, 'es_CL')
-st.set_page_config("Monitoreo Vacunación Influenza", layout="wide")
-
-#col01, col02, col03 = st.columns(3)
-#with col01:
-#    st.button(label="Monitoreo Bivalente")
-
-#with col02:
-#    st.button(label="Monitoreo Influenza")
-    
-
-#with col03:
-#    st.button(label="Monitoreo Prográmaticas trazadoras")
 
 
 APP_TITLE = "Monitoreo Vacunación Influenza"
-APP_SUB_TITLE = ""
-
-st.title(APP_TITLE)
-#st.caption(APP_SUB_TITLE)
-
-#st.markdown("---")
-
 
 
 # CARGA DE DATOS
@@ -38,18 +16,11 @@ vacxdia = vacxdia.loc[vacxdia["Desagregación"] == "Establecimientos de salud"]
 df_criterios = df.loc[df["Criterio_elegibilidad"]!= "Población General"]
 
 vac_inf_geo = pd.read_csv("vac_inf_est_geo.csv", sep=";", encoding="latin-1")
-#vac_inf_geo = gpd.read_file("vac_inf_est_geo.geojson")
+
 
 # FILTROS
 st.sidebar.header("Filtros")
 
-#def filtro_desagregacion(df):
-#    df_comunas = df.loc[df["Desagregación"] == "Comunas"]
-#    makes = list(df['Desagregación'].drop_duplicates())
-#    f_desag = st.sidebar.selectbox('Seleccione desagregación:', options=makes)
-#    df_filter = df.loc[df["Desagregación"] == f_desag]
-
-#    return df_comunas if not f_desag else df_filter
 
 def agrupar_servicio(df):
     df = df.groupby(["Servicio"]).sum(["N° de vacunados", "Población objetivo"]).reset_index()
