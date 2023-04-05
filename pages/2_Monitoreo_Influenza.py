@@ -4,7 +4,7 @@ import plotly.express as px
 import geopandas as gpd
 import numpy as np
 
-
+st.set_page_config("Monitoreo Vacunación Influenza", layout="wide")
 APP_TITLE = "Monitoreo Vacunación Influenza"
 
 
