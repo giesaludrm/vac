@@ -6,8 +6,8 @@ import numpy as np
 
 st.set_page_config("Monitoreo Vacunación Influenza", layout="wide")
 
-st.markdown("---")
 st.title("Monitoreo Vacunación Influenza")
+st.markdown("---")
 
 # CARGA DE DATOS
 df = pd.read_csv("avance_vac_inf_total.csv", sep=";", encoding="latin-1")
