@@ -6,6 +6,7 @@ import numpy as np
 
 st.set_page_config("Monitoreo Vacunación Influenza", layout="wide")
 
+st.markdown("---")
 st.title("Monitoreo Vacunación Influenza")
 
 # CARGA DE DATOS
