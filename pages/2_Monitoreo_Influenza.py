@@ -4,9 +4,10 @@ import plotly.express as px
 import geopandas as gpd
 import numpy as np
 
+
 st.set_page_config("Monitoreo Vacunación Influenza", layout="wide")
 
-st.title("Monitoreo Vacunación Influenza")
+st.title("Monitoreo Vacunación Influenza - Campaña 2023")
 st.markdown("---")
 
 # CARGA DE DATOS
@@ -21,12 +22,6 @@ vac_inf_geo = pd.read_csv("vac_inf_est_geo.csv", sep=";", encoding="latin-1")
 
 # FILTROS
 st.sidebar.header("Filtros")
-
-
-def agrupar_servicio(df):
-    df = df.groupby(["Servicio"]).sum(["N° de vacunados", "Población objetivo"]).reset_index()
-    df["Avance vacunación"] = round((df["N° de vacunados"] *100) / df["Población objetivo"], 1)
-    return df
 
 def filtro_c_elig(df):
     #df_pob_gral = df.loc[df["Criterio_elegibilidad"] == "Población General"]
@@ -53,11 +48,7 @@ def filtro_com(df):
     return df if not f_Comuna else df_filter
 
 
-
 # APLICACION DE FILTROS
-#df = filtro_desagregacion(df)
-if not filtro_ss:
-    df = agrupar_servicio(df)
 
 df = filtro_c_elig(df)
 
@@ -70,13 +61,12 @@ df = filtro_ss(df)
 df = filtro_com(df)
 
 
-
 df_filtro = df[["Servicio","Comuna","Criterio_elegibilidad"]]
 df_filtro2 = df[["Servicio","Comuna"]]
 
 
 vacxdia = vacxdia.merge(df_filtro, on=["Servicio","Comuna","Criterio_elegibilidad"], how="inner")
-vacxdia_gb = vacxdia.groupby(["Servicio","Comuna","Criterio_elegibilidad", "FECHA_INMUNIZACION"]).sum("N° de vacunados").reset_index()
+vacxdia_gb = vacxdia.groupby(["FECHA_INMUNIZACION"]).sum("N° de vacunados").reset_index()
 vac_inf_geo = vac_inf_geo.merge(df_filtro, on=["Servicio","Comuna","Criterio_elegibilidad"], how="inner")
 df_criterios = df_criterios.merge(df_filtro2, on=["Servicio","Comuna"], how="inner")
 
@@ -90,6 +80,8 @@ dosis_adm = round(df["N° de vacunados"].sum())
 dosis_adm =str('{0:,}'.format(dosis_adm))
 dosis_adm = dosis_adm.replace(",", ".")
 mean_vacxdia = round(vacxdia_gb["N° de vacunados"].mean())
+mean_vacxdia =str('{0:,}'.format(mean_vacxdia))
+mean_vacxdia = mean_vacxdia.replace(",", ".")
 
 df.loc[len(df)] = new_row
 
@@ -99,27 +91,17 @@ df = df.sort_values(by="Avance vacunación")
 Criterio_elegibilidad_title = df.iloc[0]["Criterio_elegibilidad"]
 
 
-df_table= df[["Servicio", "Comuna", "Avance vacunación"]]
-df_table= df_table.set_index('Servicio')
-
-
 # FIGURAS 
 #color_discrete_sequence= px.colors.qualitative.Safe
 
 da_table =  df[["Servicio", "Comuna", "N° de vacunados", "Población objetivo","Avance vacunación"]]
 da_table= da_table.set_index("Servicio")
-
-#df = df.groupby(["Servicio"]).sum(["N° de vacunados", "Población objetivo"]).reset_index()
-#df["Avance vacunación"] = round((df["N° de vacunados"] *100) / df["Población objetivo"], 1)
+da_table= da_table.sort_values(by ="Comuna")
 
 fig = px.bar(df, x='Comuna', y='Avance vacunación',
             title= f"Porcentaje Avance vacunación", color=np.where((df['Comuna'] == "RM"), 'green', 'red'),
             color_discrete_sequence=["#3057D3", "#DD3C2C"],height=450,
             labels={"Avance vacunación": "Avance vacunación (%)"})
-#fig.update_layout({
-#'#plot_bgcolor': 'rgba(37, 50, 0, 0)',
-#'paper_bgcolor': 'rgba(37, 0, 0, 0.2)',
-#})
 #fig.add_hline(y= mean)
 fig.update_layout(xaxis_categoryorder = 'total descending')
 fig.layout.update(showlegend=False)
@@ -231,6 +213,6 @@ with col7:
 with col8:
     st.plotly_chart(figmapa2)
 
-st.markdown("###### Tabla N° de vacunados y Avance de Vacunación por Criterio de elegibilidad y Comuna")
+st.markdown("###### Tabla N° de vacunados y Avance de Vacunación por Comuna")
 with st.container():
     st.dataframe(da_table, use_container_width=True)
