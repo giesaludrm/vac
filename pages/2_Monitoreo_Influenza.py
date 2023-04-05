@@ -5,8 +5,8 @@ import geopandas as gpd
 import numpy as np
 
 st.set_page_config("Monitoreo Vacunación Influenza", layout="wide")
-APP_TITLE = "Monitoreo Vacunación Influenza"
 
+st.title("Monitoreo Vacunación Influenza")
 
 # CARGA DE DATOS
 df = pd.read_csv("avance_vac_inf_total.csv", sep=";", encoding="latin-1")
