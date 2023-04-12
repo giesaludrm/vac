@@ -5,7 +5,8 @@ import plotly.graph_objects as go
 import geopandas as gpd
 import numpy as np
 from datetime import datetime, timedelta
-
+import locale
+locale.setlocale(locale.LC_ALL, 'es_ES.utf8')
 
 st.set_page_config("Monitoreo Vacunación Influenza", layout="wide")
 
@@ -241,7 +242,7 @@ with col2:
     st.plotly_chart(fig_ind)
     
 with col3:
-    st.metric(label= "Promedio dosis diarias", value= f"{mean_vacxdia_1sem_f}", delta=f"{diferencia_mean_vacxdia_f}")
+    st.metric(label= "Promedio dosis diarias última semana", value= f"{mean_vacxdia_1sem_f}", delta=f"{diferencia_mean_vacxdia_f}")
 
 with col4:
     st.plotly_chart(fig, use_container_width=True)
