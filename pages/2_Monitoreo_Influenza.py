@@ -1,8 +1,10 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import plotly.graph_objects as go
 import geopandas as gpd
 import numpy as np
+from datetime import datetime, timedelta
 
 
 st.set_page_config("Monitoreo Vacunación Influenza", layout="wide")
@@ -11,20 +13,17 @@ st.title("Monitoreo Vacunación Influenza - Campaña 2023")
 st.markdown("---")
 
 # CARGA DE DATOS
-df = pd.read_csv("avance_vac_inf_total.csv", sep=";", encoding="latin-1")
-df = df.loc[df["Desagregación"] == "Comunas"]
-vacxdia = pd.read_csv("vacxdia.csv", sep=";", encoding="latin-1")
-vacxdia = vacxdia.loc[vacxdia["Desagregación"] == "Establecimientos de salud"]
+df = pd.read_csv("avance_vac_inf_total_2023.csv", sep=";", encoding="latin-1")
+vac_inf_com = pd.read_csv("dosis_por_comuna_2023.csv", sep=";", encoding="latin-1")
+vacxdia = pd.read_csv("inf_vacxdia_com_2023.csv", sep=";", encoding="latin-1")
 df_criterios = df.loc[df["Criterio_elegibilidad"]!= "Población General"]
-
-vac_inf_geo = pd.read_csv("vac_inf_est_geo.csv", sep=";", encoding="latin-1")
+vac_inf_geo = pd.read_csv("inf_n_estab_tot_geo_2023.csv", sep=";", encoding="latin-1")
 
 
 # FILTROS
 st.sidebar.header("Filtros")
 
 def filtro_c_elig(df):
-    #df_pob_gral = df.loc[df["Criterio_elegibilidad"] == "Población General"]
     makes = list(df['Criterio_elegibilidad'].drop_duplicates())
     f_c_elig = st.sidebar.selectbox('Seleccione un Criterio de elegibilidad:', options=makes, format_func=lambda x: 'Todos los Criterios' if x == '' else x)
     df_filter = df.loc[df["Criterio_elegibilidad"] == f_c_elig]
@@ -53,8 +52,11 @@ def filtro_com(df):
 df = filtro_c_elig(df)
 
 # CALCULO PROMEDIO REGIONAL AVANCE VACUNACIÓN
-mean = round(df["Avance vacunación"].mean(),1)
-new_row = {'Comuna': 'RM', 'Servicio': 'RM', 'Avance vacunación': mean}
+Criterio_elegibilidad_title = df.iloc[0]["Criterio_elegibilidad"]
+n_vac_rm = df["N° de vacunados"].sum()
+n_pob_rm = df["Población objetivo"].sum()
+mean_rm = round((n_vac_rm * 100) / n_pob_rm, 1)
+new_row = {'Comuna': 'RM', 'Criterio_elegibilidad': Criterio_elegibilidad_title,'Servicio': 'RM','N° de vacunados': n_vac_rm, 'Población objetivo': n_pob_rm,'Avance vacunación': mean_rm}
 
 df = filtro_ss(df)
 
@@ -64,10 +66,11 @@ df = filtro_com(df)
 df_filtro = df[["Servicio","Comuna","Criterio_elegibilidad"]]
 df_filtro2 = df[["Servicio","Comuna"]]
 
-
+vac_inf_com = vac_inf_com.merge(df_filtro, on=["Servicio","Comuna","Criterio_elegibilidad"], how="inner")
 vacxdia = vacxdia.merge(df_filtro, on=["Servicio","Comuna","Criterio_elegibilidad"], how="inner")
 vacxdia_gb = vacxdia.groupby(["FECHA_INMUNIZACION"]).sum("N° de vacunados").reset_index()
 vac_inf_geo = vac_inf_geo.merge(df_filtro, on=["Servicio","Comuna","Criterio_elegibilidad"], how="inner")
+vac_inf_geo_gb = vac_inf_geo.groupby(["Comuna", "Establecimiento","Criterio_elegibilidad", "latitud", "longitud"]).sum("N° de vacunados").reset_index()
 df_criterios = df_criterios.merge(df_filtro2, on=["Servicio","Comuna"], how="inner")
 
 #print(vac_inf_geo)
@@ -79,22 +82,41 @@ dif_promedio_cob = 85-promedio_cob
 dosis_adm = round(df["N° de vacunados"].sum())
 dosis_adm =str('{0:,}'.format(dosis_adm))
 dosis_adm = dosis_adm.replace(",", ".")
-mean_vacxdia = round(vacxdia_gb["N° de vacunados"].mean())
-mean_vacxdia =str('{0:,}'.format(mean_vacxdia))
-mean_vacxdia = mean_vacxdia.replace(",", ".")
+vacxdia_gb["FECHA_INMUNIZACION"] = pd.to_datetime(vacxdia_gb["FECHA_INMUNIZACION"]).dt.date
+#fecha lunes de la semana pasada
+mon_1sem = ((datetime.now() -timedelta(days=(7+(datetime.now().weekday()) % 7)))).date()
+#fecha lunes de hace 2 semanas
+mon_2sem = ((datetime.now() -timedelta(days=(14+(datetime.now().weekday()) % 7)))).date()
+#fecha domingo de la semana pasada
+sun_1sem = ((datetime.now() -timedelta(days=((datetime.now().weekday() + 1) % 7)))).date()
+#fecha domingo de hace 2 semanas
+sun_2sem = ((datetime.now() -timedelta(days=(7+(datetime.now().weekday() + 1) % 7)))).date()
+
+pen_sem = (vacxdia_gb["FECHA_INMUNIZACION"] >= mon_2sem) &  (vacxdia_gb["FECHA_INMUNIZACION"] <= sun_2sem) 
+ult_sem = (vacxdia_gb["FECHA_INMUNIZACION"] >= mon_1sem) &  (vacxdia_gb["FECHA_INMUNIZACION"] <= sun_1sem)
+
+una_semana_atras = vacxdia_gb.loc[ult_sem]
+dos_semana_atras = vacxdia_gb.loc[pen_sem]
+
+mean_vacxdia_1sem = round(una_semana_atras["N° de vacunados"].mean())
+mean_vacxdia_1sem_f =str('{0:,}'.format(mean_vacxdia_1sem))
+mean_vacxdia_1sem_f = mean_vacxdia_1sem_f.replace(",", ".")
+mean_vacxdia_2sem = round(dos_semana_atras["N° de vacunados"].mean())
+diferencia_mean_vacxdia= mean_vacxdia_1sem - mean_vacxdia_2sem
+diferencia_mean_vacxdia_f =str('{0:,}'.format(diferencia_mean_vacxdia))
+diferencia_mean_vacxdia_f = diferencia_mean_vacxdia_f.replace(",", ".")
 
 df.loc[len(df)] = new_row
 
 df = df.sort_values(by="Avance vacunación")
 
 
-Criterio_elegibilidad_title = df.iloc[0]["Criterio_elegibilidad"]
-
 
 # FIGURAS 
-#color_discrete_sequence= px.colors.qualitative.Safe
 
-da_table =  df[["Servicio", "Comuna", "N° de vacunados", "Población objetivo","Avance vacunación"]]
+da_table =  df[["Servicio", "Comuna", "Criterio_elegibilidad","N° de vacunados", "Población objetivo","Avance vacunación"]]
+da_table['Avance vacunación'] = da_table['Avance vacunación'] /100
+da_table['Avance vacunación'] = da_table['Avance vacunación'].apply('{:.1%}'.format)
 da_table= da_table.set_index("Servicio")
 da_table= da_table.sort_values(by ="Comuna")
 
@@ -102,7 +124,6 @@ fig = px.bar(df, x='Comuna', y='Avance vacunación',
             title= f"Porcentaje Avance vacunación", color=np.where((df['Comuna'] == "RM"), 'green', 'red'),
             color_discrete_sequence=["#3057D3", "#DD3C2C"],height=450,
             labels={"Avance vacunación": "Avance vacunación (%)"})
-#fig.add_hline(y= mean)
 fig.update_layout(xaxis_categoryorder = 'total descending')
 fig.layout.update(showlegend=False)
 fig.update_traces(
@@ -111,11 +132,9 @@ fig.update_traces(
         "Avance vacunación: %{y}%<extra></extra>"]))
 
 
-vacxdia_g = vacxdia.groupby(["Comuna", "Dosis"]).sum("N° de vacunados").reset_index()
-vacxdia_g = vacxdia_g.sort_values(by=["Dosis"], ascending=False)
-
-fig2 = px.bar(vacxdia_g, x="Comuna", y="N° de vacunados", height=450,
-               color_discrete_sequence= ["#3057D3", "#DD3C2C", "#07EC07"], title=f"Total vacunas administradas, según dosis",color="Dosis")
+vac_inf_com = vac_inf_com.sort_values(by="Dosis")
+fig2 = px.bar(vac_inf_com, x="Comuna", y="N° de vacunados", height=450,
+               color_discrete_sequence= ["#3057D3", "#EC5307", "#1DC427", "#4ADCF3"], title=f"Total vacunas administradas, según dosis",color="Dosis")
 fig2.update_layout(xaxis_categoryorder = 'total descending')
 
 
@@ -124,15 +143,40 @@ fig3 = px.pie(df_criterios, values='N° de vacunados', names='Criterio_elegibili
 fig3.layout.update(showlegend=False)
 
 
+una_semana_atras["FECHA_INMUNIZACION"] = pd.to_datetime(una_semana_atras["FECHA_INMUNIZACION"])
+una_semana_atras["Día de la semana"] = una_semana_atras["FECHA_INMUNIZACION"].dt.day_name(locale='esp')
+vacxdia_gb2 = una_semana_atras.groupby("Día de la semana").sum("N° de vacunados").reset_index()
+orden_dias = ['Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado', 'Domingo']
+vacxdia_gb2["Día de la semana"] = vacxdia_gb2["Día de la semana"].astype("category")
+vacxdia_gb2["Día de la semana"] = vacxdia_gb2["Día de la semana"].cat.set_categories(orden_dias)
+
+
+fig32 = px.pie(vacxdia_gb2, values='N° de vacunados', names='Día de la semana', title="Vacunas administradas según día de la semana")
+fig32.layout.update(showlegend=False)
+fig32.update_traces(textposition='inside', textinfo='percent+label')
+fig32.update_traces(sort=False) 
+
+
+
 geo_df = gpd.read_file("comunas_rm.geojson")
 geo_df = geo_df.merge(df, on="Comuna", how="inner")
 
+from pyproj import Transformer
+geo_df_utm = geo_df.to_crs(epsg=32719)
+geo_df_utm["x"] = geo_df_utm.centroid.map(lambda p: p.x)
+geo_df_utm["y"] = geo_df_utm.centroid.map(lambda p: p.y)
 
-geo_df["x"] = geo_df.centroid.map(lambda p: p.x)
-geo_df["y"] = geo_df.centroid.map(lambda p: p.y)
+transformer = Transformer.from_crs('epsg:32719', 'epsg:4326',always_xy=True)
 
-long_center = geo_df["x"].mean()
-lat_center = geo_df["y"].mean()
+points = list(zip(geo_df_utm.x,geo_df_utm.y))
+coordsWgs = np.array(list(transformer.itransform(points)))
+
+geo_df_utm['long']=coordsWgs[:,0]
+geo_df_utm['lat']=coordsWgs[:,1]
+
+
+long_center = geo_df_utm["long"].mean()
+lat_center = geo_df_utm["lat"].mean()
 
   
 geo_df= geo_df.set_index('Comuna')
@@ -147,13 +191,10 @@ figmapa = px.choropleth_mapbox(geo_df,
                            color_continuous_scale= "RdBu",labels={
                      "Avance vacunación": "Avance (%)"
                  },
-                           zoom=8.5, height=400, title= "Distribución territorial del avance de vacunación"
-                           )
-figmapa.update_layout(
-    margin=dict(l=0, r=0, t=40, b=0)
-)
+                           zoom=8.5, height=400, title= "Distribución territorial del avance de vacunación")
+figmapa.update_layout(margin=dict(l=0, r=0, t=40, b=0))
 
-figmapa2 = px.scatter_mapbox(vac_inf_geo, lat="latitud",
+figmapa2 = px.scatter_mapbox(vac_inf_geo_gb, lat="latitud",
                         lon="longitud",   color="N° de vacunados",size="N° de vacunados",
                   color_continuous_scale="RdBu", size_max=15, zoom=8.5, height=500, mapbox_style="carto-positron",
                   hover_data=["Comuna", "Establecimiento"],
@@ -161,9 +202,10 @@ figmapa2 = px.scatter_mapbox(vac_inf_geo, lat="latitud",
 
 
 vacxdia_f =  vacxdia.groupby(["FECHA_INMUNIZACION", "Dosis"]).sum("N° de vacunados").reset_index()
+vacxdia_f = vacxdia_f.sort_values(by="Dosis")
 
 fig4 = px.area(vacxdia_f, x="FECHA_INMUNIZACION", y="N° de vacunados", height=450, color= "Dosis",
-               color_discrete_sequence= ["#3057D3", "#DD3C2C", "#07EC07"], markers=True, title=f"Total Dosis diarias",
+               color_discrete_sequence= ["#3057D3", "#EC5307", "#1DC427", "#4ADCF3"], markers=True, title="Total Dosis diarias - Campaña 2023",
                labels={
                      "FECHA_INMUNIZACION": "Fecha de Inmunización"
                  },)
@@ -175,24 +217,31 @@ vacxdia_table = vacxdia_table.rename(columns={"FECHA_INMUNIZACION":"Fecha de inm
 vacxdia_table= vacxdia_table.set_index('Servicio')
 
 
-col1, col2, col3 = st.columns(3)
+col1, col2, col3 = st.columns([1, 1, 1])
 
 col4, col5, col6 = st.columns([1.2, 1.5, 1])
 
-col7, col8 = st.columns([1, 1])
+col7, col8, col9 = st.columns([1.5, 1.5, 1])
 
-
+fig_ind = go.Figure(go.Indicator(
+    mode = "gauge+number",
+    value = promedio_cob,   number={"suffix": "%", 'font_color':'black', 'font_size':40}, gauge = {'axis': {'range': [None, 85]}},
+    domain = {'x': [0, 1], 'y': [0, 1]},
+    title = {"text": "Avance de vacunación"}
+    ))
+fig_ind.update_layout(height=200, width=200)
+fig_ind.update_layout(margin={"r":0,"t":2,"l":0,"b":0})
+fig_ind.update_traces(title_font_size=14, selector=dict(type='indicator'))
+fig_ind.update_traces(title_font_color="black", selector=dict(type='indicator'))
 
 with col1:
-    st.metric(label="Avance de vacunación", value= f"{promedio_cob}%", delta=f"{dif_promedio_cob}%", delta_color="inverse")
+    st.metric(label="Dosis administradas", value= f"{dosis_adm}")
 
 with col2:
-    st.metric(label="Dosis administradas", value= f"{dosis_adm}")
+    st.plotly_chart(fig_ind)
     
 with col3:
-    st.metric(label= "Promedio dosis diarias", value= f"{mean_vacxdia}")
-
-
+    st.metric(label= "Promedio dosis diarias", value= f"{mean_vacxdia_1sem_f}", delta=f"{diferencia_mean_vacxdia_f}")
 
 with col4:
     st.plotly_chart(fig, use_container_width=True)
@@ -208,10 +257,13 @@ with st.container():
 
 
 with col7:
-    st.plotly_chart(figmapa)
+    st.plotly_chart(figmapa, use_container_width=True)
 
 with col8:
-    st.plotly_chart(figmapa2)
+    st.plotly_chart(figmapa2, use_container_width=True)
+
+with col9:
+    st.plotly_chart(fig32, use_container_width=True)
 
 st.markdown("###### Tabla N° de vacunados y Avance de Vacunación por Comuna")
 with st.container():
