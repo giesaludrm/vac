@@ -144,7 +144,7 @@ fig3.layout.update(showlegend=False)
 
 
 una_semana_atras["FECHA_INMUNIZACION"] = pd.to_datetime(una_semana_atras["FECHA_INMUNIZACION"])
-una_semana_atras["Día de la semana"] = una_semana_atras["FECHA_INMUNIZACION"].dt.day_name(locale='esp.utf-8')
+una_semana_atras["Día de la semana"] = una_semana_atras["FECHA_INMUNIZACION"].dt.day_name(locale='es_ES.utf8')
 vacxdia_gb2 = una_semana_atras.groupby("Día de la semana").sum("N° de vacunados").reset_index()
 orden_dias = ['Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado', 'Domingo']
 vacxdia_gb2["Día de la semana"] = vacxdia_gb2["Día de la semana"].astype("category")
