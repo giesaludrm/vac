@@ -1,250 +1,251 @@
 Comuna;Dosis;N° de vacunados;Criterio_elegibilidad;Servicio
 Alhué;1° dosis;36;Población General;Occidente
-Alhué;Única;1256;Población General;Occidente
+Alhué;Única;1260;Población General;Occidente
 Buin;1° dosis;330;Población General;Sur
 Buin;EPRO;4;Población General;Sur
-Buin;Única;10525;Población General;Sur
+Buin;Única;10656;Población General;Sur
 Calera de Tango;1° dosis;44;Población General;Sur
 Calera de Tango;EPRO;1;Población General;Sur
-Calera de Tango;Única;3079;Población General;Sur
+Calera de Tango;Única;3122;Población General;Sur
 Cerrillos;1° dosis;288;Población General;Central
 Cerrillos;EPRO;1;Población General;Central
-Cerrillos;Única;7482;Población General;Central
+Cerrillos;Única;7587;Población General;Central
 Cerro Navia;1° dosis;511;Población General;Occidente
 Cerro Navia;2° dosis;2;Población General;Occidente
 Cerro Navia;EPRO;1;Población General;Occidente
-Cerro Navia;Única;11224;Población General;Occidente
+Cerro Navia;Única;11399;Población General;Occidente
 Colina;1° dosis;952;Población General;Norte
 Colina;2° dosis;1;Población General;Norte
 Colina;EPRO;2;Población General;Norte
-Colina;Única;13117;Población General;Norte
+Colina;Única;13262;Población General;Norte
 Conchalí;1° dosis;262;Población General;Norte
-Conchalí;Única;11349;Población General;Norte
+Conchalí;Única;11532;Población General;Norte
 Curacaví;1° dosis;104;Población General;Occidente
-Curacaví;Única;2611;Población General;Occidente
+Curacaví;Única;2653;Población General;Occidente
 El Bosque;1° dosis;914;Población General;Sur
 El Bosque;EPRO;1;Población General;Sur
-El Bosque;Única;24683;Población General;Sur
+El Bosque;Única;24991;Población General;Sur
 El Monte;1° dosis;65;Población General;Occidente
 El Monte;EPRO;1;Población General;Occidente
-El Monte;Única;2873;Población General;Occidente
+El Monte;Única;2906;Población General;Occidente
 Estación Central;1° dosis;630;Población General;Central
 Estación Central;2° dosis;3;Población General;Central
 Estación Central;EPRO;5;Población General;Central
-Estación Central;Única;14377;Población General;Central
+Estación Central;Única;14547;Población General;Central
 Huechuraba;1° dosis;993;Población General;Norte
 Huechuraba;EPRO;2;Población General;Norte
-Huechuraba;Única;15547;Población General;Norte
+Huechuraba;Única;15705;Población General;Norte
 Independencia;1° dosis;290;Población General;Norte
 Independencia;2° dosis;1;Población General;Norte
 Independencia;EPRO;5;Población General;Norte
-Independencia;Única;16500;Población General;Norte
+Independencia;Única;16665;Población General;Norte
 Isla de Maipo;1° dosis;108;Población General;Occidente
 Isla de Maipo;EPRO;4;Población General;Occidente
-Isla de Maipo;Única;4716;Población General;Occidente
+Isla de Maipo;Única;4800;Población General;Occidente
 La Cisterna;1° dosis;254;Población General;Sur
 La Cisterna;2° dosis;1;Población General;Sur
-La Cisterna;Única;10332;Población General;Sur
+La Cisterna;Única;10472;Población General;Sur
 La Florida;1° dosis;869;Población General;Suroriente
 La Florida;2° dosis;1;Población General;Suroriente
 La Florida;EPRO;4;Población General;Suroriente
-La Florida;Única;34869;Población General;Suroriente
+La Florida;Única;35323;Población General;Suroriente
 La Granja;1° dosis;787;Población General;Suroriente
 La Granja;2° dosis;1;Población General;Suroriente
-La Granja;EPRO;11;Población General;Suroriente
-La Granja;Única;20867;Población General;Suroriente
+La Granja;EPRO;12;Población General;Suroriente
+La Granja;Única;21152;Población General;Suroriente
 La Pintana;1° dosis;390;Población General;Suroriente
 La Pintana;EPRO;23;Población General;Suroriente
-La Pintana;Única;12440;Población General;Suroriente
+La Pintana;Única;12629;Población General;Suroriente
 La Reina;1° dosis;297;Población General;Oriente
 La Reina;EPRO;1;Población General;Oriente
-La Reina;Única;12187;Población General;Oriente
+La Reina;Única;12300;Población General;Oriente
 Lampa;1° dosis;454;Población General;Norte
 Lampa;2° dosis;3;Población General;Norte
 Lampa;EPRO;1;Población General;Norte
-Lampa;Única;7870;Población General;Norte
+Lampa;Única;7984;Población General;Norte
 Las Condes;1° dosis;749;Población General;Oriente
 Las Condes;EPRO;1;Población General;Oriente
-Las Condes;Única;36183;Población General;Oriente
+Las Condes;Única;36414;Población General;Oriente
 Lo Barnechea;1° dosis;566;Población General;Oriente
 Lo Barnechea;EPRO;1;Población General;Oriente
-Lo Barnechea;Única;10652;Población General;Oriente
+Lo Barnechea;Única;10738;Población General;Oriente
 Lo Espejo;1° dosis;174;Población General;Sur
 Lo Espejo;2° dosis;1;Población General;Sur
-Lo Espejo;Única;7661;Población General;Sur
+Lo Espejo;Única;7797;Población General;Sur
 Lo Prado;1° dosis;483;Población General;Occidente
 Lo Prado;2° dosis;1;Población General;Occidente
 Lo Prado;EPRO;3;Población General;Occidente
-Lo Prado;Única;16019;Población General;Occidente
+Lo Prado;Única;16232;Población General;Occidente
 Macul;1° dosis;803;Población General;Oriente
 Macul;2° dosis;2;Población General;Oriente
 Macul;EPRO;10;Población General;Oriente
-Macul;Única;13624;Población General;Oriente
+Macul;Única;13765;Población General;Oriente
 Maipú;1° dosis;1008;Población General;Central
 Maipú;2° dosis;2;Población General;Central
 Maipú;EPRO;10;Población General;Central
-Maipú;Única;46177;Población General;Central
+Maipú;Única;46936;Población General;Central
 María Pinto;1° dosis;39;Población General;Occidente
 María Pinto;EPRO;1;Población General;Occidente
-María Pinto;Única;2387;Población General;Occidente
+María Pinto;Única;2409;Población General;Occidente
 Melipilla;1° dosis;599;Población General;Occidente
 Melipilla;2° dosis;1;Población General;Occidente
 Melipilla;EPRO;6;Población General;Occidente
-Melipilla;Única;20324;Población General;Occidente
+Melipilla;Única;20571;Población General;Occidente
 Padre Hurtado;1° dosis;154;Población General;Occidente
-Padre Hurtado;Única;4446;Población General;Occidente
+Padre Hurtado;Única;4495;Población General;Occidente
 Paine;1° dosis;247;Población General;Sur
 Paine;EPRO;3;Población General;Sur
-Paine;Única;6657;Población General;Sur
+Paine;Única;6772;Población General;Sur
 Pedro Aguirre Cerda;1° dosis;382;Población General;Sur
 Pedro Aguirre Cerda;2° dosis;2;Población General;Sur
-Pedro Aguirre Cerda;Única;11661;Población General;Sur
+Pedro Aguirre Cerda;Única;11881;Población General;Sur
 Peñaflor;1° dosis;178;Población General;Occidente
-Peñaflor;Única;7958;Población General;Occidente
+Peñaflor;Única;8104;Población General;Occidente
 Peñalolén;1° dosis;599;Población General;Oriente
 Peñalolén;2° dosis;1;Población General;Oriente
 Peñalolén;EPRO;9;Población General;Oriente
-Peñalolén;Única;21713;Población General;Oriente
+Peñalolén;Única;21994;Población General;Oriente
 Pirque;1° dosis;31;Población General;Suroriente
 Pirque;EPRO;2;Población General;Suroriente
-Pirque;Única;2752;Población General;Suroriente
+Pirque;Única;2792;Población General;Suroriente
 Providencia;1° dosis;320;Población General;Oriente
 Providencia;2° dosis;1;Población General;Oriente
 Providencia;EPRO;6;Población General;Oriente
-Providencia;Única;25850;Población General;Oriente
+Providencia;Única;26004;Población General;Oriente
 Pudahuel;1° dosis;700;Población General;Occidente
 Pudahuel;2° dosis;1;Población General;Occidente
 Pudahuel;EPRO;6;Población General;Occidente
-Pudahuel;Única;26323;Población General;Occidente
+Pudahuel;Única;26606;Población General;Occidente
 Puente Alto;1° dosis;1350;Población General;Suroriente
 Puente Alto;2° dosis;3;Población General;Suroriente
 Puente Alto;EPRO;8;Población General;Suroriente
-Puente Alto;Única;47810;Población General;Suroriente
+Puente Alto;Única;48602;Población General;Suroriente
 Quilicura;1° dosis;1092;Población General;Norte
 Quilicura;2° dosis;1;Población General;Norte
-Quilicura;EPRO;8;Población General;Norte
-Quilicura;Única;21255;Población General;Norte
+Quilicura;EPRO;9;Población General;Norte
+Quilicura;Única;21507;Población General;Norte
 Quinta Normal;1° dosis;2320;Población General;Occidente
 Quinta Normal;EPRO;5;Población General;Occidente
-Quinta Normal;Única;19387;Población General;Occidente
+Quinta Normal;Única;19513;Población General;Occidente
 Recoleta;1° dosis;588;Población General;Norte
-Recoleta;Única;18287;Población General;Norte
+Recoleta;Única;18489;Población General;Norte
 Renca;1° dosis;325;Población General;Occidente
 Renca;EPRO;1;Población General;Occidente
-Renca;Única;10998;Población General;Occidente
+Renca;Única;11151;Población General;Occidente
 San Bernardo;1° dosis;1004;Población General;Sur
 San Bernardo;EPRO;3;Población General;Sur
-San Bernardo;Única;23773;Población General;Sur
+San Bernardo;Única;24056;Población General;Sur
 San Joaquín;1° dosis;481;Población General;Sur
 San Joaquín;2° dosis;1;Población General;Sur
 San Joaquín;EPRO;2;Población General;Sur
-San Joaquín;Única;12159;Población General;Sur
+San Joaquín;Única;12357;Población General;Sur
 San José de Maipo;1° dosis;69;Población General;Suroriente
-San José de Maipo;Única;2292;Población General;Suroriente
+San José de Maipo;Única;2327;Población General;Suroriente
 San Miguel;1° dosis;384;Población General;Sur
 San Miguel;2° dosis;1;Población General;Sur
 San Miguel;EPRO;1;Población General;Sur
-San Miguel;Única;18156;Población General;Sur
+San Miguel;Única;18362;Población General;Sur
 San Pedro;1° dosis;35;Población General;Occidente
-San Pedro;Única;1654;Población General;Occidente
+San Pedro;Única;1672;Población General;Occidente
 San Ramón;1° dosis;261;Población General;Suroriente
 San Ramón;EPRO;2;Población General;Suroriente
-San Ramón;Única;10667;Población General;Suroriente
+San Ramón;Única;10796;Población General;Suroriente
 Santiago;1° dosis;1106;Población General;Central
 Santiago;2° dosis;2;Población General;Central
 Santiago;EPRO;5;Población General;Central
-Santiago;Única;37211;Población General;Central
+Santiago;Única;37528;Población General;Central
 Talagante;1° dosis;343;Población General;Occidente
 Talagante;2° dosis;2;Población General;Occidente
 Talagante;EPRO;1;Población General;Occidente
-Talagante;Única;8018;Población General;Occidente
+Talagante;Única;8126;Población General;Occidente
 Tiltil;1° dosis;113;Población General;Norte
 Tiltil;EPRO;1;Población General;Norte
-Tiltil;Única;3221;Población General;Norte
+Tiltil;Única;3258;Población General;Norte
 Vitacura;1° dosis;515;Población General;Oriente
-Vitacura;Única;13337;Población General;Oriente
+Vitacura;Única;13386;Población General;Oriente
 Ñuñoa;1° dosis;445;Población General;Oriente
 Ñuñoa;2° dosis;1;Población General;Oriente
-Ñuñoa;EPRO;3;Población General;Oriente
-Ñuñoa;Única;17034;Población General;Oriente
-Alhué;Única;456;Personas mayores de 65 años y más;Occidente
+Ñuñoa;EPRO;4;Población General;Oriente
+Ñuñoa;Única;17275;Población General;Oriente
+Alhué;Única;460;Personas mayores de 65 años y más;Occidente
 Buin;EPRO;3;Personas mayores de 65 años y más;Sur
-Buin;Única;3722;Personas mayores de 65 años y más;Sur
+Buin;Única;3853;Personas mayores de 65 años y más;Sur
 Calera de Tango;EPRO;1;Personas mayores de 65 años y más;Sur
-Calera de Tango;Única;916;Personas mayores de 65 años y más;Sur
-Cerrillos;Única;3388;Personas mayores de 65 años y más;Central
-Cerro Navia;Única;4598;Personas mayores de 65 años y más;Occidente
+Calera de Tango;Única;959;Personas mayores de 65 años y más;Sur
+Cerrillos;Única;3493;Personas mayores de 65 años y más;Central
+Cerro Navia;Única;4773;Personas mayores de 65 años y más;Occidente
 Colina;EPRO;1;Personas mayores de 65 años y más;Norte
-Colina;Única;3714;Personas mayores de 65 años y más;Norte
-Conchalí;Única;6220;Personas mayores de 65 años y más;Norte
-Curacaví;Única;1234;Personas mayores de 65 años y más;Occidente
-El Bosque;Única;8450;Personas mayores de 65 años y más;Sur
-El Monte;Única;991;Personas mayores de 65 años y más;Occidente
+Colina;Única;3859;Personas mayores de 65 años y más;Norte
+Conchalí;Única;6403;Personas mayores de 65 años y más;Norte
+Curacaví;Única;1276;Personas mayores de 65 años y más;Occidente
+El Bosque;Única;8758;Personas mayores de 65 años y más;Sur
+El Monte;Única;1024;Personas mayores de 65 años y más;Occidente
 Estación Central;EPRO;3;Personas mayores de 65 años y más;Central
-Estación Central;Única;5123;Personas mayores de 65 años y más;Central
+Estación Central;Única;5293;Personas mayores de 65 años y más;Central
 Huechuraba;EPRO;1;Personas mayores de 65 años y más;Norte
-Huechuraba;Única;4257;Personas mayores de 65 años y más;Norte
+Huechuraba;Única;4415;Personas mayores de 65 años y más;Norte
 Independencia;EPRO;1;Personas mayores de 65 años y más;Norte
-Independencia;Única;4576;Personas mayores de 65 años y más;Norte
+Independencia;Única;4741;Personas mayores de 65 años y más;Norte
 Isla de Maipo;EPRO;2;Personas mayores de 65 años y más;Occidente
-Isla de Maipo;Única;1801;Personas mayores de 65 años y más;Occidente
-La Cisterna;Única;4867;Personas mayores de 65 años y más;Sur
+Isla de Maipo;Única;1885;Personas mayores de 65 años y más;Occidente
+La Cisterna;Única;5007;Personas mayores de 65 años y más;Sur
 La Florida;EPRO;3;Personas mayores de 65 años y más;Suroriente
-La Florida;Única;17298;Personas mayores de 65 años y más;Suroriente
-La Granja;EPRO;7;Personas mayores de 65 años y más;Suroriente
-La Granja;Única;6483;Personas mayores de 65 años y más;Suroriente
-La Pintana;Única;5203;Personas mayores de 65 años y más;Suroriente
+La Florida;Única;17752;Personas mayores de 65 años y más;Suroriente
+La Granja;EPRO;8;Personas mayores de 65 años y más;Suroriente
+La Granja;Única;6768;Personas mayores de 65 años y más;Suroriente
+La Pintana;Única;5392;Personas mayores de 65 años y más;Suroriente
 La Reina;EPRO;1;Personas mayores de 65 años y más;Oriente
-La Reina;Única;4676;Personas mayores de 65 años y más;Oriente
-Lampa;Única;2442;Personas mayores de 65 años y más;Norte
+La Reina;Única;4789;Personas mayores de 65 años y más;Oriente
+Lampa;Única;2556;Personas mayores de 65 años y más;Norte
 Las Condes;EPRO;1;Personas mayores de 65 años y más;Oriente
-Las Condes;Única;17121;Personas mayores de 65 años y más;Oriente
-Lo Barnechea;Única;3610;Personas mayores de 65 años y más;Oriente
-Lo Espejo;Única;3454;Personas mayores de 65 años y más;Sur
+Las Condes;Única;17352;Personas mayores de 65 años y más;Oriente
+Lo Barnechea;Única;3696;Personas mayores de 65 años y más;Oriente
+Lo Espejo;Única;3590;Personas mayores de 65 años y más;Sur
 Lo Prado;EPRO;1;Personas mayores de 65 años y más;Occidente
-Lo Prado;Única;7055;Personas mayores de 65 años y más;Occidente
+Lo Prado;Única;7268;Personas mayores de 65 años y más;Occidente
 Macul;EPRO;8;Personas mayores de 65 años y más;Oriente
-Macul;Única;5561;Personas mayores de 65 años y más;Oriente
+Macul;Única;5702;Personas mayores de 65 años y más;Oriente
 Maipú;EPRO;8;Personas mayores de 65 años y más;Central
-Maipú;Única;21007;Personas mayores de 65 años y más;Central
-María Pinto;Única;833;Personas mayores de 65 años y más;Occidente
+Maipú;Única;21766;Personas mayores de 65 años y más;Central
+María Pinto;Única;855;Personas mayores de 65 años y más;Occidente
 Melipilla;EPRO;3;Personas mayores de 65 años y más;Occidente
-Melipilla;Única;6152;Personas mayores de 65 años y más;Occidente
-Padre Hurtado;Única;1910;Personas mayores de 65 años y más;Occidente
-Paine;Única;2825;Personas mayores de 65 años y más;Sur
-Pedro Aguirre Cerda;Única;5578;Personas mayores de 65 años y más;Sur
-Peñaflor;Única;3602;Personas mayores de 65 años y más;Occidente
+Melipilla;Única;6399;Personas mayores de 65 años y más;Occidente
+Padre Hurtado;Única;1959;Personas mayores de 65 años y más;Occidente
+Paine;Única;2940;Personas mayores de 65 años y más;Sur
+Pedro Aguirre Cerda;Única;5798;Personas mayores de 65 años y más;Sur
+Peñaflor;Única;3748;Personas mayores de 65 años y más;Occidente
 Peñalolén;EPRO;7;Personas mayores de 65 años y más;Oriente
-Peñalolén;Única;9371;Personas mayores de 65 años y más;Oriente
+Peñalolén;Única;9652;Personas mayores de 65 años y más;Oriente
 Pirque;EPRO;1;Personas mayores de 65 años y más;Suroriente
-Pirque;Única;1249;Personas mayores de 65 años y más;Suroriente
+Pirque;Única;1289;Personas mayores de 65 años y más;Suroriente
 Providencia;EPRO;4;Personas mayores de 65 años y más;Oriente
-Providencia;Única;7690;Personas mayores de 65 años y más;Oriente
-Pudahuel;Única;9034;Personas mayores de 65 años y más;Occidente
+Providencia;Única;7844;Personas mayores de 65 años y más;Oriente
+Pudahuel;Única;9317;Personas mayores de 65 años y más;Occidente
 Puente Alto;EPRO;4;Personas mayores de 65 años y más;Suroriente
-Puente Alto;Única;17061;Personas mayores de 65 años y más;Suroriente
-Quilicura;Única;5131;Personas mayores de 65 años y más;Norte
-Quinta Normal;Única;4924;Personas mayores de 65 años y más;Occidente
-Recoleta;Única;6601;Personas mayores de 65 años y más;Norte
+Puente Alto;Única;17853;Personas mayores de 65 años y más;Suroriente
+Quilicura;EPRO;1;Personas mayores de 65 años y más;Norte
+Quilicura;Única;5383;Personas mayores de 65 años y más;Norte
+Quinta Normal;Única;5050;Personas mayores de 65 años y más;Occidente
+Recoleta;Única;6803;Personas mayores de 65 años y más;Norte
 Renca;EPRO;1;Personas mayores de 65 años y más;Occidente
-Renca;Única;4488;Personas mayores de 65 años y más;Occidente
-San Bernardo;Única;7466;Personas mayores de 65 años y más;Sur
+Renca;Única;4641;Personas mayores de 65 años y más;Occidente
+San Bernardo;Única;7749;Personas mayores de 65 años y más;Sur
 San Joaquín;EPRO;2;Personas mayores de 65 años y más;Sur
-San Joaquín;Única;4649;Personas mayores de 65 años y más;Sur
-San José de Maipo;Única;834;Personas mayores de 65 años y más;Suroriente
-San Miguel;Única;6140;Personas mayores de 65 años y más;Sur
-San Pedro;Única;490;Personas mayores de 65 años y más;Occidente
+San Joaquín;Única;4847;Personas mayores de 65 años y más;Sur
+San José de Maipo;Única;869;Personas mayores de 65 años y más;Suroriente
+San Miguel;Única;6346;Personas mayores de 65 años y más;Sur
+San Pedro;Única;508;Personas mayores de 65 años y más;Occidente
 San Ramón;EPRO;1;Personas mayores de 65 años y más;Suroriente
-San Ramón;Única;3615;Personas mayores de 65 años y más;Suroriente
+San Ramón;Única;3744;Personas mayores de 65 años y más;Suroriente
 Santiago;EPRO;2;Personas mayores de 65 años y más;Central
-Santiago;Única;12272;Personas mayores de 65 años y más;Central
+Santiago;Única;12589;Personas mayores de 65 años y más;Central
 Talagante;EPRO;1;Personas mayores de 65 años y más;Occidente
-Talagante;Única;2664;Personas mayores de 65 años y más;Occidente
+Talagante;Única;2772;Personas mayores de 65 años y más;Occidente
 Tiltil;EPRO;1;Personas mayores de 65 años y más;Norte
-Tiltil;Única;991;Personas mayores de 65 años y más;Norte
-Vitacura;Única;5118;Personas mayores de 65 años y más;Oriente
-Ñuñoa;EPRO;1;Personas mayores de 65 años y más;Oriente
-Ñuñoa;Única;9453;Personas mayores de 65 años y más;Oriente
+Tiltil;Única;1028;Personas mayores de 65 años y más;Norte
+Vitacura;Única;5167;Personas mayores de 65 años y más;Oriente
+Ñuñoa;EPRO;2;Personas mayores de 65 años y más;Oriente
+Ñuñoa;Única;9694;Personas mayores de 65 años y más;Oriente
 Alhué;1° dosis;36;Niños y niñas de 6 meses a 5 años de edad;Occidente
 Alhué;Única;107;Niños y niñas de 6 meses a 5 años de edad;Occidente
 Buin;1° dosis;318;Niños y niñas de 6 meses a 5 años de edad;Sur

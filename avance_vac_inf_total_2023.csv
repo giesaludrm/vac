@@ -1,791 +1,611 @@
 Comuna;Criterio_elegibilidad;N° de vacunados;N° de vacunados_fil;Población objetivo;Avance vacunación;Servicio
-Alhué;Población General;1294;1294;4315;30.0;Occidente
-Buin;Población General;10874;10870;49777;21.8;Sur
-Calera de Tango;Población General;3152;3151;11769;26.8;Sur
-Cerrillos;Población General;7829;7828;37700;20.8;Central
-Cerro Navia;Población General;11851;11848;70538;16.8;Occidente
-Colina;Población General;14116;14113;69061;20.4;Norte
-Conchalí;Población General;11715;11715;55099;21.3;Norte
-Curacaví;Población General;2730;2730;15550;17.6;Occidente
-El Bosque;Población General;26063;26062;81250;32.1;Sur
-El Monte;Población General;2966;2965;18218;16.3;Occidente
-Estación Central;Población General;15420;15412;82377;18.7;Central
-Huechuraba;Población General;16537;16535;49277;33.6;Norte
-Independencia;Población General;16981;16975;59663;28.5;Norte
-Isla de Maipo;Población General;4895;4891;18269;26.8;Occidente
-La Cisterna;Población General;10654;10654;57432;18.6;Sur
-La Florida;Población General;36275;36269;155838;23.3;Suroriente
-La Granja;Población General;21949;21936;50245;43.7;Suroriente
-La Pintana;Población General;13021;12998;70278;18.5;Suroriente
-La Reina;Población General;12886;12885;43344;29.7;Oriente
-Lampa;Población General;8237;8233;49096;16.8;Norte
-Las Condes;Población General;37060;37059;132797;27.9;Oriente
-Lo Barnechea;Población General;11581;11580;43225;26.8;Oriente
-Lo Espejo;Población General;7961;7960;43769;18.2;Sur
-Lo Prado;Población General;16722;16718;50571;33.1;Occidente
-Macul;Población General;14629;14617;54434;26.9;Oriente
-Maipú;Población General;47666;47654;219646;21.7;Central
-María Pinto;Población General;2442;2441;6216;39.3;Occidente
-Melipilla;Población General;21153;21146;62962;33.6;Occidente
-Padre Hurtado;Población General;4575;4575;30508;15.0;Occidente
-Paine;Población General;7012;7009;42004;16.7;Sur
-Pedro Aguirre Cerda;Población General;12218;12216;44083;27.7;Sur
-Peñaflor;Población General;8236;8236;38091;21.6;Occidente
-Peñalolén;Población General;22577;22567;104742;21.5;Oriente
-Pirque;Población General;2823;2821;12409;22.7;Suroriente
-Providencia;Población General;27755;27748;78861;35.2;Oriente
-Pudahuel;Población General;27173;27166;123971;21.9;Occidente
-Puente Alto;Población General;49600;49589;226516;21.9;Suroriente
-Quilicura;Población General;22488;22478;86938;25.9;Norte
-Quinta Normal;Población General;21766;21761;57011;38.2;Occidente
-Recoleta;Población General;19134;19134;79389;24.1;Norte
-Renca;Población General;11423;11422;73834;15.5;Occidente
-San Bernardo;Población General;24799;24796;142627;17.4;Sur
-San Joaquín;Población General;12807;12804;48041;26.7;Sur
-San José de Maipo;Población General;2387;2387;8534;28.0;Suroriente
-San Miguel;Población General;18638;18636;65140;28.6;Sur
-San Pedro;Población General;1693;1693;7026;24.1;Occidente
-San Ramón;Población General;11036;11034;44042;25.1;Suroriente
-Santiago;Población General;38420;38413;173883;22.1;Central
-Talagante;Población General;8425;8422;35942;23.4;Occidente
-Tiltil;Población General;3362;3361;9742;34.5;Norte
-Vitacura;Población General;15061;15061;44616;33.8;Oriente
-Ñuñoa;Población General;17294;17289;117184;14.8;Oriente
-Alhué;Personas mayores de 65 años y más;460;460;1029;44.7;Occidente
-Buin;Personas mayores de 65 años y más;3856;3853;11563;33.3;Sur
-Calera de Tango;Personas mayores de 65 años y más;960;959;3243;29.6;Sur
-Cerrillos;Personas mayores de 65 años y más;3493;3493;11529;30.3;Central
-Cerro Navia;Personas mayores de 65 años y más;4773;4773;19912;24.0;Occidente
-Colina;Personas mayores de 65 años y más;3860;3859;13175;29.3;Norte
-Conchalí;Personas mayores de 65 años y más;6403;6403;21451;29.8;Norte
-Curacaví;Personas mayores de 65 años y más;1276;1276;5138;24.8;Occidente
-El Bosque;Personas mayores de 65 años y más;8758;8758;23840;36.7;Sur
-El Monte;Personas mayores de 65 años y más;1024;1024;4880;21.0;Occidente
-Estación Central;Personas mayores de 65 años y más;5296;5293;28595;18.5;Central
-Huechuraba;Personas mayores de 65 años y más;4416;4415;12637;34.9;Norte
-Independencia;Personas mayores de 65 años y más;4742;4741;18517;25.6;Norte
-Isla de Maipo;Personas mayores de 65 años y más;1887;1885;4884;38.6;Occidente
-La Cisterna;Personas mayores de 65 años y más;5007;5007;16370;30.6;Sur
-La Florida;Personas mayores de 65 años y más;17755;17752;59239;30.0;Suroriente
-La Granja;Personas mayores de 65 años y más;6776;6768;16446;41.2;Suroriente
-La Pintana;Personas mayores de 65 años y más;5392;5392;20063;26.9;Suroriente
-La Reina;Personas mayores de 65 años y más;4790;4789;16530;29.0;Oriente
-Lampa;Personas mayores de 65 años y más;2556;2556;9259;27.6;Norte
-Las Condes;Personas mayores de 65 años y más;17353;17352;59480;29.2;Oriente
-Lo Barnechea;Personas mayores de 65 años y más;3696;3696;11500;32.1;Oriente
-Lo Espejo;Personas mayores de 65 años y más;3590;3590;13671;26.3;Sur
-Lo Prado;Personas mayores de 65 años y más;7269;7268;17051;42.6;Occidente
-Macul;Personas mayores de 65 años y más;5710;5702;22587;25.2;Oriente
-Maipú;Personas mayores de 65 años y más;21774;21766;63302;34.4;Central
-María Pinto;Personas mayores de 65 años y más;855;855;2033;42.1;Occidente
-Melipilla;Personas mayores de 65 años y más;6402;6399;19249;33.2;Occidente
-Padre Hurtado;Personas mayores de 65 años y más;1959;1959;8104;24.2;Occidente
-Paine;Personas mayores de 65 años y más;2940;2940;9651;30.5;Sur
-Pedro Aguirre Cerda;Personas mayores de 65 años y más;5798;5798;16959;34.2;Sur
-Peñaflor;Personas mayores de 65 años y más;3748;3748;11995;31.2;Occidente
-Peñalolén;Personas mayores de 65 años y más;9659;9652;31965;30.2;Oriente
-Pirque;Personas mayores de 65 años y más;1290;1289;3764;34.2;Suroriente
-Providencia;Personas mayores de 65 años y más;7848;7844;27465;28.6;Oriente
-Pudahuel;Personas mayores de 65 años y más;9317;9317;25470;36.6;Occidente
-Puente Alto;Personas mayores de 65 años y más;17857;17853;58764;30.4;Suroriente
-Quilicura;Personas mayores de 65 años y más;5384;5383;17126;31.4;Norte
-Quinta Normal;Personas mayores de 65 años y más;5050;5050;20596;24.5;Occidente
-Recoleta;Personas mayores de 65 años y más;6803;6803;27948;24.3;Norte
-Renca;Personas mayores de 65 años y más;4642;4641;18781;24.7;Occidente
-San Bernardo;Personas mayores de 65 años y más;7749;7749;34582;22.4;Sur
-San Joaquín;Personas mayores de 65 años y más;4849;4847;17309;28.0;Sur
-San José de Maipo;Personas mayores de 65 años y más;869;869;2645;32.9;Suroriente
-San Miguel;Personas mayores de 65 años y más;6346;6346;20082;31.6;Sur
-San Pedro;Personas mayores de 65 años y más;508;508;1962;25.9;Occidente
-San Ramón;Personas mayores de 65 años y más;3745;3744;14027;26.7;Suroriente
-Santiago;Personas mayores de 65 años y más;12591;12589;46393;27.1;Central
-Talagante;Personas mayores de 65 años y más;2773;2772;9336;29.7;Occidente
-Tiltil;Personas mayores de 65 años y más;1029;1028;2648;38.8;Norte
-Vitacura;Personas mayores de 65 años y más;5167;5167;19228;26.9;Oriente
-Ñuñoa;Personas mayores de 65 años y más;9696;9694;41918;23.1;Oriente
-Alhué;Niños y niñas de 6 meses a 5 años de edad;35;35;545;6.4;Occidente
-Alhué;Niños y niñas de 6 meses a 5 años de edad;106;106;545;19.4;Occidente
-Buin;Niños y niñas de 6 meses a 5 años de edad;290;290;9008;3.2;Sur
-Buin;Niños y niñas de 6 meses a 5 años de edad;1001;1001;9008;11.1;Sur
-Calera de Tango;Niños y niñas de 6 meses a 5 años de edad;43;43;2007;2.1;Sur
-Calera de Tango;Niños y niñas de 6 meses a 5 años de edad;430;430;2007;21.4;Sur
-Cerrillos;Niños y niñas de 6 meses a 5 años de edad;226;226;6323;3.6;Central
-Cerrillos;Niños y niñas de 6 meses a 5 años de edad;647;647;6323;10.2;Central
-Cerro Navia;Niños y niñas de 6 meses a 5 años de edad;388;388;9498;4.1;Occidente
-Cerro Navia;Niños y niñas de 6 meses a 5 años de edad;1;0;9498;0.0;Occidente
-Cerro Navia;Niños y niñas de 6 meses a 5 años de edad;769;769;9498;8.1;Occidente
-Colina;Niños y niñas de 6 meses a 5 años de edad;897;897;18432;4.9;Norte
-Colina;Niños y niñas de 6 meses a 5 años de edad;1;0;18432;0.0;Norte
-Colina;Niños y niñas de 6 meses a 5 años de edad;3268;3268;18432;17.7;Norte
-Conchalí;Niños y niñas de 6 meses a 5 años de edad;224;224;8799;2.5;Norte
-Conchalí;Niños y niñas de 6 meses a 5 años de edad;571;571;8799;6.5;Norte
-Curacaví;Niños y niñas de 6 meses a 5 años de edad;94;94;2693;3.5;Occidente
-Curacaví;Niños y niñas de 6 meses a 5 años de edad;211;211;2693;7.8;Occidente
-El Bosque;Niños y niñas de 6 meses a 5 años de edad;577;577;11587;5.0;Sur
-El Bosque;Niños y niñas de 6 meses a 5 años de edad;3446;3446;11587;29.7;Sur
-El Monte;Niños y niñas de 6 meses a 5 años de edad;59;59;3365;1.8;Occidente
-El Monte;Niños y niñas de 6 meses a 5 años de edad;154;154;3365;4.6;Occidente
-Estación Central;Niños y niñas de 6 meses a 5 años de edad;658;658;13311;4.9;Central
-Estación Central;Niños y niñas de 6 meses a 5 años de edad;3;0;13311;0.0;Central
-Estación Central;Niños y niñas de 6 meses a 5 años de edad;1233;1233;13311;9.3;Central
-Huechuraba;Niños y niñas de 6 meses a 5 años de edad;565;565;9101;6.2;Norte
-Huechuraba;Niños y niñas de 6 meses a 5 años de edad;1801;1801;9101;19.8;Norte
-Independencia;Niños y niñas de 6 meses a 5 años de edad;285;285;9773;2.9;Norte
-Independencia;Niños y niñas de 6 meses a 5 años de edad;1;0;9773;0.0;Norte
-Independencia;Niños y niñas de 6 meses a 5 años de edad;813;813;9773;8.3;Norte
-Isla de Maipo;Niños y niñas de 6 meses a 5 años de edad;91;91;3138;2.9;Occidente
-Isla de Maipo;Niños y niñas de 6 meses a 5 años de edad;1;0;3138;0.0;Occidente
-Isla de Maipo;Niños y niñas de 6 meses a 5 años de edad;458;458;3138;14.6;Occidente
-La Cisterna;Niños y niñas de 6 meses a 5 años de edad;198;198;6145;3.2;Sur
-La Cisterna;Niños y niñas de 6 meses a 5 años de edad;663;663;6145;10.8;Sur
-La Florida;Niños y niñas de 6 meses a 5 años de edad;892;892;25045;3.6;Suroriente
-La Florida;Niños y niñas de 6 meses a 5 años de edad;2;0;25045;0.0;Suroriente
-La Florida;Niños y niñas de 6 meses a 5 años de edad;2847;2847;25045;11.4;Suroriente
-La Granja;Niños y niñas de 6 meses a 5 años de edad;603;603;8026;7.5;Suroriente
-La Granja;Niños y niñas de 6 meses a 5 años de edad;1;0;8026;0.0;Suroriente
-La Granja;Niños y niñas de 6 meses a 5 años de edad;3347;3347;8026;41.7;Suroriente
-La Pintana;Niños y niñas de 6 meses a 5 años de edad;335;335;15233;2.2;Suroriente
-La Pintana;Niños y niñas de 6 meses a 5 años de edad;22;0;15233;0.0;Suroriente
-La Pintana;Niños y niñas de 6 meses a 5 años de edad;1131;1131;15233;7.4;Suroriente
-La Reina;Niños y niñas de 6 meses a 5 años de edad;305;305;5786;5.3;Oriente
-La Reina;Niños y niñas de 6 meses a 5 años de edad;1450;1450;5786;25.1;Oriente
-Lampa;Niños y niñas de 6 meses a 5 años de edad;378;378;13038;2.9;Norte
-Lampa;Niños y niñas de 6 meses a 5 años de edad;3;0;13038;0.0;Norte
-Lampa;Niños y niñas de 6 meses a 5 años de edad;1105;1105;13038;8.5;Norte
-Las Condes;Niños y niñas de 6 meses a 5 años de edad;660;660;18660;3.5;Oriente
-Las Condes;Niños y niñas de 6 meses a 5 años de edad;2587;2587;18660;13.9;Oriente
-Lo Barnechea;Niños y niñas de 6 meses a 5 años de edad;462;462;9484;4.9;Oriente
-Lo Barnechea;Niños y niñas de 6 meses a 5 años de edad;1;0;9484;0.0;Oriente
-Lo Barnechea;Niños y niñas de 6 meses a 5 años de edad;1825;1825;9484;19.2;Oriente
-Lo Espejo;Niños y niñas de 6 meses a 5 años de edad;158;158;6918;2.3;Sur
-Lo Espejo;Niños y niñas de 6 meses a 5 años de edad;662;662;6918;9.6;Sur
-Lo Prado;Niños y niñas de 6 meses a 5 años de edad;327;327;6274;5.2;Occidente
-Lo Prado;Niños y niñas de 6 meses a 5 años de edad;1;0;6274;0.0;Occidente
-Lo Prado;Niños y niñas de 6 meses a 5 años de edad;1197;1197;6274;19.1;Occidente
-Macul;Niños y niñas de 6 meses a 5 años de edad;447;447;7965;5.6;Oriente
-Macul;Niños y niñas de 6 meses a 5 años de edad;1;0;7965;0.0;Oriente
-Macul;Niños y niñas de 6 meses a 5 años de edad;1;0;7965;0.0;Oriente
-Macul;Niños y niñas de 6 meses a 5 años de edad;1292;1292;7965;16.2;Oriente
-Maipú;Niños y niñas de 6 meses a 5 años de edad;839;839;37526;2.2;Central
-Maipú;Niños y niñas de 6 meses a 5 años de edad;1;0;37526;0.0;Central
-Maipú;Niños y niñas de 6 meses a 5 años de edad;1;0;37526;0.0;Central
-Maipú;Niños y niñas de 6 meses a 5 años de edad;2871;2871;37526;7.7;Central
-María Pinto;Niños y niñas de 6 meses a 5 años de edad;34;34;1074;3.2;Occidente
-María Pinto;Niños y niñas de 6 meses a 5 años de edad;229;229;1074;21.3;Occidente
-Melipilla;Niños y niñas de 6 meses a 5 años de edad;531;531;10543;5.0;Occidente
-Melipilla;Niños y niñas de 6 meses a 5 años de edad;1;0;10543;0.0;Occidente
-Melipilla;Niños y niñas de 6 meses a 5 años de edad;2547;2547;10543;24.2;Occidente
-Padre Hurtado;Niños y niñas de 6 meses a 5 años de edad;104;104;6428;1.6;Occidente
-Padre Hurtado;Niños y niñas de 6 meses a 5 años de edad;320;320;6428;5.0;Occidente
-Paine;Niños y niñas de 6 meses a 5 años de edad;232;232;6370;3.6;Sur
-Paine;Niños y niñas de 6 meses a 5 años de edad;2;0;6370;0.0;Sur
-Paine;Niños y niñas de 6 meses a 5 años de edad;523;523;6370;8.2;Sur
-Pedro Aguirre Cerda;Niños y niñas de 6 meses a 5 años de edad;259;259;6459;4.0;Sur
-Pedro Aguirre Cerda;Niños y niñas de 6 meses a 5 años de edad;2;0;6459;0.0;Sur
-Pedro Aguirre Cerda;Niños y niñas de 6 meses a 5 años de edad;894;894;6459;13.8;Sur
-Peñaflor;Niños y niñas de 6 meses a 5 años de edad;142;142;7887;1.8;Occidente
-Peñaflor;Niños y niñas de 6 meses a 5 años de edad;371;371;7887;4.7;Occidente
-Peñalolén;Niños y niñas de 6 meses a 5 años de edad;481;481;17931;2.7;Oriente
-Peñalolén;Niños y niñas de 6 meses a 5 años de edad;1455;1455;17931;8.1;Oriente
-Pirque;Niños y niñas de 6 meses a 5 años de edad;30;30;2316;1.3;Suroriente
-Pirque;Niños y niñas de 6 meses a 5 años de edad;129;129;2316;5.6;Suroriente
-Providencia;Niños y niñas de 6 meses a 5 años de edad;813;813;8315;9.8;Oriente
-Providencia;Niños y niñas de 6 meses a 5 años de edad;1;0;8315;0.0;Oriente
-Providencia;Niños y niñas de 6 meses a 5 años de edad;1919;1919;8315;23.1;Oriente
-Pudahuel;Niños y niñas de 6 meses a 5 años de edad;540;540;18904;2.9;Occidente
-Pudahuel;Niños y niñas de 6 meses a 5 años de edad;1;0;18904;0.0;Occidente
-Pudahuel;Niños y niñas de 6 meses a 5 años de edad;2193;2193;18904;11.6;Occidente
-Puente Alto;Niños y niñas de 6 meses a 5 años de edad;977;977;49003;2.0;Suroriente
-Puente Alto;Niños y niñas de 6 meses a 5 años de edad;3;0;49003;0.0;Suroriente
-Puente Alto;Niños y niñas de 6 meses a 5 años de edad;2;0;49003;0.0;Suroriente
-Puente Alto;Niños y niñas de 6 meses a 5 años de edad;5118;5118;49003;10.4;Suroriente
-Quilicura;Niños y niñas de 6 meses a 5 años de edad;755;755;20204;3.7;Norte
-Quilicura;Niños y niñas de 6 meses a 5 años de edad;1;0;20204;0.0;Norte
-Quilicura;Niños y niñas de 6 meses a 5 años de edad;1;0;20204;0.0;Norte
-Quilicura;Niños y niñas de 6 meses a 5 años de edad;3303;3303;20204;16.3;Norte
-Quinta Normal;Niños y niñas de 6 meses a 5 años de edad;952;952;8536;11.2;Occidente
-Quinta Normal;Niños y niñas de 6 meses a 5 años de edad;2234;2234;8536;26.2;Occidente
-Recoleta;Niños y niñas de 6 meses a 5 años de edad;538;538;12275;4.4;Norte
-Recoleta;Niños y niñas de 6 meses a 5 años de edad;1681;1681;12275;13.7;Norte
-Renca;Niños y niñas de 6 meses a 5 años de edad;265;265;12275;2.2;Occidente
-Renca;Niños y niñas de 6 meses a 5 años de edad;854;854;12275;7.0;Occidente
-San Bernardo;Niños y niñas de 6 meses a 5 años de edad;604;604;26806;2.3;Sur
-San Bernardo;Niños y niñas de 6 meses a 5 años de edad;2450;2450;26806;9.1;Sur
-San Joaquín;Niños y niñas de 6 meses a 5 años de edad;341;341;6167;5.5;Sur
-San Joaquín;Niños y niñas de 6 meses a 5 años de edad;1;0;6167;0.0;Sur
-San Joaquín;Niños y niñas de 6 meses a 5 años de edad;1374;1374;6167;22.3;Sur
-San José de Maipo;Niños y niñas de 6 meses a 5 años de edad;41;41;1257;3.3;Suroriente
-San José de Maipo;Niños y niñas de 6 meses a 5 años de edad;144;144;1257;11.5;Suroriente
-San Miguel;Niños y niñas de 6 meses a 5 años de edad;224;224;8809;2.5;Sur
-San Miguel;Niños y niñas de 6 meses a 5 años de edad;1;0;8809;0.0;Sur
-San Miguel;Niños y niñas de 6 meses a 5 años de edad;1;0;8809;0.0;Sur
-San Miguel;Niños y niñas de 6 meses a 5 años de edad;1102;1102;8809;12.5;Sur
-San Pedro;Niños y niñas de 6 meses a 5 años de edad;32;32;904;3.5;Occidente
-San Pedro;Niños y niñas de 6 meses a 5 años de edad;44;44;904;4.9;Occidente
-San Ramón;Niños y niñas de 6 meses a 5 años de edad;203;203;5561;3.7;Suroriente
-San Ramón;Niños y niñas de 6 meses a 5 años de edad;980;980;5561;17.6;Suroriente
-Santiago;Niños y niñas de 6 meses a 5 años de edad;869;869;26174;3.3;Central
-Santiago;Niños y niñas de 6 meses a 5 años de edad;2;0;26174;0.0;Central
-Santiago;Niños y niñas de 6 meses a 5 años de edad;2130;2130;26174;8.1;Central
-Talagante;Niños y niñas de 6 meses a 5 años de edad;240;240;6323;3.8;Occidente
-Talagante;Niños y niñas de 6 meses a 5 años de edad;2;0;6323;0.0;Occidente
-Talagante;Niños y niñas de 6 meses a 5 años de edad;624;624;6323;9.9;Occidente
-Tiltil;Niños y niñas de 6 meses a 5 años de edad;78;78;1647;4.7;Norte
-Tiltil;Niños y niñas de 6 meses a 5 años de edad;314;314;1647;19.1;Norte
-Vitacura;Niños y niñas de 6 meses a 5 años de edad;607;607;6172;9.8;Oriente
-Vitacura;Niños y niñas de 6 meses a 5 años de edad;1897;1897;6172;30.7;Oriente
-Ñuñoa;Niños y niñas de 6 meses a 5 años de edad;339;339;14808;2.3;Oriente
-Ñuñoa;Niños y niñas de 6 meses a 5 años de edad;1;0;14808;0.0;Oriente
-Ñuñoa;Niños y niñas de 6 meses a 5 años de edad;851;851;14808;5.7;Oriente
-Alhué;Estrategia Capullo;12;12;29;41.4;Occidente
-Buin;Estrategia Capullo;59;59;359;16.4;Sur
-Calera de Tango;Estrategia Capullo;1;1;64;1.6;Sur
-Cerrillos;Estrategia Capullo;3;3;185;1.6;Central
-Cerro Navia;Estrategia Capullo;27;27;351;7.7;Occidente
-Colina;Estrategia Capullo;4;4;522;0.8;Norte
-Conchalí;Estrategia Capullo;10;10;282;3.5;Norte
-Curacaví;Estrategia Capullo;9;9;88;10.2;Occidente
-El Bosque;Estrategia Capullo;46;46;359;12.8;Sur
-El Monte;Estrategia Capullo;1;1;100;1.0;Occidente
-Estación Central;Estrategia Capullo;9;9;545;1.7;Central
-Huechuraba;Estrategia Capullo;47;47;224;21.0;Norte
-Independencia;Estrategia Capullo;16;16;348;4.6;Norte
-Isla de Maipo;Estrategia Capullo;13;13;90;14.4;Occidente
-La Cisterna;Estrategia Capullo;43;43;235;18.3;Sur
-La Florida;Estrategia Capullo;24;24;828;2.9;Suroriente
-La Granja;Estrategia Capullo;4;4;251;1.6;Suroriente
-La Pintana;Estrategia Capullo;17;17;478;3.6;Suroriente
-La Reina;Estrategia Capullo;21;21;157;13.4;Oriente
-Lampa;Estrategia Capullo;9;9;450;2.0;Norte
-Las Condes;Estrategia Capullo;31;31;736;4.2;Oriente
-Lo Barnechea;Estrategia Capullo;11;11;272;4.0;Oriente
-Lo Espejo;Estrategia Capullo;9;9;231;3.9;Sur
-Lo Prado;Estrategia Capullo;1;1;192;0.5;Occidente
-Macul;Estrategia Capullo;8;8;275;2.9;Oriente
-Maipú;Estrategia Capullo;26;26;1020;2.5;Central
-Melipilla;Estrategia Capullo;35;35;409;8.6;Occidente
-Paine;Estrategia Capullo;22;22;205;10.7;Sur
-Pedro Aguirre Cerda;Estrategia Capullo;22;22;216;10.2;Sur
-Peñaflor;Estrategia Capullo;14;14;218;6.4;Occidente
-Peñalolén;Estrategia Capullo;11;11;484;2.3;Oriente
-Providencia;Estrategia Capullo;19;19;362;5.2;Oriente
-Pudahuel;Estrategia Capullo;11;11;507;2.2;Occidente
-Puente Alto;Estrategia Capullo;31;31;1266;2.4;Suroriente
-Quilicura;Estrategia Capullo;86;86;534;16.1;Norte
-Quinta Normal;Estrategia Capullo;3;3;331;0.9;Occidente
-Recoleta;Estrategia Capullo;29;29;400;7.2;Norte
-Renca;Estrategia Capullo;33;33;380;8.7;Occidente
-San Bernardo;Estrategia Capullo;32;32;811;3.9;Sur
-San Joaquín;Estrategia Capullo;24;24;205;11.7;Sur
-San José de Maipo;Estrategia Capullo;1;1;38;2.6;Suroriente
-San Miguel;Estrategia Capullo;17;17;428;4.0;Sur
-San Ramón;Estrategia Capullo;5;5;193;2.6;Suroriente
-Santiago;Estrategia Capullo;45;45;1090;4.1;Central
-Talagante;Estrategia Capullo;1;1;191;0.5;Occidente
-Tiltil;Estrategia Capullo;31;31;63;49.2;Norte
-Vitacura;Estrategia Capullo;4;4;320;1.2;Oriente
-Ñuñoa;Estrategia Capullo;17;17;564;3.0;Oriente
-Alhué;Enfermos cronicos de 11 a 64 años de edad;479;479;1635;29.3;Occidente
-Buin;Enfermos cronicos de 11 a 64 años de edad;1;0;14848;0.0;Sur
-Buin;Enfermos cronicos de 11 a 64 años de edad;3090;3090;14848;20.8;Sur
-Calera de Tango;Enfermos cronicos de 11 a 64 años de edad;630;630;2868;22.0;Sur
-Cerrillos;Enfermos cronicos de 11 a 64 años de edad;2181;2181;10866;20.1;Central
-Cerro Navia;Enfermos cronicos de 11 a 64 años de edad;3827;3827;25624;14.9;Occidente
-Colina;Enfermos cronicos de 11 a 64 años de edad;1;0;9728;0.0;Norte
-Colina;Enfermos cronicos de 11 a 64 años de edad;2881;2881;9728;29.6;Norte
-Conchalí;Enfermos cronicos de 11 a 64 años de edad;3025;3025;11359;26.6;Norte
-Curacaví;Enfermos cronicos de 11 a 64 años de edad;718;718;3190;22.5;Occidente
-El Bosque;Enfermos cronicos de 11 a 64 años de edad;1;0;23609;0.0;Sur
-El Bosque;Enfermos cronicos de 11 a 64 años de edad;6348;6348;23609;26.9;Sur
-El Monte;Enfermos cronicos de 11 a 64 años de edad;669;669;3913;17.1;Occidente
-Estación Central;Enfermos cronicos de 11 a 64 años de edad;2;0;14144;0.0;Central
-Estación Central;Enfermos cronicos de 11 a 64 años de edad;3076;3076;14144;21.7;Central
-Huechuraba;Enfermos cronicos de 11 a 64 años de edad;1;0;13130;0.0;Norte
-Huechuraba;Enfermos cronicos de 11 a 64 años de edad;5025;5025;13130;38.3;Norte
-Independencia;Enfermos cronicos de 11 a 64 años de edad;3;0;7570;0.0;Norte
-Independencia;Enfermos cronicos de 11 a 64 años de edad;2253;2253;7570;29.8;Norte
-Isla de Maipo;Enfermos cronicos de 11 a 64 años de edad;1;0;4333;0.0;Occidente
-Isla de Maipo;Enfermos cronicos de 11 a 64 años de edad;1344;1344;4333;31.0;Occidente
-La Cisterna;Enfermos cronicos de 11 a 64 años de edad;2777;2777;21423;13.0;Sur
-La Florida;Enfermos cronicos de 11 a 64 años de edad;6146;6146;26334;23.3;Suroriente
-La Granja;Enfermos cronicos de 11 a 64 años de edad;3;0;12293;0.0;Suroriente
-La Granja;Enfermos cronicos de 11 a 64 años de edad;4408;4408;12293;35.9;Suroriente
-La Pintana;Enfermos cronicos de 11 a 64 años de edad;3380;3380;11488;29.4;Suroriente
-La Reina;Enfermos cronicos de 11 a 64 años de edad;1565;1565;5964;26.2;Oriente
-Lampa;Enfermos cronicos de 11 a 64 años de edad;1;0;10188;0.0;Norte
-Lampa;Enfermos cronicos de 11 a 64 años de edad;2395;2395;10188;23.5;Norte
-Las Condes;Enfermos cronicos de 11 a 64 años de edad;3970;3970;13308;29.8;Oriente
-Lo Barnechea;Enfermos cronicos de 11 a 64 años de edad;1308;1308;4315;30.3;Oriente
-Lo Espejo;Enfermos cronicos de 11 a 64 años de edad;2160;2160;9839;22.0;Sur
-Lo Prado;Enfermos cronicos de 11 a 64 años de edad;1;0;15844;0.0;Occidente
-Lo Prado;Enfermos cronicos de 11 a 64 años de edad;4477;4477;15844;28.3;Occidente
-Macul;Enfermos cronicos de 11 a 64 años de edad;2192;2192;10393;21.1;Oriente
-Maipú;Enfermos cronicos de 11 a 64 años de edad;13201;13201;59580;22.2;Central
-María Pinto;Enfermos cronicos de 11 a 64 años de edad;1;0;1377;0.0;Occidente
-María Pinto;Enfermos cronicos de 11 a 64 años de edad;534;534;1377;38.8;Occidente
-Melipilla;Enfermos cronicos de 11 a 64 años de edad;2;0;14542;0.0;Occidente
-Melipilla;Enfermos cronicos de 11 a 64 años de edad;4324;4324;14542;29.7;Occidente
-Padre Hurtado;Enfermos cronicos de 11 a 64 años de edad;1422;1422;7107;20.0;Occidente
-Paine;Enfermos cronicos de 11 a 64 años de edad;1;0;12549;0.0;Sur
-Paine;Enfermos cronicos de 11 a 64 años de edad;2406;2406;12549;19.2;Sur
-Pedro Aguirre Cerda;Enfermos cronicos de 11 a 64 años de edad;2849;2849;9059;31.4;Sur
-Peñaflor;Enfermos cronicos de 11 a 64 años de edad;2113;2113;5564;38.0;Occidente
-Peñalolén;Enfermos cronicos de 11 a 64 años de edad;2;0;23453;0.0;Oriente
-Peñalolén;Enfermos cronicos de 11 a 64 años de edad;5504;5504;23453;23.5;Oriente
-Pirque;Enfermos cronicos de 11 a 64 años de edad;732;732;2689;27.2;Suroriente
-Providencia;Enfermos cronicos de 11 a 64 años de edad;1986;1986;8204;24.2;Oriente
-Pudahuel;Enfermos cronicos de 11 a 64 años de edad;4;0;52464;0.0;Occidente
-Pudahuel;Enfermos cronicos de 11 a 64 años de edad;9663;9663;52464;18.4;Occidente
-Puente Alto;Enfermos cronicos de 11 a 64 años de edad;2;0;42689;0.0;Suroriente
-Puente Alto;Enfermos cronicos de 11 a 64 años de edad;12574;12574;42689;29.5;Suroriente
-Quilicura;Enfermos cronicos de 11 a 64 años de edad;1;0;20694;0.0;Norte
-Quilicura;Enfermos cronicos de 11 a 64 años de edad;5397;5397;20694;26.1;Norte
-Quinta Normal;Enfermos cronicos de 11 a 64 años de edad;2923;2923;11992;24.4;Occidente
-Recoleta;Enfermos cronicos de 11 a 64 años de edad;4512;4512;14969;30.1;Norte
-Renca;Enfermos cronicos de 11 a 64 años de edad;3273;3273;17990;18.2;Occidente
-San Bernardo;Enfermos cronicos de 11 a 64 años de edad;1;0;33169;0.0;Sur
-San Bernardo;Enfermos cronicos de 11 a 64 años de edad;5260;5260;33169;15.9;Sur
-San Joaquín;Enfermos cronicos de 11 a 64 años de edad;2667;2667;11675;22.8;Sur
-San José de Maipo;Enfermos cronicos de 11 a 64 años de edad;502;502;1832;27.4;Suroriente
-San Miguel;Enfermos cronicos de 11 a 64 años de edad;3293;3293;15660;21.0;Sur
-San Pedro;Enfermos cronicos de 11 a 64 años de edad;314;314;1378;22.8;Occidente
-San Ramón;Enfermos cronicos de 11 a 64 años de edad;2446;2446;11538;21.2;Suroriente
-Santiago;Enfermos cronicos de 11 a 64 años de edad;2;0;40049;0.0;Central
-Santiago;Enfermos cronicos de 11 a 64 años de edad;7667;7667;40049;19.1;Central
-Talagante;Enfermos cronicos de 11 a 64 años de edad;2051;2051;7248;28.3;Occidente
-Tiltil;Enfermos cronicos de 11 a 64 años de edad;772;772;1681;45.9;Norte
-Vitacura;Enfermos cronicos de 11 a 64 años de edad;783;783;2373;33.0;Oriente
-Ñuñoa;Enfermos cronicos de 11 a 64 años de edad;1;0;12444;0.0;Oriente
-Ñuñoa;Enfermos cronicos de 11 a 64 años de edad;3197;3197;12444;25.7;Oriente
-Alhué;Escolares de 1° a 5° año básico;53;53;485;10.9;Occidente
-Buin;Escolares de 1° a 5° año básico;12;12;8234;0.1;Sur
-Buin;Escolares de 1° a 5° año básico;537;537;8234;6.5;Sur
-Calera de Tango;Escolares de 1° a 5° año básico;1;1;2025;0.0;Sur
-Calera de Tango;Escolares de 1° a 5° año básico;701;701;2025;34.6;Sur
-Cerrillos;Escolares de 1° a 5° año básico;44;44;5715;0.8;Central
-Cerrillos;Escolares de 1° a 5° año básico;576;576;5715;10.1;Central
-Cerro Navia;Escolares de 1° a 5° año básico;103;103;8599;1.2;Occidente
-Cerro Navia;Escolares de 1° a 5° año básico;1;0;8599;0.0;Occidente
-Cerro Navia;Escolares de 1° a 5° año básico;1128;1128;8599;13.1;Occidente
-Colina;Escolares de 1° a 5° año básico;38;38;16620;0.2;Norte
-Colina;Escolares de 1° a 5° año básico;684;684;16620;4.1;Norte
-Conchalí;Escolares de 1° a 5° año básico;11;11;8031;0.1;Norte
-Conchalí;Escolares de 1° a 5° año básico;261;261;8031;3.2;Norte
-Curacaví;Escolares de 1° a 5° año básico;3;3;2474;0.1;Occidente
-Curacaví;Escolares de 1° a 5° año básico;44;44;2474;1.8;Occidente
-El Bosque;Escolares de 1° a 5° año básico;354;354;11186;3.2;Sur
-El Bosque;Escolares de 1° a 5° año básico;3613;3613;11186;32.3;Sur
-El Monte;Escolares de 1° a 5° año básico;7;7;2938;0.2;Occidente
-El Monte;Escolares de 1° a 5° año básico;82;82;2938;2.8;Occidente
-Estación Central;Escolares de 1° a 5° año básico;84;84;11336;0.7;Central
-Estación Central;Escolares de 1° a 5° año básico;892;892;11336;7.9;Central
-Huechuraba;Escolares de 1° a 5° año básico;366;366;8900;4.1;Norte
-Huechuraba;Escolares de 1° a 5° año básico;2332;2332;8900;26.2;Norte
-Independencia;Escolares de 1° a 5° año básico;8;8;7588;0.1;Norte
-Independencia;Escolares de 1° a 5° año básico;276;276;7588;3.6;Norte
-Isla de Maipo;Escolares de 1° a 5° año básico;11;11;2947;0.4;Occidente
-Isla de Maipo;Escolares de 1° a 5° año básico;513;513;2947;17.4;Occidente
-La Cisterna;Escolares de 1° a 5° año básico;35;35;5741;0.6;Sur
-La Cisterna;Escolares de 1° a 5° año básico;551;551;5741;9.6;Sur
-La Florida;Escolares de 1° a 5° año básico;67;67;23381;0.3;Suroriente
-La Florida;Escolares de 1° a 5° año básico;1468;1468;23381;6.3;Suroriente
-La Granja;Escolares de 1° a 5° año básico;171;171;7194;2.4;Suroriente
-La Granja;Escolares de 1° a 5° año básico;4525;4525;7194;62.9;Suroriente
-La Pintana;Escolares de 1° a 5° año básico;50;50;14127;0.4;Suroriente
-La Pintana;Escolares de 1° a 5° año básico;1;0;14127;0.0;Suroriente
-La Pintana;Escolares de 1° a 5° año básico;677;677;14127;4.8;Suroriente
-La Reina;Escolares de 1° a 5° año básico;40;40;5725;0.7;Oriente
-La Reina;Escolares de 1° a 5° año básico;1322;1322;5725;23.1;Oriente
-Lampa;Escolares de 1° a 5° año básico;21;21;11727;0.2;Norte
-Lampa;Escolares de 1° a 5° año básico;643;643;11727;5.5;Norte
-Las Condes;Escolares de 1° a 5° año básico;55;55;15862;0.3;Oriente
-Las Condes;Escolares de 1° a 5° año básico;1883;1883;15862;11.9;Oriente
-Lo Barnechea;Escolares de 1° a 5° año básico;162;162;10497;1.5;Oriente
-Lo Barnechea;Escolares de 1° a 5° año básico;1943;1943;10497;18.5;Oriente
-Lo Espejo;Escolares de 1° a 5° año básico;13;13;6388;0.2;Sur
-Lo Espejo;Escolares de 1° a 5° año básico;1;0;6388;0.0;Sur
-Lo Espejo;Escolares de 1° a 5° año básico;326;326;6388;5.1;Sur
-Lo Prado;Escolares de 1° a 5° año básico;160;160;5897;2.7;Occidente
-Lo Prado;Escolares de 1° a 5° año básico;1;0;5897;0.0;Occidente
-Lo Prado;Escolares de 1° a 5° año básico;2021;2021;5897;34.3;Occidente
-Macul;Escolares de 1° a 5° año básico;360;360;7041;5.1;Oriente
-Macul;Escolares de 1° a 5° año básico;1;0;7041;0.0;Oriente
-Macul;Escolares de 1° a 5° año básico;1;0;7041;0.0;Oriente
-Macul;Escolares de 1° a 5° año básico;2462;2462;7041;35.0;Oriente
-Maipú;Escolares de 1° a 5° año básico;79;79;36172;0.2;Central
-Maipú;Escolares de 1° a 5° año básico;1;0;36172;0.0;Central
-Maipú;Escolares de 1° a 5° año básico;1;0;36172;0.0;Central
-Maipú;Escolares de 1° a 5° año básico;3374;3374;36172;9.3;Central
-María Pinto;Escolares de 1° a 5° año básico;432;432;1037;41.7;Occidente
-Melipilla;Escolares de 1° a 5° año básico;59;59;9760;0.6;Occidente
-Melipilla;Escolares de 1° a 5° año básico;2827;2827;9760;29.0;Occidente
-Padre Hurtado;Escolares de 1° a 5° año básico;23;23;5511;0.4;Occidente
-Padre Hurtado;Escolares de 1° a 5° año básico;330;330;5511;6.0;Occidente
-Paine;Escolares de 1° a 5° año básico;5;5;6203;0.1;Sur
-Paine;Escolares de 1° a 5° año básico;134;134;6203;2.2;Sur
-Pedro Aguirre Cerda;Escolares de 1° a 5° año básico;106;106;5952;1.8;Sur
-Pedro Aguirre Cerda;Escolares de 1° a 5° año básico;942;942;5952;15.8;Sur
-Peñaflor;Escolares de 1° a 5° año básico;17;17;7385;0.2;Occidente
-Peñaflor;Escolares de 1° a 5° año básico;578;578;7385;7.8;Occidente
-Peñalolén;Escolares de 1° a 5° año básico;109;109;18047;0.6;Oriente
-Peñalolén;Escolares de 1° a 5° año básico;1;0;18047;0.0;Oriente
-Peñalolén;Escolares de 1° a 5° año básico;1357;1357;18047;7.5;Oriente
-Pirque;Escolares de 1° a 5° año básico;95;95;2167;4.4;Suroriente
-Providencia;Escolares de 1° a 5° año básico;13;13;5606;0.2;Oriente
-Providencia;Escolares de 1° a 5° año básico;898;898;5606;16.0;Oriente
-Pudahuel;Escolares de 1° a 5° año básico;94;94;17411;0.5;Occidente
-Pudahuel;Escolares de 1° a 5° año básico;1;0;17411;0.0;Occidente
-Pudahuel;Escolares de 1° a 5° año básico;2452;2452;17411;14.1;Occidente
-Puente Alto;Escolares de 1° a 5° año básico;235;235;46089;0.5;Suroriente
-Puente Alto;Escolares de 1° a 5° año básico;4171;4171;46089;9.0;Suroriente
-Quilicura;Escolares de 1° a 5° año básico;296;296;20145;1.5;Norte
-Quilicura;Escolares de 1° a 5° año básico;4852;4852;20145;24.1;Norte
-Quinta Normal;Escolares de 1° a 5° año básico;1345;1345;7783;17.3;Occidente
-Quinta Normal;Escolares de 1° a 5° año básico;3;0;7783;0.0;Occidente
-Quinta Normal;Escolares de 1° a 5° año básico;5364;5364;7783;68.9;Occidente
-Recoleta;Escolares de 1° a 5° año básico;97;97;11099;0.9;Norte
-Recoleta;Escolares de 1° a 5° año básico;2028;2028;11099;18.3;Norte
-Renca;Escolares de 1° a 5° año básico;41;41;11377;0.4;Occidente
-Renca;Escolares de 1° a 5° año básico;489;489;11377;4.3;Occidente
-San Bernardo;Escolares de 1° a 5° año básico;334;334;25222;1.3;Sur
-San Bernardo;Escolares de 1° a 5° año básico;2968;2968;25222;11.8;Sur
-San Joaquín;Escolares de 1° a 5° año básico;124;124;5539;2.2;Sur
-San Joaquín;Escolares de 1° a 5° año básico;1246;1246;5539;22.5;Sur
-San José de Maipo;Escolares de 1° a 5° año básico;25;25;1210;2.1;Suroriente
-San José de Maipo;Escolares de 1° a 5° año básico;240;240;1210;19.8;Suroriente
-San Miguel;Escolares de 1° a 5° año básico;109;109;6998;1.6;Sur
-San Miguel;Escolares de 1° a 5° año básico;1475;1475;6998;21.1;Sur
-San Pedro;Escolares de 1° a 5° año básico;11;11;776;1.4;Occidente
-San Ramón;Escolares de 1° a 5° año básico;50;50;4962;1.0;Suroriente
-San Ramón;Escolares de 1° a 5° año básico;1324;1324;4962;26.7;Suroriente
-Santiago;Escolares de 1° a 5° año básico;151;151;18465;0.8;Central
-Santiago;Escolares de 1° a 5° año básico;1028;1028;18465;5.6;Central
-Talagante;Escolares de 1° a 5° año básico;85;85;5823;1.5;Occidente
-Talagante;Escolares de 1° a 5° año básico;1137;1137;5823;19.5;Occidente
-Tiltil;Escolares de 1° a 5° año básico;34;34;1490;2.3;Norte
-Tiltil;Escolares de 1° a 5° año básico;513;513;1490;34.4;Norte
-Vitacura;Escolares de 1° a 5° año básico;222;222;5455;4.1;Oriente
-Vitacura;Escolares de 1° a 5° año básico;2415;2415;5455;44.3;Oriente
-Ñuñoa;Escolares de 1° a 5° año básico;14;14;11284;0.1;Oriente
-Ñuñoa;Escolares de 1° a 5° año básico;557;557;11284;4.9;Oriente
-Alhué;Embarazadas;18;18;123;14.6;Occidente
-Buin;Embarazadas;245;245;1574;15.6;Sur
-Calera de Tango;Embarazadas;38;38;318;11.9;Sur
-Cerrillos;Embarazadas;1;0;1014;0.0;Central
-Cerrillos;Embarazadas;168;168;1014;16.6;Central
-Cerro Navia;Embarazadas;179;179;2014;8.9;Occidente
-Colina;Embarazadas;345;345;2478;13.9;Norte
-Conchalí;Embarazadas;217;217;1683;12.9;Norte
-Curacaví;Embarazadas;36;36;421;8.6;Occidente
-El Bosque;Embarazadas;393;393;2323;16.9;Sur
-El Monte;Embarazadas;1;0;510;0.0;Occidente
-El Monte;Embarazadas;49;49;510;9.6;Occidente
-Estación Central;Embarazadas;324;324;2633;12.3;Central
-Huechuraba;Embarazadas;205;205;1335;15.4;Norte
-Independencia;Embarazadas;282;282;1979;14.2;Norte
-Isla de Maipo;Embarazadas;87;87;436;20.0;Occidente
-La Cisterna;Embarazadas;153;153;1158;13.2;Sur
-La Florida;Embarazadas;492;492;4722;10.4;Suroriente
-La Granja;Embarazadas;262;262;1507;17.4;Suroriente
-La Pintana;Embarazadas;235;235;2653;8.9;Suroriente
-La Reina;Embarazadas;108;108;887;12.2;Oriente
-Lampa;Embarazadas;240;240;1914;12.5;Norte
-Las Condes;Embarazadas;475;475;3679;12.9;Oriente
-Lo Barnechea;Embarazadas;178;178;1201;14.8;Oriente
-Lo Espejo;Embarazadas;180;180;1590;11.3;Sur
-Lo Prado;Embarazadas;227;227;1189;19.1;Occidente
-Macul;Embarazadas;177;177;1465;12.1;Oriente
-Maipú;Embarazadas;708;708;6061;11.7;Central
-María Pinto;Embarazadas;27;27;167;16.2;Occidente
-Melipilla;Embarazadas;398;398;1923;20.7;Occidente
-Padre Hurtado;Embarazadas;82;82;1032;7.9;Occidente
-Paine;Embarazadas;156;156;1066;14.6;Sur
-Pedro Aguirre Cerda;Embarazadas;171;171;1411;12.1;Sur
-Peñaflor;Embarazadas;136;136;1164;11.7;Occidente
-Peñalolén;Embarazadas;367;367;2895;12.7;Oriente
-Pirque;Embarazadas;44;44;336;13.1;Suroriente
-Providencia;Embarazadas;191;191;1933;9.9;Oriente
-Pudahuel;Embarazadas;528;528;3082;17.1;Occidente
-Puente Alto;Embarazadas;704;704;7328;9.6;Suroriente
-Quilicura;Embarazadas;1;0;3491;0.0;Norte
-Quilicura;Embarazadas;530;530;3491;15.2;Norte
-Quinta Normal;Embarazadas;156;156;1850;8.4;Occidente
-Recoleta;Embarazadas;297;297;2358;12.6;Norte
-Renca;Embarazadas;280;280;2121;13.2;Occidente
-San Bernardo;Embarazadas;326;326;4627;7.0;Sur
-San Joaquín;Embarazadas;138;138;1165;11.8;Sur
-San José de Maipo;Embarazadas;13;13;168;7.7;Suroriente
-San Miguel;Embarazadas;258;258;1714;15.1;Sur
-San Pedro;Embarazadas;23;23;123;18.7;Occidente
-San Ramón;Embarazadas;1;0;1138;0.0;Suroriente
-San Ramón;Embarazadas;99;99;1138;8.7;Suroriente
-Santiago;Embarazadas;755;755;6481;11.6;Central
-Talagante;Embarazadas;111;111;1049;10.6;Occidente
-Tiltil;Embarazadas;45;45;289;15.6;Norte
-Vitacura;Embarazadas;174;174;1254;13.9;Oriente
-Ñuñoa;Embarazadas;294;294;2855;10.3;Oriente
-Alhué;Otras prioridades;25;25;248;10.1;Occidente
-Buin;Otras prioridades;359;359;1504;23.9;Sur
-Calera de Tango;Otras prioridades;43;43;576;7.5;Sur
-Cerrillos;Otras prioridades;11;11;388;2.8;Central
-Cerro Navia;Otras prioridades;10;10;2723;0.4;Occidente
-Colina;Otras prioridades;71;71;3561;2.0;Norte
-Conchalí;Otras prioridades;41;41;1348;3.0;Norte
-Curacaví;Otras prioridades;1;1;655;0.2;Occidente
-El Bosque;Otras prioridades;1;1;4113;0.0;Sur
-El Monte;Otras prioridades;13;13;634;2.1;Occidente
-Estación Central;Otras prioridades;37;37;4058;0.9;Central
-Huechuraba;Otras prioridades;205;205;1906;10.8;Norte
-Independencia;Otras prioridades;20;20;2054;1.0;Norte
-Isla de Maipo;Otras prioridades;19;19;1289;1.5;Occidente
-La Florida;Otras prioridades;64;64;3840;1.7;Suroriente
-La Granja;Otras prioridades;61;61;1837;3.3;Suroriente
-La Pintana;Otras prioridades;54;54;1298;4.2;Suroriente
-La Reina;Otras prioridades;154;154;3781;4.1;Oriente
-Lampa;Otras prioridades;1;1;429;0.2;Norte
-Lampa;Otras prioridades;33;33;429;7.7;Norte
-Las Condes;Otras prioridades;574;574;6416;8.9;Oriente
-Lo Barnechea;Otras prioridades;25;25;1342;1.9;Oriente
-Lo Espejo;Otras prioridades;163;163;3367;4.8;Sur
-Lo Prado;Otras prioridades;14;14;2130;0.7;Occidente
-Macul;Otras prioridades;82;82;1370;6.0;Oriente
-Maipú;Otras prioridades;74;74;5629;1.3;Central
-María Pinto;Otras prioridades;63;63;197;32.0;Occidente
-Melipilla;Otras prioridades;227;227;763;29.8;Occidente
-Paine;Otras prioridades;8;8;4312;0.2;Sur
-Pedro Aguirre Cerda;Otras prioridades;66;66;1571;4.2;Sur
-Peñaflor;Otras prioridades;41;41;1535;2.7;Occidente
-Peñalolén;Otras prioridades;80;80;2747;2.9;Oriente
-Pirque;Otras prioridades;1;1;200;0.5;Suroriente
-Providencia;Otras prioridades;144;144;5710;2.5;Oriente
-Pudahuel;Otras prioridades;20;20;2341;0.9;Occidente
-Puente Alto;Otras prioridades;314;314;6111;5.1;Suroriente
-Quilicura;Otras prioridades;65;65;1047;6.2;Norte
-Quinta Normal;Otras prioridades;6;6;632;0.9;Occidente
-Recoleta;Otras prioridades;38;38;2943;1.3;Norte
-Renca;Otras prioridades;371;371;7803;4.8;Occidente
-San Bernardo;Otras prioridades;234;234;8438;2.8;Sur
-San Joaquín;Otras prioridades;950;950;4107;23.1;Sur
-San Miguel;Otras prioridades;81;81;2216;3.7;Sur
-San Pedro;Otras prioridades;2;2;239;0.8;Occidente
-San Ramón;Otras prioridades;170;170;2035;8.4;Suroriente
-Santiago;Otras prioridades;585;585;9720;6.0;Central
-Talagante;Otras prioridades;10;10;2480;0.4;Occidente
-Tiltil;Otras prioridades;103;103;1238;8.3;Norte
-Vitacura;Otras prioridades;32;32;1088;2.9;Oriente
-Ñuñoa;Otras prioridades;20;20;26254;0.1;Oriente
-Alhué;P. de salud: Privado;2;2;5;40.0;Occidente
-Buin;P. de salud: Privado;205;205;205;100.0;Sur
-Calera de Tango;P. de salud: Privado;18;18;63;28.6;Sur
-Cerrillos;P. de salud: Privado;65;65;59;110.2;Central
-Cerro Navia;P. de salud: Privado;34;34;33;103.0;Occidente
-Colina;P. de salud: Privado;372;372;529;70.3;Norte
-Conchalí;P. de salud: Privado;75;75;130;57.7;Norte
-Curacaví;P. de salud: Privado;33;33;63;52.4;Occidente
-El Bosque;P. de salud: Privado;145;145;151;96.0;Sur
-El Monte;P. de salud: Privado;6;6;15;40.0;Occidente
-Estación Central;P. de salud: Privado;3126;3126;5162;60.6;Central
-Huechuraba;P. de salud: Privado;110;110;157;70.1;Norte
-Independencia;P. de salud: Privado;3430;3430;4140;82.9;Norte
-Isla de Maipo;P. de salud: Privado;11;11;44;25.0;Occidente
-La Cisterna;P. de salud: Privado;266;266;175;152.0;Sur
-La Florida;P. de salud: Privado;2363;2363;3554;66.5;Suroriente
-La Granja;P. de salud: Privado;55;55;208;26.4;Suroriente
-La Pintana;P. de salud: Privado;134;134;225;59.6;Suroriente
-La Reina;P. de salud: Privado;325;325;888;36.6;Oriente
-Lampa;P. de salud: Privado;33;33;95;34.7;Norte
-Las Condes;P. de salud: Privado;7314;7314;8810;83.0;Oriente
-Lo Barnechea;P. de salud: Privado;1024;1024;2103;48.7;Oriente
-Lo Espejo;P. de salud: Privado;38;38;84;45.2;Sur
-Lo Prado;P. de salud: Privado;44;44;95;46.3;Occidente
-Macul;P. de salud: Privado;675;675;870;77.6;Oriente
-Maipú;P. de salud: Privado;587;587;560;104.8;Central
-María Pinto;P. de salud: Privado;6;6;7;85.7;Occidente
-Melipilla;P. de salud: Privado;525;525;559;93.9;Occidente
-Padre Hurtado;P. de salud: Privado;47;47;87;54.0;Occidente
-Paine;P. de salud: Privado;43;43;126;34.1;Sur
-Pedro Aguirre Cerda;P. de salud: Privado;76;76;148;51.4;Sur
-Peñaflor;P. de salud: Privado;19;19;80;23.8;Occidente
-Peñalolén;P. de salud: Privado;316;316;572;55.2;Oriente
-Pirque;P. de salud: Privado;14;14;55;25.5;Suroriente
-Providencia;P. de salud: Privado;1;0;11353;0.0;Oriente
-Providencia;P. de salud: Privado;6892;6892;11353;60.7;Oriente
-Pudahuel;P. de salud: Privado;216;216;332;65.1;Occidente
-Puente Alto;P. de salud: Privado;763;763;1158;65.9;Suroriente
-Quilicura;P. de salud: Privado;103;103;299;34.4;Norte
-Quinta Normal;P. de salud: Privado;37;37;129;28.7;Occidente
-Recoleta;P. de salud: Privado;1619;1619;3795;42.7;Norte
-Renca;P. de salud: Privado;53;53;104;51.0;Occidente
-San Bernardo;P. de salud: Privado;2;0;1000;0.0;Sur
-San Bernardo;P. de salud: Privado;425;425;1000;42.5;Sur
-San Joaquín;P. de salud: Privado;55;55;153;35.9;Sur
-San José de Maipo;P. de salud: Privado;33;33;66;50.0;Suroriente
-San Miguel;P. de salud: Privado;310;310;252;123.0;Sur
-San Ramón;P. de salud: Privado;30;30;31;96.8;Suroriente
-Santiago;P. de salud: Privado;4470;4470;5430;82.3;Central
-Talagante;P. de salud: Privado;71;71;237;30.0;Occidente
-Tiltil;P. de salud: Privado;19;19;20;95.0;Norte
-Vitacura;P. de salud: Privado;2978;2978;7043;42.3;Oriente
-Ñuñoa;P. de salud: Privado;1;0;1388;0.0;Oriente
-Ñuñoa;P. de salud: Privado;1357;1357;1388;97.8;Oriente
-Alhué;P. de salud: Público;90;90;113;79.6;Occidente
-Buin;P. de salud: Público;1018;1018;1123;90.7;Sur
-Calera de Tango;P. de salud: Público;145;145;189;76.7;Sur
-Cerrillos;P. de salud: Público;256;256;347;73.8;Central
-Cerro Navia;P. de salud: Público;1;0;844;0.0;Occidente
-Cerro Navia;P. de salud: Público;466;466;844;55.2;Occidente
-Colina;P. de salud: Público;660;660;882;74.8;Norte
-Conchalí;P. de salud: Público;767;767;917;83.6;Norte
-Curacaví;P. de salud: Público;208;208;345;60.3;Occidente
-El Bosque;P. de salud: Público;1399;1399;1825;76.7;Sur
-El Monte;P. de salud: Público;211;211;466;45.3;Occidente
-Estación Central;P. de salud: Público;419;419;991;42.3;Central
-Huechuraba;P. de salud: Público;639;639;784;81.5;Norte
-Independencia;P. de salud: Público;1;0;6599;0.0;Norte
-Independencia;P. de salud: Público;4786;4786;6599;72.5;Norte
-Isla de Maipo;P. de salud: Público;270;270;327;82.6;Occidente
-La Cisterna;P. de salud: Público;471;471;666;70.7;Sur
-La Florida;P. de salud: Público;3595;3595;4659;77.2;Suroriente
-La Granja;P. de salud: Público;1;0;1124;0.0;Suroriente
-La Granja;P. de salud: Público;651;651;1124;57.9;Suroriente
-La Pintana;P. de salud: Público;643;643;1492;43.1;Suroriente
-La Reina;P. de salud: Público;2374;2374;2194;108.2;Oriente
-Lampa;P. de salud: Público;470;470;567;82.9;Norte
-Las Condes;P. de salud: Público;1715;1715;4206;40.8;Oriente
-Lo Barnechea;P. de salud: Público;308;308;551;55.9;Oriente
-Lo Espejo;P. de salud: Público;568;568;727;78.1;Sur
-Lo Prado;P. de salud: Público;639;639;835;76.5;Occidente
-Macul;P. de salud: Público;608;608;953;63.8;Oriente
-Maipú;P. de salud: Público;3445;3445;5180;66.5;Central
-María Pinto;P. de salud: Público;95;95;128;74.2;Occidente
-Melipilla;P. de salud: Público;1565;1565;1627;96.2;Occidente
-Padre Hurtado;P. de salud: Público;198;198;400;49.5;Occidente
-Paine;P. de salud: Público;408;408;488;83.6;Sur
-Pedro Aguirre Cerda;P. de salud: Público;693;693;798;86.8;Sur
-Peñaflor;P. de salud: Público;820;820;1018;80.6;Occidente
-Peñalolén;P. de salud: Público;2823;2823;3357;84.1;Oriente
-Pirque;P. de salud: Público;290;290;268;108.2;Suroriente
-Providencia;P. de salud: Público;1;0;8442;0.0;Oriente
-Providencia;P. de salud: Público;6752;6752;8442;80.0;Oriente
-Pudahuel;P. de salud: Público;1318;1318;1752;75.2;Occidente
-Puente Alto;P. de salud: Público;5531;5531;7922;69.8;Suroriente
-Quilicura;P. de salud: Público;832;832;1442;57.7;Norte
-Quinta Normal;P. de salud: Público;2624;2624;3623;72.4;Occidente
-Recoleta;P. de salud: Público;1071;1071;1890;56.7;Norte
-Renca;P. de salud: Público;838;838;1024;81.8;Occidente
-San Bernardo;P. de salud: Público;3132;3132;4236;73.9;Sur
-San Joaquín;P. de salud: Público;528;528;702;75.2;Sur
-San José de Maipo;P. de salud: Público;462;462;695;66.5;Suroriente
-San Miguel;P. de salud: Público;4995;4995;7531;66.3;Sur
-San Pedro;P. de salud: Público;102;102;118;86.4;Occidente
-San Ramón;P. de salud: Público;1705;1705;3513;48.5;Suroriente
-Santiago;P. de salud: Público;1;0;16201;0.0;Central
-Santiago;P. de salud: Público;7727;7727;16201;47.7;Central
-Talagante;P. de salud: Público;897;897;1892;47.4;Occidente
-Tiltil;P. de salud: Público;222;222;244;91.0;Norte
-Vitacura;P. de salud: Público;277;277;310;89.4;Oriente
-Ñuñoa;P. de salud: Público;763;763;3646;20.9;Oriente
-Alhué;Trabajadores de avícolas y de criaderos de cerdo;1;1;0;0.0;Occidente
-Buin;Trabajadores de avícolas y de criaderos de cerdo;28;28;197;14.2;Sur
-Calera de Tango;Trabajadores de avícolas y de criaderos de cerdo;7;7;53;13.2;Sur
-Cerro Navia;Trabajadores de avícolas y de criaderos de cerdo;1;1;10;10.0;Occidente
-Colina;Trabajadores de avícolas y de criaderos de cerdo;140;140;219;63.9;Norte
-Curacaví;Trabajadores de avícolas y de criaderos de cerdo;53;53;67;79.1;Occidente
-El Bosque;Trabajadores de avícolas y de criaderos de cerdo;4;4;10;40.0;Sur
-El Monte;Trabajadores de avícolas y de criaderos de cerdo;654;654;664;98.5;Occidente
-Estación Central;Trabajadores de avícolas y de criaderos de cerdo;1;1;8;12.5;Central
-Huechuraba;Trabajadores de avícolas y de criaderos de cerdo;30;30;22;136.4;Norte
-Independencia;Trabajadores de avícolas y de criaderos de cerdo;2;2;4;50.0;Norte
-Isla de Maipo;Trabajadores de avícolas y de criaderos de cerdo;85;85;210;40.5;Occidente
-La Cisterna;Trabajadores de avícolas y de criaderos de cerdo;341;341;516;66.1;Sur
-La Florida;Trabajadores de avícolas y de criaderos de cerdo;4;4;6;66.7;Suroriente
-La Granja;Trabajadores de avícolas y de criaderos de cerdo;4;4;26;15.4;Suroriente
-La Pintana;Trabajadores de avícolas y de criaderos de cerdo;600;600;669;89.7;Suroriente
-La Reina;Trabajadores de avícolas y de criaderos de cerdo;2;2;4;50.0;Oriente
-Lampa;Trabajadores de avícolas y de criaderos de cerdo;38;38;152;25.0;Norte
-Las Condes;Trabajadores de avícolas y de criaderos de cerdo;8;8;7;114.3;Oriente
-Lo Barnechea;Trabajadores de avícolas y de criaderos de cerdo;8;8;3;266.7;Oriente
-Lo Espejo;Trabajadores de avícolas y de criaderos de cerdo;3;3;2;150.0;Sur
-Lo Prado;Trabajadores de avícolas y de criaderos de cerdo;2;2;0;0.0;Occidente
-Macul;Trabajadores de avícolas y de criaderos de cerdo;1;1;16;6.2;Oriente
-Maipú;Trabajadores de avícolas y de criaderos de cerdo;10;10;81;12.3;Central
-María Pinto;Trabajadores de avícolas y de criaderos de cerdo;56;56;62;90.3;Occidente
-Melipilla;Trabajadores de avícolas y de criaderos de cerdo;780;780;1583;49.3;Occidente
-Paine;Trabajadores de avícolas y de criaderos de cerdo;25;25;113;22.1;Sur
-Pedro Aguirre Cerda;Trabajadores de avícolas y de criaderos de cerdo;3;3;0;0.0;Sur
-Peñaflor;Trabajadores de avícolas y de criaderos de cerdo;124;124;278;44.6;Occidente
-Peñalolén;Trabajadores de avícolas y de criaderos de cerdo;2;2;5;40.0;Oriente
-Pirque;Trabajadores de avícolas y de criaderos de cerdo;1;0;138;0.0;Suroriente
-Pirque;Trabajadores de avícolas y de criaderos de cerdo;156;156;138;113.0;Suroriente
-Providencia;Trabajadores de avícolas y de criaderos de cerdo;22;22;34;64.7;Oriente
-Pudahuel;Trabajadores de avícolas y de criaderos de cerdo;203;203;110;184.5;Occidente
-Puente Alto;Trabajadores de avícolas y de criaderos de cerdo;12;12;120;10.0;Suroriente
-Quilicura;Trabajadores de avícolas y de criaderos de cerdo;3;3;7;42.9;Norte
-Quinta Normal;Trabajadores de avícolas y de criaderos de cerdo;3;3;14;21.4;Occidente
-Recoleta;Trabajadores de avícolas y de criaderos de cerdo;6;6;74;8.1;Norte
-Renca;Trabajadores de avícolas y de criaderos de cerdo;2;2;4;50.0;Occidente
-San Bernardo;Trabajadores de avícolas y de criaderos de cerdo;474;474;688;68.9;Sur
-San Pedro;Trabajadores de avícolas y de criaderos de cerdo;637;637;1315;48.4;Occidente
-San Ramón;Trabajadores de avícolas y de criaderos de cerdo;1;1;0;0.0;Suroriente
-Santiago;Trabajadores de avícolas y de criaderos de cerdo;38;38;198;19.2;Central
-Talagante;Trabajadores de avícolas y de criaderos de cerdo;112;112;117;95.7;Occidente
-Tiltil;Trabajadores de avícolas y de criaderos de cerdo;2;2;47;4.3;Norte
-Vitacura;Trabajadores de avícolas y de criaderos de cerdo;3;3;0;0.0;Oriente
-Ñuñoa;Trabajadores de avícolas y de criaderos de cerdo;2;2;1;200.0;Oriente
-Alhué;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;13;13;103;12.6;Occidente
-Buin;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;173;173;1162;14.9;Sur
-Calera de Tango;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;135;135;363;37.2;Sur
-Cerrillos;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;158;158;1032;15.3;Central
-Cerro Navia;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;143;143;930;15.4;Occidente
-Colina;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;894;894;2915;30.7;Norte
-Conchalí;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;110;110;1098;10.0;Norte
-Curacaví;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;44;44;416;10.6;Occidente
-El Bosque;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;978;978;2247;43.5;Sur
-El Monte;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;36;36;733;4.9;Occidente
-Estación Central;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;260;260;1594;16.3;Central
-Huechuraba;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;795;795;1081;73.5;Norte
-Independencia;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;63;63;1091;5.8;Norte
-Isla de Maipo;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;104;104;571;18.2;Occidente
-La Cisterna;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;149;149;890;16.7;Sur
-La Florida;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;1;0;4230;0.0;Suroriente
-La Florida;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;555;555;4230;13.1;Suroriente
-La Granja;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;1077;1077;1333;80.8;Suroriente
-La Pintana;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;350;350;2552;13.7;Suroriente
-La Reina;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;430;430;1428;30.1;Oriente
-Lampa;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;311;311;1277;24.4;Norte
-Las Condes;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;435;435;1633;26.6;Oriente
-Lo Barnechea;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;630;630;1957;32.2;Oriente
-Lo Espejo;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;90;90;952;9.5;Sur
-Lo Prado;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;341;341;1064;32.0;Occidente
-Macul;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;611;611;1499;40.8;Oriente
-Maipú;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;674;674;4535;14.9;Central
-María Pinto;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;110;110;91;120.9;Occidente
-Melipilla;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;1;0;2004;0.0;Occidente
-Melipilla;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;929;929;2004;46.4;Occidente
-Padre Hurtado;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;90;90;799;11.3;Occidente
-Paine;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;107;107;921;11.6;Sur
-Pedro Aguirre Cerda;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;337;337;1510;22.3;Sur
-Peñaflor;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;113;113;967;11.7;Occidente
-Peñalolén;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;410;410;3286;12.5;Oriente
-Pirque;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;41;41;409;10.0;Suroriente
-Providencia;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;255;255;1437;17.7;Oriente
-Pudahuel;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;1;0;1598;0.0;Occidente
-Pudahuel;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;611;611;1598;38.2;Occidente
-Puente Alto;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;1306;1306;6066;21.5;Suroriente
-Quilicura;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;5;0;1949;0.0;Norte
-Quilicura;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;873;873;1949;44.8;Norte
-Quinta Normal;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;2;0;1525;0.0;Occidente
-Quinta Normal;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;1064;1064;1525;69.8;Occidente
-Recoleta;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;415;415;1638;25.3;Norte
-Renca;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;282;282;1975;14.3;Occidente
-San Bernardo;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;808;808;3048;26.5;Sur
-San Joaquín;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;510;510;1017;50.1;Sur
-San José de Maipo;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;57;57;271;21.0;Suroriente
-San Miguel;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;426;426;1442;29.5;Sur
-San Pedro;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;20;20;176;11.4;Occidente
-San Ramón;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;277;277;1044;26.5;Suroriente
-Santiago;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;359;359;3682;9.8;Central
-Talagante;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;311;311;1246;25.0;Occidente
-Tiltil;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;200;200;375;53.3;Norte
-Vitacura;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;502;502;1373;36.6;Oriente
-Ñuñoa;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;184;184;2022;9.1;Oriente
+Alhué;Población General;1294;12;4315;30.0;Occidente
+Buin;Población General;10874;108;49777;21.8;Sur
+Calera de Tango;Población General;3152;31;11769;26.8;Sur
+Cerrillos;Población General;7829;78;37700;20.8;Central
+Cerro Navia;Población General;11851;118;70538;16.8;Occidente
+Colina;Población General;14116;141;69061;20.4;Norte
+Conchalí;Población General;11715;117;55099;21.3;Norte
+Curacaví;Población General;2730;27;15550;17.6;Occidente
+El Bosque;Población General;26063;260;81250;32.1;Sur
+El Monte;Población General;2966;29;18218;16.3;Occidente
+Estación Central;Población General;15420;154;82377;18.7;Central
+Huechuraba;Población General;16537;165;49277;33.6;Norte
+Independencia;Población General;16981;169;59663;28.5;Norte
+Isla de Maipo;Población General;4895;48;18269;26.8;Occidente
+La Cisterna;Población General;10654;106;57432;18.6;Sur
+La Florida;Población General;36275;362;155838;23.3;Suroriente
+La Granja;Población General;21949;219;50245;43.7;Suroriente
+La Pintana;Población General;13021;129;70278;18.5;Suroriente
+La Reina;Población General;12886;128;43344;29.7;Oriente
+Lampa;Población General;8237;82;49096;16.8;Norte
+Las Condes;Población General;37060;370;132797;27.9;Oriente
+Lo Barnechea;Población General;11581;115;43225;26.8;Oriente
+Lo Espejo;Población General;7961;79;43769;18.2;Sur
+Lo Prado;Población General;16722;167;50571;33.1;Occidente
+Macul;Población General;14629;146;54434;26.9;Oriente
+Maipú;Población General;47666;476;219646;21.7;Central
+María Pinto;Población General;2442;24;6216;39.3;Occidente
+Melipilla;Población General;21153;211;62962;33.6;Occidente
+Padre Hurtado;Población General;4575;45;30508;15.0;Occidente
+Paine;Población General;7012;70;42004;16.7;Sur
+Pedro Aguirre Cerda;Población General;12218;122;44083;27.7;Sur
+Peñaflor;Población General;8236;82;38091;21.6;Occidente
+Peñalolén;Población General;22577;225;104742;21.5;Oriente
+Pirque;Población General;2823;28;12409;22.7;Suroriente
+Providencia;Población General;27755;277;78861;35.2;Oriente
+Pudahuel;Población General;27173;271;123971;21.9;Occidente
+Puente Alto;Población General;49600;495;226516;21.9;Suroriente
+Quilicura;Población General;22488;224;86938;25.9;Norte
+Quinta Normal;Población General;21766;217;57011;38.2;Occidente
+Recoleta;Población General;19134;191;79389;24.1;Norte
+Renca;Población General;11423;114;73834;15.5;Occidente
+San Bernardo;Población General;24799;247;142627;17.4;Sur
+San Joaquín;Población General;12807;128;48041;26.7;Sur
+San José de Maipo;Población General;2387;23;8534;28.0;Suroriente
+San Miguel;Población General;18638;186;65140;28.6;Sur
+San Pedro;Población General;1693;16;7026;24.1;Occidente
+San Ramón;Población General;11036;110;44042;25.1;Suroriente
+Santiago;Población General;38420;384;173883;22.1;Central
+Talagante;Población General;8425;84;35942;23.4;Occidente
+Tiltil;Población General;3362;33;9742;34.5;Norte
+Vitacura;Población General;15061;150;44616;33.8;Oriente
+Ñuñoa;Población General;17294;172;117184;14.8;Oriente
+Alhué;Personas mayores de 65 años y más;460;4;1029;44.7;Occidente
+Buin;Personas mayores de 65 años y más;3856;38;11563;33.3;Sur
+Calera de Tango;Personas mayores de 65 años y más;960;9;3243;29.6;Sur
+Cerrillos;Personas mayores de 65 años y más;3493;34;11529;30.3;Central
+Cerro Navia;Personas mayores de 65 años y más;4773;47;19912;24.0;Occidente
+Colina;Personas mayores de 65 años y más;3860;38;13175;29.3;Norte
+Conchalí;Personas mayores de 65 años y más;6403;64;21451;29.8;Norte
+Curacaví;Personas mayores de 65 años y más;1276;12;5138;24.8;Occidente
+El Bosque;Personas mayores de 65 años y más;8758;87;23840;36.7;Sur
+El Monte;Personas mayores de 65 años y más;1024;10;4880;21.0;Occidente
+Estación Central;Personas mayores de 65 años y más;5296;52;28595;18.5;Central
+Huechuraba;Personas mayores de 65 años y más;4416;44;12637;34.9;Norte
+Independencia;Personas mayores de 65 años y más;4742;47;18517;25.6;Norte
+Isla de Maipo;Personas mayores de 65 años y más;1887;18;4884;38.6;Occidente
+La Cisterna;Personas mayores de 65 años y más;5007;50;16370;30.6;Sur
+La Florida;Personas mayores de 65 años y más;17755;177;59239;30.0;Suroriente
+La Granja;Personas mayores de 65 años y más;6776;67;16446;41.2;Suroriente
+La Pintana;Personas mayores de 65 años y más;5392;53;20063;26.9;Suroriente
+La Reina;Personas mayores de 65 años y más;4790;47;16530;29.0;Oriente
+Lampa;Personas mayores de 65 años y más;2556;25;9259;27.6;Norte
+Las Condes;Personas mayores de 65 años y más;17353;173;59480;29.2;Oriente
+Lo Barnechea;Personas mayores de 65 años y más;3696;36;11500;32.1;Oriente
+Lo Espejo;Personas mayores de 65 años y más;3590;35;13671;26.3;Sur
+Lo Prado;Personas mayores de 65 años y más;7269;72;17051;42.6;Occidente
+Macul;Personas mayores de 65 años y más;5710;57;22587;25.2;Oriente
+Maipú;Personas mayores de 65 años y más;21774;217;63302;34.4;Central
+María Pinto;Personas mayores de 65 años y más;855;8;2033;42.1;Occidente
+Melipilla;Personas mayores de 65 años y más;6402;63;19249;33.2;Occidente
+Padre Hurtado;Personas mayores de 65 años y más;1959;19;8104;24.2;Occidente
+Paine;Personas mayores de 65 años y más;2940;29;9651;30.5;Sur
+Pedro Aguirre Cerda;Personas mayores de 65 años y más;5798;57;16959;34.2;Sur
+Peñaflor;Personas mayores de 65 años y más;3748;37;11995;31.2;Occidente
+Peñalolén;Personas mayores de 65 años y más;9659;96;31965;30.2;Oriente
+Pirque;Personas mayores de 65 años y más;1290;12;3764;34.2;Suroriente
+Providencia;Personas mayores de 65 años y más;7848;78;27465;28.6;Oriente
+Pudahuel;Personas mayores de 65 años y más;9317;93;25470;36.6;Occidente
+Puente Alto;Personas mayores de 65 años y más;17857;178;58764;30.4;Suroriente
+Quilicura;Personas mayores de 65 años y más;5384;53;17126;31.4;Norte
+Quinta Normal;Personas mayores de 65 años y más;5050;50;20596;24.5;Occidente
+Recoleta;Personas mayores de 65 años y más;6803;68;27948;24.3;Norte
+Renca;Personas mayores de 65 años y más;4642;46;18781;24.7;Occidente
+San Bernardo;Personas mayores de 65 años y más;7749;77;34582;22.4;Sur
+San Joaquín;Personas mayores de 65 años y más;4849;48;17309;28.0;Sur
+San José de Maipo;Personas mayores de 65 años y más;869;8;2645;32.9;Suroriente
+San Miguel;Personas mayores de 65 años y más;6346;63;20082;31.6;Sur
+San Pedro;Personas mayores de 65 años y más;508;5;1962;25.9;Occidente
+San Ramón;Personas mayores de 65 años y más;3745;37;14027;26.7;Suroriente
+Santiago;Personas mayores de 65 años y más;12591;125;46393;27.1;Central
+Talagante;Personas mayores de 65 años y más;2773;27;9336;29.7;Occidente
+Tiltil;Personas mayores de 65 años y más;1029;10;2648;38.8;Norte
+Vitacura;Personas mayores de 65 años y más;5167;51;19228;26.9;Oriente
+Ñuñoa;Personas mayores de 65 años y más;9696;96;41918;23.1;Oriente
+Alhué;Niños y niñas de 6 meses a 5 años de edad;141;1;545;25.9;Occidente
+Buin;Niños y niñas de 6 meses a 5 años de edad;1291;12;9008;14.3;Sur
+Calera de Tango;Niños y niñas de 6 meses a 5 años de edad;473;4;2007;23.6;Sur
+Cerrillos;Niños y niñas de 6 meses a 5 años de edad;873;8;6323;13.8;Central
+Cerro Navia;Niños y niñas de 6 meses a 5 años de edad;1158;11;9498;12.2;Occidente
+Colina;Niños y niñas de 6 meses a 5 años de edad;4166;41;18432;22.6;Norte
+Conchalí;Niños y niñas de 6 meses a 5 años de edad;795;7;8799;9.0;Norte
+Curacaví;Niños y niñas de 6 meses a 5 años de edad;305;3;2693;11.3;Occidente
+El Bosque;Niños y niñas de 6 meses a 5 años de edad;4023;40;11587;34.7;Sur
+El Monte;Niños y niñas de 6 meses a 5 años de edad;213;2;3365;6.3;Occidente
+Estación Central;Niños y niñas de 6 meses a 5 años de edad;1894;18;13311;14.2;Central
+Huechuraba;Niños y niñas de 6 meses a 5 años de edad;2366;23;9101;26.0;Norte
+Independencia;Niños y niñas de 6 meses a 5 años de edad;1099;10;9773;11.2;Norte
+Isla de Maipo;Niños y niñas de 6 meses a 5 años de edad;550;5;3138;17.5;Occidente
+La Cisterna;Niños y niñas de 6 meses a 5 años de edad;861;8;6145;14.0;Sur
+La Florida;Niños y niñas de 6 meses a 5 años de edad;3741;37;25045;14.9;Suroriente
+La Granja;Niños y niñas de 6 meses a 5 años de edad;3951;39;8026;49.2;Suroriente
+La Pintana;Niños y niñas de 6 meses a 5 años de edad;1488;14;15233;9.6;Suroriente
+La Reina;Niños y niñas de 6 meses a 5 años de edad;1755;17;5786;30.3;Oriente
+Lampa;Niños y niñas de 6 meses a 5 años de edad;1486;14;13038;11.4;Norte
+Las Condes;Niños y niñas de 6 meses a 5 años de edad;3247;32;18660;17.4;Oriente
+Lo Barnechea;Niños y niñas de 6 meses a 5 años de edad;2288;22;9484;24.1;Oriente
+Lo Espejo;Niños y niñas de 6 meses a 5 años de edad;820;8;6918;11.9;Sur
+Lo Prado;Niños y niñas de 6 meses a 5 años de edad;1525;15;6274;24.3;Occidente
+Macul;Niños y niñas de 6 meses a 5 años de edad;1741;17;7965;21.8;Oriente
+Maipú;Niños y niñas de 6 meses a 5 años de edad;3712;37;37526;9.9;Central
+María Pinto;Niños y niñas de 6 meses a 5 años de edad;263;2;1074;24.5;Occidente
+Melipilla;Niños y niñas de 6 meses a 5 años de edad;3079;30;10543;29.2;Occidente
+Padre Hurtado;Niños y niñas de 6 meses a 5 años de edad;424;4;6428;6.6;Occidente
+Paine;Niños y niñas de 6 meses a 5 años de edad;757;7;6370;11.9;Sur
+Pedro Aguirre Cerda;Niños y niñas de 6 meses a 5 años de edad;1155;11;6459;17.9;Sur
+Peñaflor;Niños y niñas de 6 meses a 5 años de edad;513;5;7887;6.5;Occidente
+Peñalolén;Niños y niñas de 6 meses a 5 años de edad;1936;19;17931;10.8;Oriente
+Pirque;Niños y niñas de 6 meses a 5 años de edad;159;1;2316;6.9;Suroriente
+Providencia;Niños y niñas de 6 meses a 5 años de edad;2733;27;8315;32.9;Oriente
+Pudahuel;Niños y niñas de 6 meses a 5 años de edad;2734;27;18904;14.5;Occidente
+Puente Alto;Niños y niñas de 6 meses a 5 años de edad;6100;60;49003;12.4;Suroriente
+Quilicura;Niños y niñas de 6 meses a 5 años de edad;4060;40;20204;20.1;Norte
+Quinta Normal;Niños y niñas de 6 meses a 5 años de edad;3186;31;8536;37.3;Occidente
+Recoleta;Niños y niñas de 6 meses a 5 años de edad;2219;22;12275;18.1;Norte
+Renca;Niños y niñas de 6 meses a 5 años de edad;1119;11;12275;9.1;Occidente
+San Bernardo;Niños y niñas de 6 meses a 5 años de edad;3054;30;26806;11.4;Sur
+San Joaquín;Niños y niñas de 6 meses a 5 años de edad;1716;17;6167;27.8;Sur
+San José de Maipo;Niños y niñas de 6 meses a 5 años de edad;185;1;1257;14.7;Suroriente
+San Miguel;Niños y niñas de 6 meses a 5 años de edad;1328;13;8809;15.1;Sur
+San Pedro;Niños y niñas de 6 meses a 5 años de edad;76;;904;8.4;Occidente
+San Ramón;Niños y niñas de 6 meses a 5 años de edad;1183;11;5561;21.3;Suroriente
+Santiago;Niños y niñas de 6 meses a 5 años de edad;3001;29;26174;11.5;Central
+Talagante;Niños y niñas de 6 meses a 5 años de edad;866;8;6323;13.7;Occidente
+Tiltil;Niños y niñas de 6 meses a 5 años de edad;392;3;1647;23.8;Norte
+Vitacura;Niños y niñas de 6 meses a 5 años de edad;2504;25;6172;40.6;Oriente
+Ñuñoa;Niños y niñas de 6 meses a 5 años de edad;1191;11;14808;8.0;Oriente
+Alhué;Estrategia Capullo;12;;29;41.4;Occidente
+Buin;Estrategia Capullo;59;;359;16.4;Sur
+Calera de Tango;Estrategia Capullo;1;;64;1.6;Sur
+Cerrillos;Estrategia Capullo;3;;185;1.6;Central
+Cerro Navia;Estrategia Capullo;27;;351;7.7;Occidente
+Colina;Estrategia Capullo;4;;522;0.8;Norte
+Conchalí;Estrategia Capullo;10;;282;3.5;Norte
+Curacaví;Estrategia Capullo;9;;88;10.2;Occidente
+El Bosque;Estrategia Capullo;46;;359;12.8;Sur
+El Monte;Estrategia Capullo;1;;100;1.0;Occidente
+Estación Central;Estrategia Capullo;9;;545;1.7;Central
+Huechuraba;Estrategia Capullo;47;;224;21.0;Norte
+Independencia;Estrategia Capullo;16;;348;4.6;Norte
+Isla de Maipo;Estrategia Capullo;13;;90;14.4;Occidente
+La Cisterna;Estrategia Capullo;43;;235;18.3;Sur
+La Florida;Estrategia Capullo;24;;828;2.9;Suroriente
+La Granja;Estrategia Capullo;4;;251;1.6;Suroriente
+La Pintana;Estrategia Capullo;17;;478;3.6;Suroriente
+La Reina;Estrategia Capullo;21;;157;13.4;Oriente
+Lampa;Estrategia Capullo;9;;450;2.0;Norte
+Las Condes;Estrategia Capullo;31;;736;4.2;Oriente
+Lo Barnechea;Estrategia Capullo;11;;272;4.0;Oriente
+Lo Espejo;Estrategia Capullo;9;;231;3.9;Sur
+Lo Prado;Estrategia Capullo;1;;192;0.5;Occidente
+Macul;Estrategia Capullo;8;;275;2.9;Oriente
+Maipú;Estrategia Capullo;26;;1020;2.5;Central
+Melipilla;Estrategia Capullo;35;;409;8.6;Occidente
+Paine;Estrategia Capullo;22;;205;10.7;Sur
+Pedro Aguirre Cerda;Estrategia Capullo;22;;216;10.2;Sur
+Peñaflor;Estrategia Capullo;14;;218;6.4;Occidente
+Peñalolén;Estrategia Capullo;11;;484;2.3;Oriente
+Providencia;Estrategia Capullo;19;;362;5.2;Oriente
+Pudahuel;Estrategia Capullo;11;;507;2.2;Occidente
+Puente Alto;Estrategia Capullo;31;;1266;2.4;Suroriente
+Quilicura;Estrategia Capullo;86;;534;16.1;Norte
+Quinta Normal;Estrategia Capullo;3;;331;0.9;Occidente
+Recoleta;Estrategia Capullo;29;;400;7.2;Norte
+Renca;Estrategia Capullo;33;;380;8.7;Occidente
+San Bernardo;Estrategia Capullo;32;;811;3.9;Sur
+San Joaquín;Estrategia Capullo;24;;205;11.7;Sur
+San José de Maipo;Estrategia Capullo;1;;38;2.6;Suroriente
+San Miguel;Estrategia Capullo;17;;428;4.0;Sur
+San Ramón;Estrategia Capullo;5;;193;2.6;Suroriente
+Santiago;Estrategia Capullo;45;;1090;4.1;Central
+Talagante;Estrategia Capullo;1;;191;0.5;Occidente
+Tiltil;Estrategia Capullo;31;;63;49.2;Norte
+Vitacura;Estrategia Capullo;4;;320;1.2;Oriente
+Ñuñoa;Estrategia Capullo;17;;564;3.0;Oriente
+Alhué;Enfermos cronicos de 11 a 64 años de edad;479;4;1635;29.3;Occidente
+Buin;Enfermos cronicos de 11 a 64 años de edad;3091;30;14848;20.8;Sur
+Calera de Tango;Enfermos cronicos de 11 a 64 años de edad;630;6;2868;22.0;Sur
+Cerrillos;Enfermos cronicos de 11 a 64 años de edad;2181;21;10866;20.1;Central
+Cerro Navia;Enfermos cronicos de 11 a 64 años de edad;3827;38;25624;14.9;Occidente
+Colina;Enfermos cronicos de 11 a 64 años de edad;2882;28;9728;29.6;Norte
+Conchalí;Enfermos cronicos de 11 a 64 años de edad;3025;30;11359;26.6;Norte
+Curacaví;Enfermos cronicos de 11 a 64 años de edad;718;7;3190;22.5;Occidente
+El Bosque;Enfermos cronicos de 11 a 64 años de edad;6349;63;23609;26.9;Sur
+El Monte;Enfermos cronicos de 11 a 64 años de edad;669;6;3913;17.1;Occidente
+Estación Central;Enfermos cronicos de 11 a 64 años de edad;3078;30;14144;21.7;Central
+Huechuraba;Enfermos cronicos de 11 a 64 años de edad;5026;50;13130;38.3;Norte
+Independencia;Enfermos cronicos de 11 a 64 años de edad;2256;22;7570;29.8;Norte
+Isla de Maipo;Enfermos cronicos de 11 a 64 años de edad;1345;13;4333;31.0;Occidente
+La Cisterna;Enfermos cronicos de 11 a 64 años de edad;2777;27;21423;13.0;Sur
+La Florida;Enfermos cronicos de 11 a 64 años de edad;6146;61;26334;23.3;Suroriente
+La Granja;Enfermos cronicos de 11 a 64 años de edad;4411;44;12293;35.9;Suroriente
+La Pintana;Enfermos cronicos de 11 a 64 años de edad;3380;33;11488;29.4;Suroriente
+La Reina;Enfermos cronicos de 11 a 64 años de edad;1565;15;5964;26.2;Oriente
+Lampa;Enfermos cronicos de 11 a 64 años de edad;2396;23;10188;23.5;Norte
+Las Condes;Enfermos cronicos de 11 a 64 años de edad;3970;39;13308;29.8;Oriente
+Lo Barnechea;Enfermos cronicos de 11 a 64 años de edad;1308;13;4315;30.3;Oriente
+Lo Espejo;Enfermos cronicos de 11 a 64 años de edad;2160;21;9839;22.0;Sur
+Lo Prado;Enfermos cronicos de 11 a 64 años de edad;4478;44;15844;28.3;Occidente
+Macul;Enfermos cronicos de 11 a 64 años de edad;2192;21;10393;21.1;Oriente
+Maipú;Enfermos cronicos de 11 a 64 años de edad;13201;132;59580;22.2;Central
+María Pinto;Enfermos cronicos de 11 a 64 años de edad;535;5;1377;38.8;Occidente
+Melipilla;Enfermos cronicos de 11 a 64 años de edad;4326;43;14542;29.7;Occidente
+Padre Hurtado;Enfermos cronicos de 11 a 64 años de edad;1422;14;7107;20.0;Occidente
+Paine;Enfermos cronicos de 11 a 64 años de edad;2407;24;12549;19.2;Sur
+Pedro Aguirre Cerda;Enfermos cronicos de 11 a 64 años de edad;2849;28;9059;31.4;Sur
+Peñaflor;Enfermos cronicos de 11 a 64 años de edad;2113;21;5564;38.0;Occidente
+Peñalolén;Enfermos cronicos de 11 a 64 años de edad;5506;55;23453;23.5;Oriente
+Pirque;Enfermos cronicos de 11 a 64 años de edad;732;7;2689;27.2;Suroriente
+Providencia;Enfermos cronicos de 11 a 64 años de edad;1986;19;8204;24.2;Oriente
+Pudahuel;Enfermos cronicos de 11 a 64 años de edad;9667;96;52464;18.4;Occidente
+Puente Alto;Enfermos cronicos de 11 a 64 años de edad;12576;125;42689;29.5;Suroriente
+Quilicura;Enfermos cronicos de 11 a 64 años de edad;5398;53;20694;26.1;Norte
+Quinta Normal;Enfermos cronicos de 11 a 64 años de edad;2923;29;11992;24.4;Occidente
+Recoleta;Enfermos cronicos de 11 a 64 años de edad;4512;45;14969;30.1;Norte
+Renca;Enfermos cronicos de 11 a 64 años de edad;3273;32;17990;18.2;Occidente
+San Bernardo;Enfermos cronicos de 11 a 64 años de edad;5261;52;33169;15.9;Sur
+San Joaquín;Enfermos cronicos de 11 a 64 años de edad;2667;26;11675;22.8;Sur
+San José de Maipo;Enfermos cronicos de 11 a 64 años de edad;502;5;1832;27.4;Suroriente
+San Miguel;Enfermos cronicos de 11 a 64 años de edad;3293;32;15660;21.0;Sur
+San Pedro;Enfermos cronicos de 11 a 64 años de edad;314;3;1378;22.8;Occidente
+San Ramón;Enfermos cronicos de 11 a 64 años de edad;2446;24;11538;21.2;Suroriente
+Santiago;Enfermos cronicos de 11 a 64 años de edad;7669;76;40049;19.1;Central
+Talagante;Enfermos cronicos de 11 a 64 años de edad;2051;20;7248;28.3;Occidente
+Tiltil;Enfermos cronicos de 11 a 64 años de edad;772;7;1681;45.9;Norte
+Vitacura;Enfermos cronicos de 11 a 64 años de edad;783;7;2373;33.0;Oriente
+Ñuñoa;Enfermos cronicos de 11 a 64 años de edad;3198;31;12444;25.7;Oriente
+Alhué;Escolares de 1° a 5° año básico;53;;485;10.9;Occidente
+Buin;Escolares de 1° a 5° año básico;549;5;8234;6.7;Sur
+Calera de Tango;Escolares de 1° a 5° año básico;702;7;2025;34.7;Sur
+Cerrillos;Escolares de 1° a 5° año básico;620;6;5715;10.8;Central
+Cerro Navia;Escolares de 1° a 5° año básico;1232;12;8599;14.3;Occidente
+Colina;Escolares de 1° a 5° año básico;722;7;16620;4.3;Norte
+Conchalí;Escolares de 1° a 5° año básico;272;2;8031;3.4;Norte
+Curacaví;Escolares de 1° a 5° año básico;47;;2474;1.9;Occidente
+El Bosque;Escolares de 1° a 5° año básico;3967;39;11186;35.5;Sur
+El Monte;Escolares de 1° a 5° año básico;89;;2938;3.0;Occidente
+Estación Central;Escolares de 1° a 5° año básico;976;9;11336;8.6;Central
+Huechuraba;Escolares de 1° a 5° año básico;2698;26;8900;30.3;Norte
+Independencia;Escolares de 1° a 5° año básico;284;2;7588;3.7;Norte
+Isla de Maipo;Escolares de 1° a 5° año básico;524;5;2947;17.8;Occidente
+La Cisterna;Escolares de 1° a 5° año básico;586;5;5741;10.2;Sur
+La Florida;Escolares de 1° a 5° año básico;1535;15;23381;6.6;Suroriente
+La Granja;Escolares de 1° a 5° año básico;4696;46;7194;65.3;Suroriente
+La Pintana;Escolares de 1° a 5° año básico;728;7;14127;5.1;Suroriente
+La Reina;Escolares de 1° a 5° año básico;1362;13;5725;23.8;Oriente
+Lampa;Escolares de 1° a 5° año básico;664;6;11727;5.7;Norte
+Las Condes;Escolares de 1° a 5° año básico;1938;19;15862;12.2;Oriente
+Lo Barnechea;Escolares de 1° a 5° año básico;2105;21;10497;20.1;Oriente
+Lo Espejo;Escolares de 1° a 5° año básico;340;3;6388;5.3;Sur
+Lo Prado;Escolares de 1° a 5° año básico;2182;21;5897;37.0;Occidente
+Macul;Escolares de 1° a 5° año básico;2824;28;7041;40.1;Oriente
+Maipú;Escolares de 1° a 5° año básico;3455;34;36172;9.5;Central
+María Pinto;Escolares de 1° a 5° año básico;432;4;1037;41.7;Occidente
+Melipilla;Escolares de 1° a 5° año básico;2886;28;9760;29.6;Occidente
+Padre Hurtado;Escolares de 1° a 5° año básico;353;3;5511;6.4;Occidente
+Paine;Escolares de 1° a 5° año básico;139;1;6203;2.2;Sur
+Pedro Aguirre Cerda;Escolares de 1° a 5° año básico;1048;10;5952;17.6;Sur
+Peñaflor;Escolares de 1° a 5° año básico;595;5;7385;8.1;Occidente
+Peñalolén;Escolares de 1° a 5° año básico;1467;14;18047;8.1;Oriente
+Pirque;Escolares de 1° a 5° año básico;95;;2167;4.4;Suroriente
+Providencia;Escolares de 1° a 5° año básico;911;9;5606;16.3;Oriente
+Pudahuel;Escolares de 1° a 5° año básico;2547;25;17411;14.6;Occidente
+Puente Alto;Escolares de 1° a 5° año básico;4406;44;46089;9.6;Suroriente
+Quilicura;Escolares de 1° a 5° año básico;5148;51;20145;25.6;Norte
+Quinta Normal;Escolares de 1° a 5° año básico;6712;67;7783;86.2;Occidente
+Recoleta;Escolares de 1° a 5° año básico;2125;21;11099;19.1;Norte
+Renca;Escolares de 1° a 5° año básico;530;5;11377;4.7;Occidente
+San Bernardo;Escolares de 1° a 5° año básico;3302;33;25222;13.1;Sur
+San Joaquín;Escolares de 1° a 5° año básico;1370;13;5539;24.7;Sur
+San José de Maipo;Escolares de 1° a 5° año básico;265;2;1210;21.9;Suroriente
+San Miguel;Escolares de 1° a 5° año básico;1584;15;6998;22.6;Sur
+San Pedro;Escolares de 1° a 5° año básico;11;;776;1.4;Occidente
+San Ramón;Escolares de 1° a 5° año básico;1374;13;4962;27.7;Suroriente
+Santiago;Escolares de 1° a 5° año básico;1179;11;18465;6.4;Central
+Talagante;Escolares de 1° a 5° año básico;1222;12;5823;21.0;Occidente
+Tiltil;Escolares de 1° a 5° año básico;547;5;1490;36.7;Norte
+Vitacura;Escolares de 1° a 5° año básico;2637;26;5455;48.3;Oriente
+Ñuñoa;Escolares de 1° a 5° año básico;571;5;11284;5.1;Oriente
+Alhué;Embarazadas;18;;123;14.6;Occidente
+Buin;Embarazadas;245;2;1574;15.6;Sur
+Calera de Tango;Embarazadas;38;;318;11.9;Sur
+Cerrillos;Embarazadas;169;1;1014;16.6;Central
+Cerro Navia;Embarazadas;179;1;2014;8.9;Occidente
+Colina;Embarazadas;345;3;2478;13.9;Norte
+Conchalí;Embarazadas;217;2;1683;12.9;Norte
+Curacaví;Embarazadas;36;;421;8.6;Occidente
+El Bosque;Embarazadas;393;3;2323;16.9;Sur
+El Monte;Embarazadas;50;;510;9.6;Occidente
+Estación Central;Embarazadas;324;3;2633;12.3;Central
+Huechuraba;Embarazadas;205;2;1335;15.4;Norte
+Independencia;Embarazadas;282;2;1979;14.2;Norte
+Isla de Maipo;Embarazadas;87;;436;20.0;Occidente
+La Cisterna;Embarazadas;153;1;1158;13.2;Sur
+La Florida;Embarazadas;492;4;4722;10.4;Suroriente
+La Granja;Embarazadas;262;2;1507;17.4;Suroriente
+La Pintana;Embarazadas;235;2;2653;8.9;Suroriente
+La Reina;Embarazadas;108;1;887;12.2;Oriente
+Lampa;Embarazadas;240;2;1914;12.5;Norte
+Las Condes;Embarazadas;475;4;3679;12.9;Oriente
+Lo Barnechea;Embarazadas;178;1;1201;14.8;Oriente
+Lo Espejo;Embarazadas;180;1;1590;11.3;Sur
+Lo Prado;Embarazadas;227;2;1189;19.1;Occidente
+Macul;Embarazadas;177;1;1465;12.1;Oriente
+Maipú;Embarazadas;708;7;6061;11.7;Central
+María Pinto;Embarazadas;27;;167;16.2;Occidente
+Melipilla;Embarazadas;398;3;1923;20.7;Occidente
+Padre Hurtado;Embarazadas;82;;1032;7.9;Occidente
+Paine;Embarazadas;156;1;1066;14.6;Sur
+Pedro Aguirre Cerda;Embarazadas;171;1;1411;12.1;Sur
+Peñaflor;Embarazadas;136;1;1164;11.7;Occidente
+Peñalolén;Embarazadas;367;3;2895;12.7;Oriente
+Pirque;Embarazadas;44;;336;13.1;Suroriente
+Providencia;Embarazadas;191;1;1933;9.9;Oriente
+Pudahuel;Embarazadas;528;5;3082;17.1;Occidente
+Puente Alto;Embarazadas;704;7;7328;9.6;Suroriente
+Quilicura;Embarazadas;531;5;3491;15.2;Norte
+Quinta Normal;Embarazadas;156;1;1850;8.4;Occidente
+Recoleta;Embarazadas;297;2;2358;12.6;Norte
+Renca;Embarazadas;280;2;2121;13.2;Occidente
+San Bernardo;Embarazadas;326;3;4627;7.0;Sur
+San Joaquín;Embarazadas;138;1;1165;11.8;Sur
+San José de Maipo;Embarazadas;13;;168;7.7;Suroriente
+San Miguel;Embarazadas;258;2;1714;15.1;Sur
+San Pedro;Embarazadas;23;;123;18.7;Occidente
+San Ramón;Embarazadas;100;;1138;8.7;Suroriente
+Santiago;Embarazadas;755;7;6481;11.6;Central
+Talagante;Embarazadas;111;1;1049;10.6;Occidente
+Tiltil;Embarazadas;45;;289;15.6;Norte
+Vitacura;Embarazadas;174;1;1254;13.9;Oriente
+Ñuñoa;Embarazadas;294;2;2855;10.3;Oriente
+Alhué;Otras prioridades;25;;248;10.1;Occidente
+Buin;Otras prioridades;359;3;1504;23.9;Sur
+Calera de Tango;Otras prioridades;43;;576;7.5;Sur
+Cerrillos;Otras prioridades;11;;388;2.8;Central
+Cerro Navia;Otras prioridades;10;;2723;0.4;Occidente
+Colina;Otras prioridades;71;;3561;2.0;Norte
+Conchalí;Otras prioridades;41;;1348;3.0;Norte
+Curacaví;Otras prioridades;1;;655;0.2;Occidente
+El Bosque;Otras prioridades;1;;4113;0.0;Sur
+El Monte;Otras prioridades;13;;634;2.1;Occidente
+Estación Central;Otras prioridades;37;;4058;0.9;Central
+Huechuraba;Otras prioridades;205;2;1906;10.8;Norte
+Independencia;Otras prioridades;20;;2054;1.0;Norte
+Isla de Maipo;Otras prioridades;19;;1289;1.5;Occidente
+La Florida;Otras prioridades;64;;3840;1.7;Suroriente
+La Granja;Otras prioridades;61;;1837;3.3;Suroriente
+La Pintana;Otras prioridades;54;;1298;4.2;Suroriente
+La Reina;Otras prioridades;154;1;3781;4.1;Oriente
+Lampa;Otras prioridades;34;;429;7.9;Norte
+Las Condes;Otras prioridades;574;5;6416;8.9;Oriente
+Lo Barnechea;Otras prioridades;25;;1342;1.9;Oriente
+Lo Espejo;Otras prioridades;163;1;3367;4.8;Sur
+Lo Prado;Otras prioridades;14;;2130;0.7;Occidente
+Macul;Otras prioridades;82;;1370;6.0;Oriente
+Maipú;Otras prioridades;74;;5629;1.3;Central
+María Pinto;Otras prioridades;63;;197;32.0;Occidente
+Melipilla;Otras prioridades;227;2;763;29.8;Occidente
+Paine;Otras prioridades;8;;4312;0.2;Sur
+Pedro Aguirre Cerda;Otras prioridades;66;;1571;4.2;Sur
+Peñaflor;Otras prioridades;41;;1535;2.7;Occidente
+Peñalolén;Otras prioridades;80;;2747;2.9;Oriente
+Pirque;Otras prioridades;1;;200;0.5;Suroriente
+Providencia;Otras prioridades;144;1;5710;2.5;Oriente
+Pudahuel;Otras prioridades;20;;2341;0.9;Occidente
+Puente Alto;Otras prioridades;314;3;6111;5.1;Suroriente
+Quilicura;Otras prioridades;65;;1047;6.2;Norte
+Quinta Normal;Otras prioridades;6;;632;0.9;Occidente
+Recoleta;Otras prioridades;38;;2943;1.3;Norte
+Renca;Otras prioridades;371;3;7803;4.8;Occidente
+San Bernardo;Otras prioridades;234;2;8438;2.8;Sur
+San Joaquín;Otras prioridades;950;9;4107;23.1;Sur
+San Miguel;Otras prioridades;81;;2216;3.7;Sur
+San Pedro;Otras prioridades;2;;239;0.8;Occidente
+San Ramón;Otras prioridades;170;1;2035;8.4;Suroriente
+Santiago;Otras prioridades;585;5;9720;6.0;Central
+Talagante;Otras prioridades;10;;2480;0.4;Occidente
+Tiltil;Otras prioridades;103;1;1238;8.3;Norte
+Vitacura;Otras prioridades;32;;1088;2.9;Oriente
+Ñuñoa;Otras prioridades;20;;26254;0.1;Oriente
+Alhué;P. de salud: Privado;2;;5;40.0;Occidente
+Buin;P. de salud: Privado;205;2;205;100.0;Sur
+Calera de Tango;P. de salud: Privado;18;;63;28.6;Sur
+Cerrillos;P. de salud: Privado;65;;59;110.2;Central
+Cerro Navia;P. de salud: Privado;34;;33;103.0;Occidente
+Colina;P. de salud: Privado;372;3;529;70.3;Norte
+Conchalí;P. de salud: Privado;75;;130;57.7;Norte
+Curacaví;P. de salud: Privado;33;;63;52.4;Occidente
+El Bosque;P. de salud: Privado;145;1;151;96.0;Sur
+El Monte;P. de salud: Privado;6;;15;40.0;Occidente
+Estación Central;P. de salud: Privado;3126;31;5162;60.6;Central
+Huechuraba;P. de salud: Privado;110;1;157;70.1;Norte
+Independencia;P. de salud: Privado;3430;34;4140;82.9;Norte
+Isla de Maipo;P. de salud: Privado;11;;44;25.0;Occidente
+La Cisterna;P. de salud: Privado;266;2;175;152.0;Sur
+La Florida;P. de salud: Privado;2363;23;3554;66.5;Suroriente
+La Granja;P. de salud: Privado;55;;208;26.4;Suroriente
+La Pintana;P. de salud: Privado;134;1;225;59.6;Suroriente
+La Reina;P. de salud: Privado;325;3;888;36.6;Oriente
+Lampa;P. de salud: Privado;33;;95;34.7;Norte
+Las Condes;P. de salud: Privado;7314;73;8810;83.0;Oriente
+Lo Barnechea;P. de salud: Privado;1024;10;2103;48.7;Oriente
+Lo Espejo;P. de salud: Privado;38;;84;45.2;Sur
+Lo Prado;P. de salud: Privado;44;;95;46.3;Occidente
+Macul;P. de salud: Privado;675;6;870;77.6;Oriente
+Maipú;P. de salud: Privado;587;5;560;104.8;Central
+María Pinto;P. de salud: Privado;6;;7;85.7;Occidente
+Melipilla;P. de salud: Privado;525;5;559;93.9;Occidente
+Padre Hurtado;P. de salud: Privado;47;;87;54.0;Occidente
+Paine;P. de salud: Privado;43;;126;34.1;Sur
+Pedro Aguirre Cerda;P. de salud: Privado;76;;148;51.4;Sur
+Peñaflor;P. de salud: Privado;19;;80;23.8;Occidente
+Peñalolén;P. de salud: Privado;316;3;572;55.2;Oriente
+Pirque;P. de salud: Privado;14;;55;25.5;Suroriente
+Providencia;P. de salud: Privado;6893;68;11353;60.7;Oriente
+Pudahuel;P. de salud: Privado;216;2;332;65.1;Occidente
+Puente Alto;P. de salud: Privado;763;7;1158;65.9;Suroriente
+Quilicura;P. de salud: Privado;103;1;299;34.4;Norte
+Quinta Normal;P. de salud: Privado;37;;129;28.7;Occidente
+Recoleta;P. de salud: Privado;1619;16;3795;42.7;Norte
+Renca;P. de salud: Privado;53;;104;51.0;Occidente
+San Bernardo;P. de salud: Privado;427;4;1000;42.5;Sur
+San Joaquín;P. de salud: Privado;55;;153;35.9;Sur
+San José de Maipo;P. de salud: Privado;33;;66;50.0;Suroriente
+San Miguel;P. de salud: Privado;310;3;252;123.0;Sur
+San Ramón;P. de salud: Privado;30;;31;96.8;Suroriente
+Santiago;P. de salud: Privado;4470;44;5430;82.3;Central
+Talagante;P. de salud: Privado;71;;237;30.0;Occidente
+Tiltil;P. de salud: Privado;19;;20;95.0;Norte
+Vitacura;P. de salud: Privado;2978;29;7043;42.3;Oriente
+Ñuñoa;P. de salud: Privado;1358;13;1388;97.8;Oriente
+Alhué;P. de salud: Público;90;;113;79.6;Occidente
+Buin;P. de salud: Público;1018;10;1123;90.7;Sur
+Calera de Tango;P. de salud: Público;145;1;189;76.7;Sur
+Cerrillos;P. de salud: Público;256;2;347;73.8;Central
+Cerro Navia;P. de salud: Público;467;4;844;55.2;Occidente
+Colina;P. de salud: Público;660;6;882;74.8;Norte
+Conchalí;P. de salud: Público;767;7;917;83.6;Norte
+Curacaví;P. de salud: Público;208;2;345;60.3;Occidente
+El Bosque;P. de salud: Público;1399;13;1825;76.7;Sur
+El Monte;P. de salud: Público;211;2;466;45.3;Occidente
+Estación Central;P. de salud: Público;419;4;991;42.3;Central
+Huechuraba;P. de salud: Público;639;6;784;81.5;Norte
+Independencia;P. de salud: Público;4787;47;6599;72.5;Norte
+Isla de Maipo;P. de salud: Público;270;2;327;82.6;Occidente
+La Cisterna;P. de salud: Público;471;4;666;70.7;Sur
+La Florida;P. de salud: Público;3595;35;4659;77.2;Suroriente
+La Granja;P. de salud: Público;652;6;1124;57.9;Suroriente
+La Pintana;P. de salud: Público;643;6;1492;43.1;Suroriente
+La Reina;P. de salud: Público;2374;23;2194;108.2;Oriente
+Lampa;P. de salud: Público;470;4;567;82.9;Norte
+Las Condes;P. de salud: Público;1715;17;4206;40.8;Oriente
+Lo Barnechea;P. de salud: Público;308;3;551;55.9;Oriente
+Lo Espejo;P. de salud: Público;568;5;727;78.1;Sur
+Lo Prado;P. de salud: Público;639;6;835;76.5;Occidente
+Macul;P. de salud: Público;608;6;953;63.8;Oriente
+Maipú;P. de salud: Público;3445;34;5180;66.5;Central
+María Pinto;P. de salud: Público;95;;128;74.2;Occidente
+Melipilla;P. de salud: Público;1565;15;1627;96.2;Occidente
+Padre Hurtado;P. de salud: Público;198;1;400;49.5;Occidente
+Paine;P. de salud: Público;408;4;488;83.6;Sur
+Pedro Aguirre Cerda;P. de salud: Público;693;6;798;86.8;Sur
+Peñaflor;P. de salud: Público;820;8;1018;80.6;Occidente
+Peñalolén;P. de salud: Público;2823;28;3357;84.1;Oriente
+Pirque;P. de salud: Público;290;2;268;108.2;Suroriente
+Providencia;P. de salud: Público;6753;67;8442;80.0;Oriente
+Pudahuel;P. de salud: Público;1318;13;1752;75.2;Occidente
+Puente Alto;P. de salud: Público;5531;55;7922;69.8;Suroriente
+Quilicura;P. de salud: Público;832;8;1442;57.7;Norte
+Quinta Normal;P. de salud: Público;2624;26;3623;72.4;Occidente
+Recoleta;P. de salud: Público;1071;10;1890;56.7;Norte
+Renca;P. de salud: Público;838;8;1024;81.8;Occidente
+San Bernardo;P. de salud: Público;3132;31;4236;73.9;Sur
+San Joaquín;P. de salud: Público;528;5;702;75.2;Sur
+San José de Maipo;P. de salud: Público;462;4;695;66.5;Suroriente
+San Miguel;P. de salud: Público;4995;49;7531;66.3;Sur
+San Pedro;P. de salud: Público;102;1;118;86.4;Occidente
+San Ramón;P. de salud: Público;1705;17;3513;48.5;Suroriente
+Santiago;P. de salud: Público;7728;77;16201;47.7;Central
+Talagante;P. de salud: Público;897;8;1892;47.4;Occidente
+Tiltil;P. de salud: Público;222;2;244;91.0;Norte
+Vitacura;P. de salud: Público;277;2;310;89.4;Oriente
+Ñuñoa;P. de salud: Público;763;7;3646;20.9;Oriente
+Alhué;Trabajadores de avícolas y de criaderos de cerdo;1;;0;0.0;Occidente
+Buin;Trabajadores de avícolas y de criaderos de cerdo;28;;197;14.2;Sur
+Calera de Tango;Trabajadores de avícolas y de criaderos de cerdo;7;;53;13.2;Sur
+Cerro Navia;Trabajadores de avícolas y de criaderos de cerdo;1;;10;10.0;Occidente
+Colina;Trabajadores de avícolas y de criaderos de cerdo;140;1;219;63.9;Norte
+Curacaví;Trabajadores de avícolas y de criaderos de cerdo;53;;67;79.1;Occidente
+El Bosque;Trabajadores de avícolas y de criaderos de cerdo;4;;10;40.0;Sur
+El Monte;Trabajadores de avícolas y de criaderos de cerdo;654;6;664;98.5;Occidente
+Estación Central;Trabajadores de avícolas y de criaderos de cerdo;1;;8;12.5;Central
+Huechuraba;Trabajadores de avícolas y de criaderos de cerdo;30;;22;136.4;Norte
+Independencia;Trabajadores de avícolas y de criaderos de cerdo;2;;4;50.0;Norte
+Isla de Maipo;Trabajadores de avícolas y de criaderos de cerdo;85;;210;40.5;Occidente
+La Cisterna;Trabajadores de avícolas y de criaderos de cerdo;341;3;516;66.1;Sur
+La Florida;Trabajadores de avícolas y de criaderos de cerdo;4;;6;66.7;Suroriente
+La Granja;Trabajadores de avícolas y de criaderos de cerdo;4;;26;15.4;Suroriente
+La Pintana;Trabajadores de avícolas y de criaderos de cerdo;600;6;669;89.7;Suroriente
+La Reina;Trabajadores de avícolas y de criaderos de cerdo;2;;4;50.0;Oriente
+Lampa;Trabajadores de avícolas y de criaderos de cerdo;38;;152;25.0;Norte
+Las Condes;Trabajadores de avícolas y de criaderos de cerdo;8;;7;114.3;Oriente
+Lo Barnechea;Trabajadores de avícolas y de criaderos de cerdo;8;;3;266.7;Oriente
+Lo Espejo;Trabajadores de avícolas y de criaderos de cerdo;3;;2;150.0;Sur
+Lo Prado;Trabajadores de avícolas y de criaderos de cerdo;2;;0;0.0;Occidente
+Macul;Trabajadores de avícolas y de criaderos de cerdo;1;;16;6.2;Oriente
+Maipú;Trabajadores de avícolas y de criaderos de cerdo;10;;81;12.3;Central
+María Pinto;Trabajadores de avícolas y de criaderos de cerdo;56;;62;90.3;Occidente
+Melipilla;Trabajadores de avícolas y de criaderos de cerdo;780;7;1583;49.3;Occidente
+Paine;Trabajadores de avícolas y de criaderos de cerdo;25;;113;22.1;Sur
+Pedro Aguirre Cerda;Trabajadores de avícolas y de criaderos de cerdo;3;;0;0.0;Sur
+Peñaflor;Trabajadores de avícolas y de criaderos de cerdo;124;1;278;44.6;Occidente
+Peñalolén;Trabajadores de avícolas y de criaderos de cerdo;2;;5;40.0;Oriente
+Pirque;Trabajadores de avícolas y de criaderos de cerdo;157;1;138;113.0;Suroriente
+Providencia;Trabajadores de avícolas y de criaderos de cerdo;22;;34;64.7;Oriente
+Pudahuel;Trabajadores de avícolas y de criaderos de cerdo;203;2;110;184.5;Occidente
+Puente Alto;Trabajadores de avícolas y de criaderos de cerdo;12;;120;10.0;Suroriente
+Quilicura;Trabajadores de avícolas y de criaderos de cerdo;3;;7;42.9;Norte
+Quinta Normal;Trabajadores de avícolas y de criaderos de cerdo;3;;14;21.4;Occidente
+Recoleta;Trabajadores de avícolas y de criaderos de cerdo;6;;74;8.1;Norte
+Renca;Trabajadores de avícolas y de criaderos de cerdo;2;;4;50.0;Occidente
+San Bernardo;Trabajadores de avícolas y de criaderos de cerdo;474;4;688;68.9;Sur
+San Pedro;Trabajadores de avícolas y de criaderos de cerdo;637;6;1315;48.4;Occidente
+San Ramón;Trabajadores de avícolas y de criaderos de cerdo;1;;0;0.0;Suroriente
+Santiago;Trabajadores de avícolas y de criaderos de cerdo;38;;198;19.2;Central
+Talagante;Trabajadores de avícolas y de criaderos de cerdo;112;1;117;95.7;Occidente
+Tiltil;Trabajadores de avícolas y de criaderos de cerdo;2;;47;4.3;Norte
+Vitacura;Trabajadores de avícolas y de criaderos de cerdo;3;;0;0.0;Oriente
+Ñuñoa;Trabajadores de avícolas y de criaderos de cerdo;2;;1;200.0;Oriente
+Alhué;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;13;;103;12.6;Occidente
+Buin;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;173;1;1162;14.9;Sur
+Calera de Tango;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;135;1;363;37.2;Sur
+Cerrillos;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;158;1;1032;15.3;Central
+Cerro Navia;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;143;1;930;15.4;Occidente
+Colina;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;894;8;2915;30.7;Norte
+Conchalí;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;110;1;1098;10.0;Norte
+Curacaví;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;44;;416;10.6;Occidente
+El Bosque;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;978;9;2247;43.5;Sur
+El Monte;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;36;;733;4.9;Occidente
+Estación Central;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;260;2;1594;16.3;Central
+Huechuraba;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;795;7;1081;73.5;Norte
+Independencia;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;63;;1091;5.8;Norte
+Isla de Maipo;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;104;1;571;18.2;Occidente
+La Cisterna;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;149;1;890;16.7;Sur
+La Florida;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;556;5;4230;13.1;Suroriente
+La Granja;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;1077;10;1333;80.8;Suroriente
+La Pintana;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;350;3;2552;13.7;Suroriente
+La Reina;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;430;4;1428;30.1;Oriente
+Lampa;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;311;3;1277;24.4;Norte
+Las Condes;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;435;4;1633;26.6;Oriente
+Lo Barnechea;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;630;6;1957;32.2;Oriente
+Lo Espejo;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;90;;952;9.5;Sur
+Lo Prado;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;341;3;1064;32.0;Occidente
+Macul;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;611;6;1499;40.8;Oriente
+Maipú;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;674;6;4535;14.9;Central
+María Pinto;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;110;1;91;120.9;Occidente
+Melipilla;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;930;9;2004;46.4;Occidente
+Padre Hurtado;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;90;;799;11.3;Occidente
+Paine;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;107;1;921;11.6;Sur
+Pedro Aguirre Cerda;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;337;3;1510;22.3;Sur
+Peñaflor;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;113;1;967;11.7;Occidente
+Peñalolén;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;410;4;3286;12.5;Oriente
+Pirque;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;41;;409;10.0;Suroriente
+Providencia;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;255;2;1437;17.7;Oriente
+Pudahuel;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;612;6;1598;38.2;Occidente
+Puente Alto;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;1306;13;6066;21.5;Suroriente
+Quilicura;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;878;8;1949;44.8;Norte
+Quinta Normal;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;1066;10;1525;69.8;Occidente
+Recoleta;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;415;4;1638;25.3;Norte
+Renca;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;282;2;1975;14.3;Occidente
+San Bernardo;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;808;8;3048;26.5;Sur
+San Joaquín;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;510;5;1017;50.1;Sur
+San José de Maipo;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;57;;271;21.0;Suroriente
+San Miguel;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;426;4;1442;29.5;Sur
+San Pedro;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;20;;176;11.4;Occidente
+San Ramón;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;277;2;1044;26.5;Suroriente
+Santiago;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;359;3;3682;9.8;Central
+Talagante;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;311;3;1246;25.0;Occidente
+Tiltil;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;200;2;375;53.3;Norte
+Vitacura;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;502;5;1373;36.6;Oriente
+Ñuñoa;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;184;1;2022;9.1;Oriente
