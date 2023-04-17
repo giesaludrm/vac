@@ -243,7 +243,7 @@ fig4.update_xaxes(rangeslider_visible=True)
 fig_ind = go.Figure(go.Indicator(
     mode = "gauge+number",
     value = promedio_cob,   number={"suffix": "%", 'font_color':'black', 'font_size':28}, 
-    gauge = {'axis': {'range': [0, 85],'tickvals': [0, 20, 42.5, 65 ,85]}},
+    gauge = {'axis': {'range': [0, 100],'tickvals': [0, 25, 50, 75 ,100]},'threshold' : {'line': {'color': "red", 'width': 2}, 'thickness': 0.75, 'value': 95}},
     domain = {'x': [0, 1], 'y': [0, 1]},
     title = {"text": "Avance de vacunación"}
     ))
