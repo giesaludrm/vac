@@ -119,13 +119,23 @@ ult_sem = (vacxdia_gb["FECHA_INMUNIZACION"] >= mon_1sem) &  (vacxdia_gb["FECHA_I
 una_semana_atras = vacxdia_gb.loc[ult_sem]
 dos_semana_atras = vacxdia_gb.loc[pen_sem]
 
-mean_vacxdia_1sem = round(una_semana_atras["N° de vacunados"].mean())
-mean_vacxdia_1sem_f =str('{0:,}'.format(mean_vacxdia_1sem))
-mean_vacxdia_1sem_f = mean_vacxdia_1sem_f.replace(",", ".")
-mean_vacxdia_2sem = round(dos_semana_atras["N° de vacunados"].mean())
-diferencia_mean_vacxdia= mean_vacxdia_1sem - mean_vacxdia_2sem
-diferencia_mean_vacxdia_f =str('{0:,}'.format(diferencia_mean_vacxdia))
-diferencia_mean_vacxdia_f = diferencia_mean_vacxdia_f.replace(",", ".")
+try:
+    mean_vacxdia_1sem = round(una_semana_atras["N° de vacunados"].mean())
+    mean_vacxdia_1sem_f =str('{0:,}'.format(mean_vacxdia_1sem))
+    mean_vacxdia_1sem_f = mean_vacxdia_1sem_f.replace(",", ".")
+    mean_vacxdia_2sem = round(dos_semana_atras["N° de vacunados"].mean())
+    diferencia_mean_vacxdia= mean_vacxdia_1sem - mean_vacxdia_2sem
+    diferencia_mean_vacxdia_f =str('{0:,}'.format(diferencia_mean_vacxdia))
+    diferencia_mean_vacxdia_f = diferencia_mean_vacxdia_f.replace(",", ".")
+except ValueError:
+    st.error("No se encuentran disponibles registros de la semana pasada")
+#mean_vacxdia_1sem = round(una_semana_atras["N° de vacunados"].mean())
+#mean_vacxdia_1sem_f =str('{0:,}'.format(mean_vacxdia_1sem))
+#mean_vacxdia_1sem_f = mean_vacxdia_1sem_f.replace(",", ".")
+#mean_vacxdia_2sem = round(dos_semana_atras["N° de vacunados"].mean())
+#diferencia_mean_vacxdia= mean_vacxdia_1sem - mean_vacxdia_2sem
+#diferencia_mean_vacxdia_f =str('{0:,}'.format(diferencia_mean_vacxdia))
+#diferencia_mean_vacxdia_f = diferencia_mean_vacxdia_f.replace(",", ".")
 
 df.loc[len(df)] = new_row
 
@@ -270,10 +280,13 @@ with col1:
 
 with col2:
     st.metric(label="Dosis administradas", value= f"{dosis_adm}")
-    
-with col3:
-    st.metric(label= f"Promedio dosis diarias desde: {mon_1sem} hasta: {sun_1sem}",
-               value= f"{mean_vacxdia_1sem_f}", delta=f"{diferencia_mean_vacxdia_f}")
+
+
+try:
+    with col3:
+        st.metric(label= f"Promedio dosis diarias desde: {mon_1sem} hasta: {sun_1sem}",value= f"{mean_vacxdia_1sem_f}", delta=f"{diferencia_mean_vacxdia_f}")
+except NameError:
+    diferencia_mean_vacxdia_f = None 
 
 with col4:
     st.plotly_chart(fig, use_container_width=True)
