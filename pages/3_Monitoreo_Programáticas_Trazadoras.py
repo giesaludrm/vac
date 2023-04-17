@@ -242,7 +242,7 @@ fig4.update_xaxes(rangeslider_visible=True)
 # GRÁFICO INDICADOR: % AVANCE VACUNACIÓN
 fig_ind = go.Figure(go.Indicator(
     mode = "gauge+number",
-    value = promedio_cob,   number={"suffix": "%", 'font_color':'black', 'font_size':35}, 
+    value = promedio_cob,   number={"suffix": "%", 'font_color':'black', 'font_size':32}, 
     gauge = {'axis': {'range': [0, 85],'tickvals': [0, 20, 42.5, 65 ,85]}},
     domain = {'x': [0, 1], 'y': [0, 1]},
     title = {"text": "Avance de vacunación"}
