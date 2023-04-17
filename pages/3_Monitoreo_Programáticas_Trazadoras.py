@@ -17,7 +17,7 @@ st.title("Monitoreo Vacunas Programáticas - 2023")
 ################################# CARGA DE DATOS ###########################################
 df = pd.read_csv("prog_avance_vac_2023.csv", sep=";", encoding="latin-1")
 fecha_act = df["fecha_actualizacion"].iloc[0]
-st.markdown(f"Fecha de actualización: {fecha_act} - Datos provisorios")
+st.markdown(f"Datos provisorios /    Fecha de actualización: {fecha_act} / Fecha corte de datos: día anterior a la fecha de actualización")
 st.markdown("---")
 fecha_act = pd.to_datetime(fecha_act, format='%d-%m-%Y').strftime('%Y-%m-%d %H:%M:%S')
 fecha_act = pd.to_datetime(fecha_act).date()
