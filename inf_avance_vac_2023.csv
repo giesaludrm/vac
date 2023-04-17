@@ -1,0 +1,611 @@
+Comuna;Criterio_elegibilidad;N° de vacunados;N° de vacunados_fil;Población objetivo;Avance vacunación;Servicio;fecha_actualizacion
+Alhué;Población General;1294;12;4315;30.0;Occidente;10-04-2023
+Buin;Población General;10874;108;49777;21.8;Sur;10-04-2023
+Calera de Tango;Población General;3152;31;11769;26.8;Sur;10-04-2023
+Cerrillos;Población General;7829;78;37700;20.8;Central;10-04-2023
+Cerro Navia;Población General;11851;118;70538;16.8;Occidente;10-04-2023
+Colina;Población General;14116;141;69061;20.4;Norte;10-04-2023
+Conchalí;Población General;11715;117;55099;21.3;Norte;10-04-2023
+Curacaví;Población General;2730;27;15550;17.6;Occidente;10-04-2023
+El Bosque;Población General;26063;260;81250;32.1;Sur;10-04-2023
+El Monte;Población General;2966;29;18218;16.3;Occidente;10-04-2023
+Estación Central;Población General;15420;154;82377;18.7;Central;10-04-2023
+Huechuraba;Población General;16537;165;49277;33.6;Norte;10-04-2023
+Independencia;Población General;16981;169;59663;28.5;Norte;10-04-2023
+Isla de Maipo;Población General;4895;48;18269;26.8;Occidente;10-04-2023
+La Cisterna;Población General;10654;106;57432;18.6;Sur;10-04-2023
+La Florida;Población General;36275;362;155838;23.3;Suroriente;10-04-2023
+La Granja;Población General;21949;219;50245;43.7;Suroriente;10-04-2023
+La Pintana;Población General;13021;129;70278;18.5;Suroriente;10-04-2023
+La Reina;Población General;12886;128;43344;29.7;Oriente;10-04-2023
+Lampa;Población General;8237;82;49096;16.8;Norte;10-04-2023
+Las Condes;Población General;37060;370;132797;27.9;Oriente;10-04-2023
+Lo Barnechea;Población General;11581;115;43225;26.8;Oriente;10-04-2023
+Lo Espejo;Población General;7961;79;43769;18.2;Sur;10-04-2023
+Lo Prado;Población General;16722;167;50571;33.1;Occidente;10-04-2023
+Macul;Población General;14629;146;54434;26.9;Oriente;10-04-2023
+Maipú;Población General;47666;476;219646;21.7;Central;10-04-2023
+María Pinto;Población General;2442;24;6216;39.3;Occidente;10-04-2023
+Melipilla;Población General;21153;211;62962;33.6;Occidente;10-04-2023
+Padre Hurtado;Población General;4575;45;30508;15.0;Occidente;10-04-2023
+Paine;Población General;7012;70;42004;16.7;Sur;10-04-2023
+Pedro Aguirre Cerda;Población General;12218;122;44083;27.7;Sur;10-04-2023
+Peñaflor;Población General;8236;82;38091;21.6;Occidente;10-04-2023
+Peñalolén;Población General;22577;225;104742;21.5;Oriente;10-04-2023
+Pirque;Población General;2823;28;12409;22.7;Suroriente;10-04-2023
+Providencia;Población General;27755;277;78861;35.2;Oriente;10-04-2023
+Pudahuel;Población General;27173;271;123971;21.9;Occidente;10-04-2023
+Puente Alto;Población General;49600;495;226516;21.9;Suroriente;10-04-2023
+Quilicura;Población General;22488;224;86938;25.9;Norte;10-04-2023
+Quinta Normal;Población General;21766;217;57011;38.2;Occidente;10-04-2023
+Recoleta;Población General;19134;191;79389;24.1;Norte;10-04-2023
+Renca;Población General;11423;114;73834;15.5;Occidente;10-04-2023
+San Bernardo;Población General;24799;247;142627;17.4;Sur;10-04-2023
+San Joaquín;Población General;12807;128;48041;26.7;Sur;10-04-2023
+San José de Maipo;Población General;2387;23;8534;28.0;Suroriente;10-04-2023
+San Miguel;Población General;18638;186;65140;28.6;Sur;10-04-2023
+San Pedro;Población General;1693;16;7026;24.1;Occidente;10-04-2023
+San Ramón;Población General;11036;110;44042;25.1;Suroriente;10-04-2023
+Santiago;Población General;38420;384;173883;22.1;Central;10-04-2023
+Talagante;Población General;8425;84;35942;23.4;Occidente;10-04-2023
+Tiltil;Población General;3362;33;9742;34.5;Norte;10-04-2023
+Vitacura;Población General;15061;150;44616;33.8;Oriente;10-04-2023
+Ñuñoa;Población General;17294;172;117184;14.8;Oriente;10-04-2023
+Alhué;Personas mayores de 65 años y más;460;4;1029;44.7;Occidente;10-04-2023
+Buin;Personas mayores de 65 años y más;3856;38;11563;33.3;Sur;10-04-2023
+Calera de Tango;Personas mayores de 65 años y más;960;9;3243;29.6;Sur;10-04-2023
+Cerrillos;Personas mayores de 65 años y más;3493;34;11529;30.3;Central;10-04-2023
+Cerro Navia;Personas mayores de 65 años y más;4773;47;19912;24.0;Occidente;10-04-2023
+Colina;Personas mayores de 65 años y más;3860;38;13175;29.3;Norte;10-04-2023
+Conchalí;Personas mayores de 65 años y más;6403;64;21451;29.8;Norte;10-04-2023
+Curacaví;Personas mayores de 65 años y más;1276;12;5138;24.8;Occidente;10-04-2023
+El Bosque;Personas mayores de 65 años y más;8758;87;23840;36.7;Sur;10-04-2023
+El Monte;Personas mayores de 65 años y más;1024;10;4880;21.0;Occidente;10-04-2023
+Estación Central;Personas mayores de 65 años y más;5296;52;28595;18.5;Central;10-04-2023
+Huechuraba;Personas mayores de 65 años y más;4416;44;12637;34.9;Norte;10-04-2023
+Independencia;Personas mayores de 65 años y más;4742;47;18517;25.6;Norte;10-04-2023
+Isla de Maipo;Personas mayores de 65 años y más;1887;18;4884;38.6;Occidente;10-04-2023
+La Cisterna;Personas mayores de 65 años y más;5007;50;16370;30.6;Sur;10-04-2023
+La Florida;Personas mayores de 65 años y más;17755;177;59239;30.0;Suroriente;10-04-2023
+La Granja;Personas mayores de 65 años y más;6776;67;16446;41.2;Suroriente;10-04-2023
+La Pintana;Personas mayores de 65 años y más;5392;53;20063;26.9;Suroriente;10-04-2023
+La Reina;Personas mayores de 65 años y más;4790;47;16530;29.0;Oriente;10-04-2023
+Lampa;Personas mayores de 65 años y más;2556;25;9259;27.6;Norte;10-04-2023
+Las Condes;Personas mayores de 65 años y más;17353;173;59480;29.2;Oriente;10-04-2023
+Lo Barnechea;Personas mayores de 65 años y más;3696;36;11500;32.1;Oriente;10-04-2023
+Lo Espejo;Personas mayores de 65 años y más;3590;35;13671;26.3;Sur;10-04-2023
+Lo Prado;Personas mayores de 65 años y más;7269;72;17051;42.6;Occidente;10-04-2023
+Macul;Personas mayores de 65 años y más;5710;57;22587;25.2;Oriente;10-04-2023
+Maipú;Personas mayores de 65 años y más;21774;217;63302;34.4;Central;10-04-2023
+María Pinto;Personas mayores de 65 años y más;855;8;2033;42.1;Occidente;10-04-2023
+Melipilla;Personas mayores de 65 años y más;6402;63;19249;33.2;Occidente;10-04-2023
+Padre Hurtado;Personas mayores de 65 años y más;1959;19;8104;24.2;Occidente;10-04-2023
+Paine;Personas mayores de 65 años y más;2940;29;9651;30.5;Sur;10-04-2023
+Pedro Aguirre Cerda;Personas mayores de 65 años y más;5798;57;16959;34.2;Sur;10-04-2023
+Peñaflor;Personas mayores de 65 años y más;3748;37;11995;31.2;Occidente;10-04-2023
+Peñalolén;Personas mayores de 65 años y más;9659;96;31965;30.2;Oriente;10-04-2023
+Pirque;Personas mayores de 65 años y más;1290;12;3764;34.2;Suroriente;10-04-2023
+Providencia;Personas mayores de 65 años y más;7848;78;27465;28.6;Oriente;10-04-2023
+Pudahuel;Personas mayores de 65 años y más;9317;93;25470;36.6;Occidente;10-04-2023
+Puente Alto;Personas mayores de 65 años y más;17857;178;58764;30.4;Suroriente;10-04-2023
+Quilicura;Personas mayores de 65 años y más;5384;53;17126;31.4;Norte;10-04-2023
+Quinta Normal;Personas mayores de 65 años y más;5050;50;20596;24.5;Occidente;10-04-2023
+Recoleta;Personas mayores de 65 años y más;6803;68;27948;24.3;Norte;10-04-2023
+Renca;Personas mayores de 65 años y más;4642;46;18781;24.7;Occidente;10-04-2023
+San Bernardo;Personas mayores de 65 años y más;7749;77;34582;22.4;Sur;10-04-2023
+San Joaquín;Personas mayores de 65 años y más;4849;48;17309;28.0;Sur;10-04-2023
+San José de Maipo;Personas mayores de 65 años y más;869;8;2645;32.9;Suroriente;10-04-2023
+San Miguel;Personas mayores de 65 años y más;6346;63;20082;31.6;Sur;10-04-2023
+San Pedro;Personas mayores de 65 años y más;508;5;1962;25.9;Occidente;10-04-2023
+San Ramón;Personas mayores de 65 años y más;3745;37;14027;26.7;Suroriente;10-04-2023
+Santiago;Personas mayores de 65 años y más;12591;125;46393;27.1;Central;10-04-2023
+Talagante;Personas mayores de 65 años y más;2773;27;9336;29.7;Occidente;10-04-2023
+Tiltil;Personas mayores de 65 años y más;1029;10;2648;38.8;Norte;10-04-2023
+Vitacura;Personas mayores de 65 años y más;5167;51;19228;26.9;Oriente;10-04-2023
+Ñuñoa;Personas mayores de 65 años y más;9696;96;41918;23.1;Oriente;10-04-2023
+Alhué;Niños y niñas de 6 meses a 5 años de edad;141;1;545;25.9;Occidente;10-04-2023
+Buin;Niños y niñas de 6 meses a 5 años de edad;1291;12;9008;14.3;Sur;10-04-2023
+Calera de Tango;Niños y niñas de 6 meses a 5 años de edad;473;4;2007;23.6;Sur;10-04-2023
+Cerrillos;Niños y niñas de 6 meses a 5 años de edad;873;8;6323;13.8;Central;10-04-2023
+Cerro Navia;Niños y niñas de 6 meses a 5 años de edad;1158;11;9498;12.2;Occidente;10-04-2023
+Colina;Niños y niñas de 6 meses a 5 años de edad;4166;41;18432;22.6;Norte;10-04-2023
+Conchalí;Niños y niñas de 6 meses a 5 años de edad;795;7;8799;9.0;Norte;10-04-2023
+Curacaví;Niños y niñas de 6 meses a 5 años de edad;305;3;2693;11.3;Occidente;10-04-2023
+El Bosque;Niños y niñas de 6 meses a 5 años de edad;4023;40;11587;34.7;Sur;10-04-2023
+El Monte;Niños y niñas de 6 meses a 5 años de edad;213;2;3365;6.3;Occidente;10-04-2023
+Estación Central;Niños y niñas de 6 meses a 5 años de edad;1894;18;13311;14.2;Central;10-04-2023
+Huechuraba;Niños y niñas de 6 meses a 5 años de edad;2366;23;9101;26.0;Norte;10-04-2023
+Independencia;Niños y niñas de 6 meses a 5 años de edad;1099;10;9773;11.2;Norte;10-04-2023
+Isla de Maipo;Niños y niñas de 6 meses a 5 años de edad;550;5;3138;17.5;Occidente;10-04-2023
+La Cisterna;Niños y niñas de 6 meses a 5 años de edad;861;8;6145;14.0;Sur;10-04-2023
+La Florida;Niños y niñas de 6 meses a 5 años de edad;3741;37;25045;14.9;Suroriente;10-04-2023
+La Granja;Niños y niñas de 6 meses a 5 años de edad;3951;39;8026;49.2;Suroriente;10-04-2023
+La Pintana;Niños y niñas de 6 meses a 5 años de edad;1488;14;15233;9.6;Suroriente;10-04-2023
+La Reina;Niños y niñas de 6 meses a 5 años de edad;1755;17;5786;30.3;Oriente;10-04-2023
+Lampa;Niños y niñas de 6 meses a 5 años de edad;1486;14;13038;11.4;Norte;10-04-2023
+Las Condes;Niños y niñas de 6 meses a 5 años de edad;3247;32;18660;17.4;Oriente;10-04-2023
+Lo Barnechea;Niños y niñas de 6 meses a 5 años de edad;2288;22;9484;24.1;Oriente;10-04-2023
+Lo Espejo;Niños y niñas de 6 meses a 5 años de edad;820;8;6918;11.9;Sur;10-04-2023
+Lo Prado;Niños y niñas de 6 meses a 5 años de edad;1525;15;6274;24.3;Occidente;10-04-2023
+Macul;Niños y niñas de 6 meses a 5 años de edad;1741;17;7965;21.8;Oriente;10-04-2023
+Maipú;Niños y niñas de 6 meses a 5 años de edad;3712;37;37526;9.9;Central;10-04-2023
+María Pinto;Niños y niñas de 6 meses a 5 años de edad;263;2;1074;24.5;Occidente;10-04-2023
+Melipilla;Niños y niñas de 6 meses a 5 años de edad;3079;30;10543;29.2;Occidente;10-04-2023
+Padre Hurtado;Niños y niñas de 6 meses a 5 años de edad;424;4;6428;6.6;Occidente;10-04-2023
+Paine;Niños y niñas de 6 meses a 5 años de edad;757;7;6370;11.9;Sur;10-04-2023
+Pedro Aguirre Cerda;Niños y niñas de 6 meses a 5 años de edad;1155;11;6459;17.9;Sur;10-04-2023
+Peñaflor;Niños y niñas de 6 meses a 5 años de edad;513;5;7887;6.5;Occidente;10-04-2023
+Peñalolén;Niños y niñas de 6 meses a 5 años de edad;1936;19;17931;10.8;Oriente;10-04-2023
+Pirque;Niños y niñas de 6 meses a 5 años de edad;159;1;2316;6.9;Suroriente;10-04-2023
+Providencia;Niños y niñas de 6 meses a 5 años de edad;2733;27;8315;32.9;Oriente;10-04-2023
+Pudahuel;Niños y niñas de 6 meses a 5 años de edad;2734;27;18904;14.5;Occidente;10-04-2023
+Puente Alto;Niños y niñas de 6 meses a 5 años de edad;6100;60;49003;12.4;Suroriente;10-04-2023
+Quilicura;Niños y niñas de 6 meses a 5 años de edad;4060;40;20204;20.1;Norte;10-04-2023
+Quinta Normal;Niños y niñas de 6 meses a 5 años de edad;3186;31;8536;37.3;Occidente;10-04-2023
+Recoleta;Niños y niñas de 6 meses a 5 años de edad;2219;22;12275;18.1;Norte;10-04-2023
+Renca;Niños y niñas de 6 meses a 5 años de edad;1119;11;12275;9.1;Occidente;10-04-2023
+San Bernardo;Niños y niñas de 6 meses a 5 años de edad;3054;30;26806;11.4;Sur;10-04-2023
+San Joaquín;Niños y niñas de 6 meses a 5 años de edad;1716;17;6167;27.8;Sur;10-04-2023
+San José de Maipo;Niños y niñas de 6 meses a 5 años de edad;185;1;1257;14.7;Suroriente;10-04-2023
+San Miguel;Niños y niñas de 6 meses a 5 años de edad;1328;13;8809;15.1;Sur;10-04-2023
+San Pedro;Niños y niñas de 6 meses a 5 años de edad;76;;904;8.4;Occidente;10-04-2023
+San Ramón;Niños y niñas de 6 meses a 5 años de edad;1183;11;5561;21.3;Suroriente;10-04-2023
+Santiago;Niños y niñas de 6 meses a 5 años de edad;3001;29;26174;11.5;Central;10-04-2023
+Talagante;Niños y niñas de 6 meses a 5 años de edad;866;8;6323;13.7;Occidente;10-04-2023
+Tiltil;Niños y niñas de 6 meses a 5 años de edad;392;3;1647;23.8;Norte;10-04-2023
+Vitacura;Niños y niñas de 6 meses a 5 años de edad;2504;25;6172;40.6;Oriente;10-04-2023
+Ñuñoa;Niños y niñas de 6 meses a 5 años de edad;1191;11;14808;8.0;Oriente;10-04-2023
+Alhué;Estrategia Capullo;12;;29;41.4;Occidente;10-04-2023
+Buin;Estrategia Capullo;59;;359;16.4;Sur;10-04-2023
+Calera de Tango;Estrategia Capullo;1;;64;1.6;Sur;10-04-2023
+Cerrillos;Estrategia Capullo;3;;185;1.6;Central;10-04-2023
+Cerro Navia;Estrategia Capullo;27;;351;7.7;Occidente;10-04-2023
+Colina;Estrategia Capullo;4;;522;0.8;Norte;10-04-2023
+Conchalí;Estrategia Capullo;10;;282;3.5;Norte;10-04-2023
+Curacaví;Estrategia Capullo;9;;88;10.2;Occidente;10-04-2023
+El Bosque;Estrategia Capullo;46;;359;12.8;Sur;10-04-2023
+El Monte;Estrategia Capullo;1;;100;1.0;Occidente;10-04-2023
+Estación Central;Estrategia Capullo;9;;545;1.7;Central;10-04-2023
+Huechuraba;Estrategia Capullo;47;;224;21.0;Norte;10-04-2023
+Independencia;Estrategia Capullo;16;;348;4.6;Norte;10-04-2023
+Isla de Maipo;Estrategia Capullo;13;;90;14.4;Occidente;10-04-2023
+La Cisterna;Estrategia Capullo;43;;235;18.3;Sur;10-04-2023
+La Florida;Estrategia Capullo;24;;828;2.9;Suroriente;10-04-2023
+La Granja;Estrategia Capullo;4;;251;1.6;Suroriente;10-04-2023
+La Pintana;Estrategia Capullo;17;;478;3.6;Suroriente;10-04-2023
+La Reina;Estrategia Capullo;21;;157;13.4;Oriente;10-04-2023
+Lampa;Estrategia Capullo;9;;450;2.0;Norte;10-04-2023
+Las Condes;Estrategia Capullo;31;;736;4.2;Oriente;10-04-2023
+Lo Barnechea;Estrategia Capullo;11;;272;4.0;Oriente;10-04-2023
+Lo Espejo;Estrategia Capullo;9;;231;3.9;Sur;10-04-2023
+Lo Prado;Estrategia Capullo;1;;192;0.5;Occidente;10-04-2023
+Macul;Estrategia Capullo;8;;275;2.9;Oriente;10-04-2023
+Maipú;Estrategia Capullo;26;;1020;2.5;Central;10-04-2023
+Melipilla;Estrategia Capullo;35;;409;8.6;Occidente;10-04-2023
+Paine;Estrategia Capullo;22;;205;10.7;Sur;10-04-2023
+Pedro Aguirre Cerda;Estrategia Capullo;22;;216;10.2;Sur;10-04-2023
+Peñaflor;Estrategia Capullo;14;;218;6.4;Occidente;10-04-2023
+Peñalolén;Estrategia Capullo;11;;484;2.3;Oriente;10-04-2023
+Providencia;Estrategia Capullo;19;;362;5.2;Oriente;10-04-2023
+Pudahuel;Estrategia Capullo;11;;507;2.2;Occidente;10-04-2023
+Puente Alto;Estrategia Capullo;31;;1266;2.4;Suroriente;10-04-2023
+Quilicura;Estrategia Capullo;86;;534;16.1;Norte;10-04-2023
+Quinta Normal;Estrategia Capullo;3;;331;0.9;Occidente;10-04-2023
+Recoleta;Estrategia Capullo;29;;400;7.2;Norte;10-04-2023
+Renca;Estrategia Capullo;33;;380;8.7;Occidente;10-04-2023
+San Bernardo;Estrategia Capullo;32;;811;3.9;Sur;10-04-2023
+San Joaquín;Estrategia Capullo;24;;205;11.7;Sur;10-04-2023
+San José de Maipo;Estrategia Capullo;1;;38;2.6;Suroriente;10-04-2023
+San Miguel;Estrategia Capullo;17;;428;4.0;Sur;10-04-2023
+San Ramón;Estrategia Capullo;5;;193;2.6;Suroriente;10-04-2023
+Santiago;Estrategia Capullo;45;;1090;4.1;Central;10-04-2023
+Talagante;Estrategia Capullo;1;;191;0.5;Occidente;10-04-2023
+Tiltil;Estrategia Capullo;31;;63;49.2;Norte;10-04-2023
+Vitacura;Estrategia Capullo;4;;320;1.2;Oriente;10-04-2023
+Ñuñoa;Estrategia Capullo;17;;564;3.0;Oriente;10-04-2023
+Alhué;Enfermos cronicos de 11 a 64 años de edad;479;4;1635;29.3;Occidente;10-04-2023
+Buin;Enfermos cronicos de 11 a 64 años de edad;3091;30;14848;20.8;Sur;10-04-2023
+Calera de Tango;Enfermos cronicos de 11 a 64 años de edad;630;6;2868;22.0;Sur;10-04-2023
+Cerrillos;Enfermos cronicos de 11 a 64 años de edad;2181;21;10866;20.1;Central;10-04-2023
+Cerro Navia;Enfermos cronicos de 11 a 64 años de edad;3827;38;25624;14.9;Occidente;10-04-2023
+Colina;Enfermos cronicos de 11 a 64 años de edad;2882;28;9728;29.6;Norte;10-04-2023
+Conchalí;Enfermos cronicos de 11 a 64 años de edad;3025;30;11359;26.6;Norte;10-04-2023
+Curacaví;Enfermos cronicos de 11 a 64 años de edad;718;7;3190;22.5;Occidente;10-04-2023
+El Bosque;Enfermos cronicos de 11 a 64 años de edad;6349;63;23609;26.9;Sur;10-04-2023
+El Monte;Enfermos cronicos de 11 a 64 años de edad;669;6;3913;17.1;Occidente;10-04-2023
+Estación Central;Enfermos cronicos de 11 a 64 años de edad;3078;30;14144;21.7;Central;10-04-2023
+Huechuraba;Enfermos cronicos de 11 a 64 años de edad;5026;50;13130;38.3;Norte;10-04-2023
+Independencia;Enfermos cronicos de 11 a 64 años de edad;2256;22;7570;29.8;Norte;10-04-2023
+Isla de Maipo;Enfermos cronicos de 11 a 64 años de edad;1345;13;4333;31.0;Occidente;10-04-2023
+La Cisterna;Enfermos cronicos de 11 a 64 años de edad;2777;27;21423;13.0;Sur;10-04-2023
+La Florida;Enfermos cronicos de 11 a 64 años de edad;6146;61;26334;23.3;Suroriente;10-04-2023
+La Granja;Enfermos cronicos de 11 a 64 años de edad;4411;44;12293;35.9;Suroriente;10-04-2023
+La Pintana;Enfermos cronicos de 11 a 64 años de edad;3380;33;11488;29.4;Suroriente;10-04-2023
+La Reina;Enfermos cronicos de 11 a 64 años de edad;1565;15;5964;26.2;Oriente;10-04-2023
+Lampa;Enfermos cronicos de 11 a 64 años de edad;2396;23;10188;23.5;Norte;10-04-2023
+Las Condes;Enfermos cronicos de 11 a 64 años de edad;3970;39;13308;29.8;Oriente;10-04-2023
+Lo Barnechea;Enfermos cronicos de 11 a 64 años de edad;1308;13;4315;30.3;Oriente;10-04-2023
+Lo Espejo;Enfermos cronicos de 11 a 64 años de edad;2160;21;9839;22.0;Sur;10-04-2023
+Lo Prado;Enfermos cronicos de 11 a 64 años de edad;4478;44;15844;28.3;Occidente;10-04-2023
+Macul;Enfermos cronicos de 11 a 64 años de edad;2192;21;10393;21.1;Oriente;10-04-2023
+Maipú;Enfermos cronicos de 11 a 64 años de edad;13201;132;59580;22.2;Central;10-04-2023
+María Pinto;Enfermos cronicos de 11 a 64 años de edad;535;5;1377;38.8;Occidente;10-04-2023
+Melipilla;Enfermos cronicos de 11 a 64 años de edad;4326;43;14542;29.7;Occidente;10-04-2023
+Padre Hurtado;Enfermos cronicos de 11 a 64 años de edad;1422;14;7107;20.0;Occidente;10-04-2023
+Paine;Enfermos cronicos de 11 a 64 años de edad;2407;24;12549;19.2;Sur;10-04-2023
+Pedro Aguirre Cerda;Enfermos cronicos de 11 a 64 años de edad;2849;28;9059;31.4;Sur;10-04-2023
+Peñaflor;Enfermos cronicos de 11 a 64 años de edad;2113;21;5564;38.0;Occidente;10-04-2023
+Peñalolén;Enfermos cronicos de 11 a 64 años de edad;5506;55;23453;23.5;Oriente;10-04-2023
+Pirque;Enfermos cronicos de 11 a 64 años de edad;732;7;2689;27.2;Suroriente;10-04-2023
+Providencia;Enfermos cronicos de 11 a 64 años de edad;1986;19;8204;24.2;Oriente;10-04-2023
+Pudahuel;Enfermos cronicos de 11 a 64 años de edad;9667;96;52464;18.4;Occidente;10-04-2023
+Puente Alto;Enfermos cronicos de 11 a 64 años de edad;12576;125;42689;29.5;Suroriente;10-04-2023
+Quilicura;Enfermos cronicos de 11 a 64 años de edad;5398;53;20694;26.1;Norte;10-04-2023
+Quinta Normal;Enfermos cronicos de 11 a 64 años de edad;2923;29;11992;24.4;Occidente;10-04-2023
+Recoleta;Enfermos cronicos de 11 a 64 años de edad;4512;45;14969;30.1;Norte;10-04-2023
+Renca;Enfermos cronicos de 11 a 64 años de edad;3273;32;17990;18.2;Occidente;10-04-2023
+San Bernardo;Enfermos cronicos de 11 a 64 años de edad;5261;52;33169;15.9;Sur;10-04-2023
+San Joaquín;Enfermos cronicos de 11 a 64 años de edad;2667;26;11675;22.8;Sur;10-04-2023
+San José de Maipo;Enfermos cronicos de 11 a 64 años de edad;502;5;1832;27.4;Suroriente;10-04-2023
+San Miguel;Enfermos cronicos de 11 a 64 años de edad;3293;32;15660;21.0;Sur;10-04-2023
+San Pedro;Enfermos cronicos de 11 a 64 años de edad;314;3;1378;22.8;Occidente;10-04-2023
+San Ramón;Enfermos cronicos de 11 a 64 años de edad;2446;24;11538;21.2;Suroriente;10-04-2023
+Santiago;Enfermos cronicos de 11 a 64 años de edad;7669;76;40049;19.1;Central;10-04-2023
+Talagante;Enfermos cronicos de 11 a 64 años de edad;2051;20;7248;28.3;Occidente;10-04-2023
+Tiltil;Enfermos cronicos de 11 a 64 años de edad;772;7;1681;45.9;Norte;10-04-2023
+Vitacura;Enfermos cronicos de 11 a 64 años de edad;783;7;2373;33.0;Oriente;10-04-2023
+Ñuñoa;Enfermos cronicos de 11 a 64 años de edad;3198;31;12444;25.7;Oriente;10-04-2023
+Alhué;Escolares de 1° a 5° año básico;53;;485;10.9;Occidente;10-04-2023
+Buin;Escolares de 1° a 5° año básico;549;5;8234;6.7;Sur;10-04-2023
+Calera de Tango;Escolares de 1° a 5° año básico;702;7;2025;34.7;Sur;10-04-2023
+Cerrillos;Escolares de 1° a 5° año básico;620;6;5715;10.8;Central;10-04-2023
+Cerro Navia;Escolares de 1° a 5° año básico;1232;12;8599;14.3;Occidente;10-04-2023
+Colina;Escolares de 1° a 5° año básico;722;7;16620;4.3;Norte;10-04-2023
+Conchalí;Escolares de 1° a 5° año básico;272;2;8031;3.4;Norte;10-04-2023
+Curacaví;Escolares de 1° a 5° año básico;47;;2474;1.9;Occidente;10-04-2023
+El Bosque;Escolares de 1° a 5° año básico;3967;39;11186;35.5;Sur;10-04-2023
+El Monte;Escolares de 1° a 5° año básico;89;;2938;3.0;Occidente;10-04-2023
+Estación Central;Escolares de 1° a 5° año básico;976;9;11336;8.6;Central;10-04-2023
+Huechuraba;Escolares de 1° a 5° año básico;2698;26;8900;30.3;Norte;10-04-2023
+Independencia;Escolares de 1° a 5° año básico;284;2;7588;3.7;Norte;10-04-2023
+Isla de Maipo;Escolares de 1° a 5° año básico;524;5;2947;17.8;Occidente;10-04-2023
+La Cisterna;Escolares de 1° a 5° año básico;586;5;5741;10.2;Sur;10-04-2023
+La Florida;Escolares de 1° a 5° año básico;1535;15;23381;6.6;Suroriente;10-04-2023
+La Granja;Escolares de 1° a 5° año básico;4696;46;7194;65.3;Suroriente;10-04-2023
+La Pintana;Escolares de 1° a 5° año básico;728;7;14127;5.1;Suroriente;10-04-2023
+La Reina;Escolares de 1° a 5° año básico;1362;13;5725;23.8;Oriente;10-04-2023
+Lampa;Escolares de 1° a 5° año básico;664;6;11727;5.7;Norte;10-04-2023
+Las Condes;Escolares de 1° a 5° año básico;1938;19;15862;12.2;Oriente;10-04-2023
+Lo Barnechea;Escolares de 1° a 5° año básico;2105;21;10497;20.1;Oriente;10-04-2023
+Lo Espejo;Escolares de 1° a 5° año básico;340;3;6388;5.3;Sur;10-04-2023
+Lo Prado;Escolares de 1° a 5° año básico;2182;21;5897;37.0;Occidente;10-04-2023
+Macul;Escolares de 1° a 5° año básico;2824;28;7041;40.1;Oriente;10-04-2023
+Maipú;Escolares de 1° a 5° año básico;3455;34;36172;9.5;Central;10-04-2023
+María Pinto;Escolares de 1° a 5° año básico;432;4;1037;41.7;Occidente;10-04-2023
+Melipilla;Escolares de 1° a 5° año básico;2886;28;9760;29.6;Occidente;10-04-2023
+Padre Hurtado;Escolares de 1° a 5° año básico;353;3;5511;6.4;Occidente;10-04-2023
+Paine;Escolares de 1° a 5° año básico;139;1;6203;2.2;Sur;10-04-2023
+Pedro Aguirre Cerda;Escolares de 1° a 5° año básico;1048;10;5952;17.6;Sur;10-04-2023
+Peñaflor;Escolares de 1° a 5° año básico;595;5;7385;8.1;Occidente;10-04-2023
+Peñalolén;Escolares de 1° a 5° año básico;1467;14;18047;8.1;Oriente;10-04-2023
+Pirque;Escolares de 1° a 5° año básico;95;;2167;4.4;Suroriente;10-04-2023
+Providencia;Escolares de 1° a 5° año básico;911;9;5606;16.3;Oriente;10-04-2023
+Pudahuel;Escolares de 1° a 5° año básico;2547;25;17411;14.6;Occidente;10-04-2023
+Puente Alto;Escolares de 1° a 5° año básico;4406;44;46089;9.6;Suroriente;10-04-2023
+Quilicura;Escolares de 1° a 5° año básico;5148;51;20145;25.6;Norte;10-04-2023
+Quinta Normal;Escolares de 1° a 5° año básico;6712;67;7783;86.2;Occidente;10-04-2023
+Recoleta;Escolares de 1° a 5° año básico;2125;21;11099;19.1;Norte;10-04-2023
+Renca;Escolares de 1° a 5° año básico;530;5;11377;4.7;Occidente;10-04-2023
+San Bernardo;Escolares de 1° a 5° año básico;3302;33;25222;13.1;Sur;10-04-2023
+San Joaquín;Escolares de 1° a 5° año básico;1370;13;5539;24.7;Sur;10-04-2023
+San José de Maipo;Escolares de 1° a 5° año básico;265;2;1210;21.9;Suroriente;10-04-2023
+San Miguel;Escolares de 1° a 5° año básico;1584;15;6998;22.6;Sur;10-04-2023
+San Pedro;Escolares de 1° a 5° año básico;11;;776;1.4;Occidente;10-04-2023
+San Ramón;Escolares de 1° a 5° año básico;1374;13;4962;27.7;Suroriente;10-04-2023
+Santiago;Escolares de 1° a 5° año básico;1179;11;18465;6.4;Central;10-04-2023
+Talagante;Escolares de 1° a 5° año básico;1222;12;5823;21.0;Occidente;10-04-2023
+Tiltil;Escolares de 1° a 5° año básico;547;5;1490;36.7;Norte;10-04-2023
+Vitacura;Escolares de 1° a 5° año básico;2637;26;5455;48.3;Oriente;10-04-2023
+Ñuñoa;Escolares de 1° a 5° año básico;571;5;11284;5.1;Oriente;10-04-2023
+Alhué;Embarazadas;18;;123;14.6;Occidente;10-04-2023
+Buin;Embarazadas;245;2;1574;15.6;Sur;10-04-2023
+Calera de Tango;Embarazadas;38;;318;11.9;Sur;10-04-2023
+Cerrillos;Embarazadas;169;1;1014;16.6;Central;10-04-2023
+Cerro Navia;Embarazadas;179;1;2014;8.9;Occidente;10-04-2023
+Colina;Embarazadas;345;3;2478;13.9;Norte;10-04-2023
+Conchalí;Embarazadas;217;2;1683;12.9;Norte;10-04-2023
+Curacaví;Embarazadas;36;;421;8.6;Occidente;10-04-2023
+El Bosque;Embarazadas;393;3;2323;16.9;Sur;10-04-2023
+El Monte;Embarazadas;50;;510;9.6;Occidente;10-04-2023
+Estación Central;Embarazadas;324;3;2633;12.3;Central;10-04-2023
+Huechuraba;Embarazadas;205;2;1335;15.4;Norte;10-04-2023
+Independencia;Embarazadas;282;2;1979;14.2;Norte;10-04-2023
+Isla de Maipo;Embarazadas;87;;436;20.0;Occidente;10-04-2023
+La Cisterna;Embarazadas;153;1;1158;13.2;Sur;10-04-2023
+La Florida;Embarazadas;492;4;4722;10.4;Suroriente;10-04-2023
+La Granja;Embarazadas;262;2;1507;17.4;Suroriente;10-04-2023
+La Pintana;Embarazadas;235;2;2653;8.9;Suroriente;10-04-2023
+La Reina;Embarazadas;108;1;887;12.2;Oriente;10-04-2023
+Lampa;Embarazadas;240;2;1914;12.5;Norte;10-04-2023
+Las Condes;Embarazadas;475;4;3679;12.9;Oriente;10-04-2023
+Lo Barnechea;Embarazadas;178;1;1201;14.8;Oriente;10-04-2023
+Lo Espejo;Embarazadas;180;1;1590;11.3;Sur;10-04-2023
+Lo Prado;Embarazadas;227;2;1189;19.1;Occidente;10-04-2023
+Macul;Embarazadas;177;1;1465;12.1;Oriente;10-04-2023
+Maipú;Embarazadas;708;7;6061;11.7;Central;10-04-2023
+María Pinto;Embarazadas;27;;167;16.2;Occidente;10-04-2023
+Melipilla;Embarazadas;398;3;1923;20.7;Occidente;10-04-2023
+Padre Hurtado;Embarazadas;82;;1032;7.9;Occidente;10-04-2023
+Paine;Embarazadas;156;1;1066;14.6;Sur;10-04-2023
+Pedro Aguirre Cerda;Embarazadas;171;1;1411;12.1;Sur;10-04-2023
+Peñaflor;Embarazadas;136;1;1164;11.7;Occidente;10-04-2023
+Peñalolén;Embarazadas;367;3;2895;12.7;Oriente;10-04-2023
+Pirque;Embarazadas;44;;336;13.1;Suroriente;10-04-2023
+Providencia;Embarazadas;191;1;1933;9.9;Oriente;10-04-2023
+Pudahuel;Embarazadas;528;5;3082;17.1;Occidente;10-04-2023
+Puente Alto;Embarazadas;704;7;7328;9.6;Suroriente;10-04-2023
+Quilicura;Embarazadas;531;5;3491;15.2;Norte;10-04-2023
+Quinta Normal;Embarazadas;156;1;1850;8.4;Occidente;10-04-2023
+Recoleta;Embarazadas;297;2;2358;12.6;Norte;10-04-2023
+Renca;Embarazadas;280;2;2121;13.2;Occidente;10-04-2023
+San Bernardo;Embarazadas;326;3;4627;7.0;Sur;10-04-2023
+San Joaquín;Embarazadas;138;1;1165;11.8;Sur;10-04-2023
+San José de Maipo;Embarazadas;13;;168;7.7;Suroriente;10-04-2023
+San Miguel;Embarazadas;258;2;1714;15.1;Sur;10-04-2023
+San Pedro;Embarazadas;23;;123;18.7;Occidente;10-04-2023
+San Ramón;Embarazadas;100;;1138;8.7;Suroriente;10-04-2023
+Santiago;Embarazadas;755;7;6481;11.6;Central;10-04-2023
+Talagante;Embarazadas;111;1;1049;10.6;Occidente;10-04-2023
+Tiltil;Embarazadas;45;;289;15.6;Norte;10-04-2023
+Vitacura;Embarazadas;174;1;1254;13.9;Oriente;10-04-2023
+Ñuñoa;Embarazadas;294;2;2855;10.3;Oriente;10-04-2023
+Alhué;Otras prioridades;25;;248;10.1;Occidente;10-04-2023
+Buin;Otras prioridades;359;3;1504;23.9;Sur;10-04-2023
+Calera de Tango;Otras prioridades;43;;576;7.5;Sur;10-04-2023
+Cerrillos;Otras prioridades;11;;388;2.8;Central;10-04-2023
+Cerro Navia;Otras prioridades;10;;2723;0.4;Occidente;10-04-2023
+Colina;Otras prioridades;71;;3561;2.0;Norte;10-04-2023
+Conchalí;Otras prioridades;41;;1348;3.0;Norte;10-04-2023
+Curacaví;Otras prioridades;1;;655;0.2;Occidente;10-04-2023
+El Bosque;Otras prioridades;1;;4113;0.0;Sur;10-04-2023
+El Monte;Otras prioridades;13;;634;2.1;Occidente;10-04-2023
+Estación Central;Otras prioridades;37;;4058;0.9;Central;10-04-2023
+Huechuraba;Otras prioridades;205;2;1906;10.8;Norte;10-04-2023
+Independencia;Otras prioridades;20;;2054;1.0;Norte;10-04-2023
+Isla de Maipo;Otras prioridades;19;;1289;1.5;Occidente;10-04-2023
+La Florida;Otras prioridades;64;;3840;1.7;Suroriente;10-04-2023
+La Granja;Otras prioridades;61;;1837;3.3;Suroriente;10-04-2023
+La Pintana;Otras prioridades;54;;1298;4.2;Suroriente;10-04-2023
+La Reina;Otras prioridades;154;1;3781;4.1;Oriente;10-04-2023
+Lampa;Otras prioridades;34;;429;7.9;Norte;10-04-2023
+Las Condes;Otras prioridades;574;5;6416;8.9;Oriente;10-04-2023
+Lo Barnechea;Otras prioridades;25;;1342;1.9;Oriente;10-04-2023
+Lo Espejo;Otras prioridades;163;1;3367;4.8;Sur;10-04-2023
+Lo Prado;Otras prioridades;14;;2130;0.7;Occidente;10-04-2023
+Macul;Otras prioridades;82;;1370;6.0;Oriente;10-04-2023
+Maipú;Otras prioridades;74;;5629;1.3;Central;10-04-2023
+María Pinto;Otras prioridades;63;;197;32.0;Occidente;10-04-2023
+Melipilla;Otras prioridades;227;2;763;29.8;Occidente;10-04-2023
+Paine;Otras prioridades;8;;4312;0.2;Sur;10-04-2023
+Pedro Aguirre Cerda;Otras prioridades;66;;1571;4.2;Sur;10-04-2023
+Peñaflor;Otras prioridades;41;;1535;2.7;Occidente;10-04-2023
+Peñalolén;Otras prioridades;80;;2747;2.9;Oriente;10-04-2023
+Pirque;Otras prioridades;1;;200;0.5;Suroriente;10-04-2023
+Providencia;Otras prioridades;144;1;5710;2.5;Oriente;10-04-2023
+Pudahuel;Otras prioridades;20;;2341;0.9;Occidente;10-04-2023
+Puente Alto;Otras prioridades;314;3;6111;5.1;Suroriente;10-04-2023
+Quilicura;Otras prioridades;65;;1047;6.2;Norte;10-04-2023
+Quinta Normal;Otras prioridades;6;;632;0.9;Occidente;10-04-2023
+Recoleta;Otras prioridades;38;;2943;1.3;Norte;10-04-2023
+Renca;Otras prioridades;371;3;7803;4.8;Occidente;10-04-2023
+San Bernardo;Otras prioridades;234;2;8438;2.8;Sur;10-04-2023
+San Joaquín;Otras prioridades;950;9;4107;23.1;Sur;10-04-2023
+San Miguel;Otras prioridades;81;;2216;3.7;Sur;10-04-2023
+San Pedro;Otras prioridades;2;;239;0.8;Occidente;10-04-2023
+San Ramón;Otras prioridades;170;1;2035;8.4;Suroriente;10-04-2023
+Santiago;Otras prioridades;585;5;9720;6.0;Central;10-04-2023
+Talagante;Otras prioridades;10;;2480;0.4;Occidente;10-04-2023
+Tiltil;Otras prioridades;103;1;1238;8.3;Norte;10-04-2023
+Vitacura;Otras prioridades;32;;1088;2.9;Oriente;10-04-2023
+Ñuñoa;Otras prioridades;20;;26254;0.1;Oriente;10-04-2023
+Alhué;P. de salud: Privado;2;;5;40.0;Occidente;10-04-2023
+Buin;P. de salud: Privado;205;2;205;100.0;Sur;10-04-2023
+Calera de Tango;P. de salud: Privado;18;;63;28.6;Sur;10-04-2023
+Cerrillos;P. de salud: Privado;65;;59;110.2;Central;10-04-2023
+Cerro Navia;P. de salud: Privado;34;;33;103.0;Occidente;10-04-2023
+Colina;P. de salud: Privado;372;3;529;70.3;Norte;10-04-2023
+Conchalí;P. de salud: Privado;75;;130;57.7;Norte;10-04-2023
+Curacaví;P. de salud: Privado;33;;63;52.4;Occidente;10-04-2023
+El Bosque;P. de salud: Privado;145;1;151;96.0;Sur;10-04-2023
+El Monte;P. de salud: Privado;6;;15;40.0;Occidente;10-04-2023
+Estación Central;P. de salud: Privado;3126;31;5162;60.6;Central;10-04-2023
+Huechuraba;P. de salud: Privado;110;1;157;70.1;Norte;10-04-2023
+Independencia;P. de salud: Privado;3430;34;4140;82.9;Norte;10-04-2023
+Isla de Maipo;P. de salud: Privado;11;;44;25.0;Occidente;10-04-2023
+La Cisterna;P. de salud: Privado;266;2;175;152.0;Sur;10-04-2023
+La Florida;P. de salud: Privado;2363;23;3554;66.5;Suroriente;10-04-2023
+La Granja;P. de salud: Privado;55;;208;26.4;Suroriente;10-04-2023
+La Pintana;P. de salud: Privado;134;1;225;59.6;Suroriente;10-04-2023
+La Reina;P. de salud: Privado;325;3;888;36.6;Oriente;10-04-2023
+Lampa;P. de salud: Privado;33;;95;34.7;Norte;10-04-2023
+Las Condes;P. de salud: Privado;7314;73;8810;83.0;Oriente;10-04-2023
+Lo Barnechea;P. de salud: Privado;1024;10;2103;48.7;Oriente;10-04-2023
+Lo Espejo;P. de salud: Privado;38;;84;45.2;Sur;10-04-2023
+Lo Prado;P. de salud: Privado;44;;95;46.3;Occidente;10-04-2023
+Macul;P. de salud: Privado;675;6;870;77.6;Oriente;10-04-2023
+Maipú;P. de salud: Privado;587;5;560;104.8;Central;10-04-2023
+María Pinto;P. de salud: Privado;6;;7;85.7;Occidente;10-04-2023
+Melipilla;P. de salud: Privado;525;5;559;93.9;Occidente;10-04-2023
+Padre Hurtado;P. de salud: Privado;47;;87;54.0;Occidente;10-04-2023
+Paine;P. de salud: Privado;43;;126;34.1;Sur;10-04-2023
+Pedro Aguirre Cerda;P. de salud: Privado;76;;148;51.4;Sur;10-04-2023
+Peñaflor;P. de salud: Privado;19;;80;23.8;Occidente;10-04-2023
+Peñalolén;P. de salud: Privado;316;3;572;55.2;Oriente;10-04-2023
+Pirque;P. de salud: Privado;14;;55;25.5;Suroriente;10-04-2023
+Providencia;P. de salud: Privado;6893;68;11353;60.7;Oriente;10-04-2023
+Pudahuel;P. de salud: Privado;216;2;332;65.1;Occidente;10-04-2023
+Puente Alto;P. de salud: Privado;763;7;1158;65.9;Suroriente;10-04-2023
+Quilicura;P. de salud: Privado;103;1;299;34.4;Norte;10-04-2023
+Quinta Normal;P. de salud: Privado;37;;129;28.7;Occidente;10-04-2023
+Recoleta;P. de salud: Privado;1619;16;3795;42.7;Norte;10-04-2023
+Renca;P. de salud: Privado;53;;104;51.0;Occidente;10-04-2023
+San Bernardo;P. de salud: Privado;427;4;1000;42.5;Sur;10-04-2023
+San Joaquín;P. de salud: Privado;55;;153;35.9;Sur;10-04-2023
+San José de Maipo;P. de salud: Privado;33;;66;50.0;Suroriente;10-04-2023
+San Miguel;P. de salud: Privado;310;3;252;123.0;Sur;10-04-2023
+San Ramón;P. de salud: Privado;30;;31;96.8;Suroriente;10-04-2023
+Santiago;P. de salud: Privado;4470;44;5430;82.3;Central;10-04-2023
+Talagante;P. de salud: Privado;71;;237;30.0;Occidente;10-04-2023
+Tiltil;P. de salud: Privado;19;;20;95.0;Norte;10-04-2023
+Vitacura;P. de salud: Privado;2978;29;7043;42.3;Oriente;10-04-2023
+Ñuñoa;P. de salud: Privado;1358;13;1388;97.8;Oriente;10-04-2023
+Alhué;P. de salud: Público;90;;113;79.6;Occidente;10-04-2023
+Buin;P. de salud: Público;1018;10;1123;90.7;Sur;10-04-2023
+Calera de Tango;P. de salud: Público;145;1;189;76.7;Sur;10-04-2023
+Cerrillos;P. de salud: Público;256;2;347;73.8;Central;10-04-2023
+Cerro Navia;P. de salud: Público;467;4;844;55.2;Occidente;10-04-2023
+Colina;P. de salud: Público;660;6;882;74.8;Norte;10-04-2023
+Conchalí;P. de salud: Público;767;7;917;83.6;Norte;10-04-2023
+Curacaví;P. de salud: Público;208;2;345;60.3;Occidente;10-04-2023
+El Bosque;P. de salud: Público;1399;13;1825;76.7;Sur;10-04-2023
+El Monte;P. de salud: Público;211;2;466;45.3;Occidente;10-04-2023
+Estación Central;P. de salud: Público;419;4;991;42.3;Central;10-04-2023
+Huechuraba;P. de salud: Público;639;6;784;81.5;Norte;10-04-2023
+Independencia;P. de salud: Público;4787;47;6599;72.5;Norte;10-04-2023
+Isla de Maipo;P. de salud: Público;270;2;327;82.6;Occidente;10-04-2023
+La Cisterna;P. de salud: Público;471;4;666;70.7;Sur;10-04-2023
+La Florida;P. de salud: Público;3595;35;4659;77.2;Suroriente;10-04-2023
+La Granja;P. de salud: Público;652;6;1124;57.9;Suroriente;10-04-2023
+La Pintana;P. de salud: Público;643;6;1492;43.1;Suroriente;10-04-2023
+La Reina;P. de salud: Público;2374;23;2194;108.2;Oriente;10-04-2023
+Lampa;P. de salud: Público;470;4;567;82.9;Norte;10-04-2023
+Las Condes;P. de salud: Público;1715;17;4206;40.8;Oriente;10-04-2023
+Lo Barnechea;P. de salud: Público;308;3;551;55.9;Oriente;10-04-2023
+Lo Espejo;P. de salud: Público;568;5;727;78.1;Sur;10-04-2023
+Lo Prado;P. de salud: Público;639;6;835;76.5;Occidente;10-04-2023
+Macul;P. de salud: Público;608;6;953;63.8;Oriente;10-04-2023
+Maipú;P. de salud: Público;3445;34;5180;66.5;Central;10-04-2023
+María Pinto;P. de salud: Público;95;;128;74.2;Occidente;10-04-2023
+Melipilla;P. de salud: Público;1565;15;1627;96.2;Occidente;10-04-2023
+Padre Hurtado;P. de salud: Público;198;1;400;49.5;Occidente;10-04-2023
+Paine;P. de salud: Público;408;4;488;83.6;Sur;10-04-2023
+Pedro Aguirre Cerda;P. de salud: Público;693;6;798;86.8;Sur;10-04-2023
+Peñaflor;P. de salud: Público;820;8;1018;80.6;Occidente;10-04-2023
+Peñalolén;P. de salud: Público;2823;28;3357;84.1;Oriente;10-04-2023
+Pirque;P. de salud: Público;290;2;268;108.2;Suroriente;10-04-2023
+Providencia;P. de salud: Público;6753;67;8442;80.0;Oriente;10-04-2023
+Pudahuel;P. de salud: Público;1318;13;1752;75.2;Occidente;10-04-2023
+Puente Alto;P. de salud: Público;5531;55;7922;69.8;Suroriente;10-04-2023
+Quilicura;P. de salud: Público;832;8;1442;57.7;Norte;10-04-2023
+Quinta Normal;P. de salud: Público;2624;26;3623;72.4;Occidente;10-04-2023
+Recoleta;P. de salud: Público;1071;10;1890;56.7;Norte;10-04-2023
+Renca;P. de salud: Público;838;8;1024;81.8;Occidente;10-04-2023
+San Bernardo;P. de salud: Público;3132;31;4236;73.9;Sur;10-04-2023
+San Joaquín;P. de salud: Público;528;5;702;75.2;Sur;10-04-2023
+San José de Maipo;P. de salud: Público;462;4;695;66.5;Suroriente;10-04-2023
+San Miguel;P. de salud: Público;4995;49;7531;66.3;Sur;10-04-2023
+San Pedro;P. de salud: Público;102;1;118;86.4;Occidente;10-04-2023
+San Ramón;P. de salud: Público;1705;17;3513;48.5;Suroriente;10-04-2023
+Santiago;P. de salud: Público;7728;77;16201;47.7;Central;10-04-2023
+Talagante;P. de salud: Público;897;8;1892;47.4;Occidente;10-04-2023
+Tiltil;P. de salud: Público;222;2;244;91.0;Norte;10-04-2023
+Vitacura;P. de salud: Público;277;2;310;89.4;Oriente;10-04-2023
+Ñuñoa;P. de salud: Público;763;7;3646;20.9;Oriente;10-04-2023
+Alhué;Trabajadores de avícolas y de criaderos de cerdo;1;;0;0.0;Occidente;10-04-2023
+Buin;Trabajadores de avícolas y de criaderos de cerdo;28;;197;14.2;Sur;10-04-2023
+Calera de Tango;Trabajadores de avícolas y de criaderos de cerdo;7;;53;13.2;Sur;10-04-2023
+Cerro Navia;Trabajadores de avícolas y de criaderos de cerdo;1;;10;10.0;Occidente;10-04-2023
+Colina;Trabajadores de avícolas y de criaderos de cerdo;140;1;219;63.9;Norte;10-04-2023
+Curacaví;Trabajadores de avícolas y de criaderos de cerdo;53;;67;79.1;Occidente;10-04-2023
+El Bosque;Trabajadores de avícolas y de criaderos de cerdo;4;;10;40.0;Sur;10-04-2023
+El Monte;Trabajadores de avícolas y de criaderos de cerdo;654;6;664;98.5;Occidente;10-04-2023
+Estación Central;Trabajadores de avícolas y de criaderos de cerdo;1;;8;12.5;Central;10-04-2023
+Huechuraba;Trabajadores de avícolas y de criaderos de cerdo;30;;22;136.4;Norte;10-04-2023
+Independencia;Trabajadores de avícolas y de criaderos de cerdo;2;;4;50.0;Norte;10-04-2023
+Isla de Maipo;Trabajadores de avícolas y de criaderos de cerdo;85;;210;40.5;Occidente;10-04-2023
+La Cisterna;Trabajadores de avícolas y de criaderos de cerdo;341;3;516;66.1;Sur;10-04-2023
+La Florida;Trabajadores de avícolas y de criaderos de cerdo;4;;6;66.7;Suroriente;10-04-2023
+La Granja;Trabajadores de avícolas y de criaderos de cerdo;4;;26;15.4;Suroriente;10-04-2023
+La Pintana;Trabajadores de avícolas y de criaderos de cerdo;600;6;669;89.7;Suroriente;10-04-2023
+La Reina;Trabajadores de avícolas y de criaderos de cerdo;2;;4;50.0;Oriente;10-04-2023
+Lampa;Trabajadores de avícolas y de criaderos de cerdo;38;;152;25.0;Norte;10-04-2023
+Las Condes;Trabajadores de avícolas y de criaderos de cerdo;8;;7;114.3;Oriente;10-04-2023
+Lo Barnechea;Trabajadores de avícolas y de criaderos de cerdo;8;;3;266.7;Oriente;10-04-2023
+Lo Espejo;Trabajadores de avícolas y de criaderos de cerdo;3;;2;150.0;Sur;10-04-2023
+Lo Prado;Trabajadores de avícolas y de criaderos de cerdo;2;;0;0.0;Occidente;10-04-2023
+Macul;Trabajadores de avícolas y de criaderos de cerdo;1;;16;6.2;Oriente;10-04-2023
+Maipú;Trabajadores de avícolas y de criaderos de cerdo;10;;81;12.3;Central;10-04-2023
+María Pinto;Trabajadores de avícolas y de criaderos de cerdo;56;;62;90.3;Occidente;10-04-2023
+Melipilla;Trabajadores de avícolas y de criaderos de cerdo;780;7;1583;49.3;Occidente;10-04-2023
+Paine;Trabajadores de avícolas y de criaderos de cerdo;25;;113;22.1;Sur;10-04-2023
+Pedro Aguirre Cerda;Trabajadores de avícolas y de criaderos de cerdo;3;;0;0.0;Sur;10-04-2023
+Peñaflor;Trabajadores de avícolas y de criaderos de cerdo;124;1;278;44.6;Occidente;10-04-2023
+Peñalolén;Trabajadores de avícolas y de criaderos de cerdo;2;;5;40.0;Oriente;10-04-2023
+Pirque;Trabajadores de avícolas y de criaderos de cerdo;157;1;138;113.0;Suroriente;10-04-2023
+Providencia;Trabajadores de avícolas y de criaderos de cerdo;22;;34;64.7;Oriente;10-04-2023
+Pudahuel;Trabajadores de avícolas y de criaderos de cerdo;203;2;110;184.5;Occidente;10-04-2023
+Puente Alto;Trabajadores de avícolas y de criaderos de cerdo;12;;120;10.0;Suroriente;10-04-2023
+Quilicura;Trabajadores de avícolas y de criaderos de cerdo;3;;7;42.9;Norte;10-04-2023
+Quinta Normal;Trabajadores de avícolas y de criaderos de cerdo;3;;14;21.4;Occidente;10-04-2023
+Recoleta;Trabajadores de avícolas y de criaderos de cerdo;6;;74;8.1;Norte;10-04-2023
+Renca;Trabajadores de avícolas y de criaderos de cerdo;2;;4;50.0;Occidente;10-04-2023
+San Bernardo;Trabajadores de avícolas y de criaderos de cerdo;474;4;688;68.9;Sur;10-04-2023
+San Pedro;Trabajadores de avícolas y de criaderos de cerdo;637;6;1315;48.4;Occidente;10-04-2023
+San Ramón;Trabajadores de avícolas y de criaderos de cerdo;1;;0;0.0;Suroriente;10-04-2023
+Santiago;Trabajadores de avícolas y de criaderos de cerdo;38;;198;19.2;Central;10-04-2023
+Talagante;Trabajadores de avícolas y de criaderos de cerdo;112;1;117;95.7;Occidente;10-04-2023
+Tiltil;Trabajadores de avícolas y de criaderos de cerdo;2;;47;4.3;Norte;10-04-2023
+Vitacura;Trabajadores de avícolas y de criaderos de cerdo;3;;0;0.0;Oriente;10-04-2023
+Ñuñoa;Trabajadores de avícolas y de criaderos de cerdo;2;;1;200.0;Oriente;10-04-2023
+Alhué;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;13;;103;12.6;Occidente;10-04-2023
+Buin;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;173;1;1162;14.9;Sur;10-04-2023
+Calera de Tango;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;135;1;363;37.2;Sur;10-04-2023
+Cerrillos;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;158;1;1032;15.3;Central;10-04-2023
+Cerro Navia;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;143;1;930;15.4;Occidente;10-04-2023
+Colina;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;894;8;2915;30.7;Norte;10-04-2023
+Conchalí;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;110;1;1098;10.0;Norte;10-04-2023
+Curacaví;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;44;;416;10.6;Occidente;10-04-2023
+El Bosque;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;978;9;2247;43.5;Sur;10-04-2023
+El Monte;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;36;;733;4.9;Occidente;10-04-2023
+Estación Central;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;260;2;1594;16.3;Central;10-04-2023
+Huechuraba;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;795;7;1081;73.5;Norte;10-04-2023
+Independencia;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;63;;1091;5.8;Norte;10-04-2023
+Isla de Maipo;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;104;1;571;18.2;Occidente;10-04-2023
+La Cisterna;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;149;1;890;16.7;Sur;10-04-2023
+La Florida;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;556;5;4230;13.1;Suroriente;10-04-2023
+La Granja;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;1077;10;1333;80.8;Suroriente;10-04-2023
+La Pintana;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;350;3;2552;13.7;Suroriente;10-04-2023
+La Reina;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;430;4;1428;30.1;Oriente;10-04-2023
+Lampa;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;311;3;1277;24.4;Norte;10-04-2023
+Las Condes;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;435;4;1633;26.6;Oriente;10-04-2023
+Lo Barnechea;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;630;6;1957;32.2;Oriente;10-04-2023
+Lo Espejo;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;90;;952;9.5;Sur;10-04-2023
+Lo Prado;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;341;3;1064;32.0;Occidente;10-04-2023
+Macul;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;611;6;1499;40.8;Oriente;10-04-2023
+Maipú;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;674;6;4535;14.9;Central;10-04-2023
+María Pinto;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;110;1;91;120.9;Occidente;10-04-2023
+Melipilla;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;930;9;2004;46.4;Occidente;10-04-2023
+Padre Hurtado;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;90;;799;11.3;Occidente;10-04-2023
+Paine;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;107;1;921;11.6;Sur;10-04-2023
+Pedro Aguirre Cerda;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;337;3;1510;22.3;Sur;10-04-2023
+Peñaflor;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;113;1;967;11.7;Occidente;10-04-2023
+Peñalolén;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;410;4;3286;12.5;Oriente;10-04-2023
+Pirque;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;41;;409;10.0;Suroriente;10-04-2023
+Providencia;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;255;2;1437;17.7;Oriente;10-04-2023
+Pudahuel;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;612;6;1598;38.2;Occidente;10-04-2023
+Puente Alto;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;1306;13;6066;21.5;Suroriente;10-04-2023
+Quilicura;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;878;8;1949;44.8;Norte;10-04-2023
+Quinta Normal;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;1066;10;1525;69.8;Occidente;10-04-2023
+Recoleta;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;415;4;1638;25.3;Norte;10-04-2023
+Renca;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;282;2;1975;14.3;Occidente;10-04-2023
+San Bernardo;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;808;8;3048;26.5;Sur;10-04-2023
+San Joaquín;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;510;5;1017;50.1;Sur;10-04-2023
+San José de Maipo;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;57;;271;21.0;Suroriente;10-04-2023
+San Miguel;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;426;4;1442;29.5;Sur;10-04-2023
+San Pedro;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;20;;176;11.4;Occidente;10-04-2023
+San Ramón;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;277;2;1044;26.5;Suroriente;10-04-2023
+Santiago;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;359;3;3682;9.8;Central;10-04-2023
+Talagante;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;311;3;1246;25.0;Occidente;10-04-2023
+Tiltil;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;200;2;375;53.3;Norte;10-04-2023
+Vitacura;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;502;5;1373;36.6;Oriente;10-04-2023
+Ñuñoa;Trabajadores de la educación  preescolar y escolar hasta 5° año básico;184;1;2022;9.1;Oriente;10-04-2023
