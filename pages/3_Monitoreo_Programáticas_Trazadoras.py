@@ -90,7 +90,7 @@ df_filtro3 = df[["Servicio","Comuna", "Vacuna", "Dosis"]]
 
 ################# TRASPASO DE FILTROS A LOS OTROS DF #########################################
 
-vac_inf_com = vac_inf_com.merge(df_filtro, on=["Servicio","Comuna","Vacuna"], how="inner")
+vac_inf_com = vac_inf_com.merge(df_filtro3, on=["Servicio","Comuna","Vacuna", "Dosis"], how="inner")
 vacxdia = vacxdia.merge(df_filtro3, on=["Servicio","Comuna","Vacuna", "Dosis"], how="inner")
 vacxdia_gb = vacxdia.groupby(["FECHA_INMUNIZACION"]).sum("N° de vacunados").reset_index()
 vac_inf_geo = vac_inf_geo.merge(df_filtro, on=["Servicio","Comuna","Vacuna"], how="inner")
