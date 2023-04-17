@@ -6,20 +6,23 @@ import geopandas as gpd
 import numpy as np
 from datetime import datetime, timedelta
 import locale
-locale.setlocale(locale.LC_ALL, 'es_ES.utf8')
+#locale.setlocale(locale.LC_ALL, 'es_ES.utf8')
 
 ################# TÍTULO Y NOMBRE DE PÁGINA #############################################
 st.set_page_config("Monitoreo Vacunación Influenza", layout="wide")
-
 st.title("Monitoreo Vacunación Influenza - Campaña 2023")
-st.markdown("---")
 
 ################################# CARGA DE DATOS ###########################################
-df = pd.read_csv("avance_vac_inf_total_2023.csv", sep=";", encoding="latin-1")
-vac_inf_com = pd.read_csv("dosis_por_comuna_2023.csv", sep=";", encoding="latin-1")
+df = pd.read_csv("inf_avance_vac_2023.csv", sep=";", encoding="latin-1")
+fecha_act = df["fecha_actualizacion"].iloc[0]
+st.markdown(f"Fecha de actualización: {fecha_act} - Datos provisorios")
+st.markdown("---")
+fecha_act = pd.to_datetime(fecha_act, format='%d-%m-%Y').strftime('%Y-%m-%d %H:%M:%S')
+fecha_act = pd.to_datetime(fecha_act).date()
+vac_inf_com = pd.read_csv("inf_dosis_com_2023.csv", sep=";", encoding="latin-1")
 vacxdia = pd.read_csv("inf_vacxdia_com_2023.csv", sep=";", encoding="latin-1")
 df_criterios = df.loc[df["Criterio_elegibilidad"]!= "Población General"]
-vac_inf_geo = pd.read_csv("inf_n_estab_tot_geo_2023.csv", sep=";", encoding="latin-1")
+vac_inf_geo = pd.read_csv("inf_n_estab_geo_2023.csv", sep=";", encoding="latin-1")
 geo_df = gpd.read_file("comunas_rm.geojson")
 vacxdia_comp = pd.read_csv("inf_vacxdia_com_2022y2023.csv", sep=";", encoding="latin-1")
 vacxdia_comp["FECHA_INMUNIZACION"] = pd.to_datetime(vacxdia_comp["FECHA_INMUNIZACION"])
@@ -95,13 +98,13 @@ dosis_adm =str('{0:,}'.format(dosis_adm))
 dosis_adm = dosis_adm.replace(",", ".")
 vacxdia_gb["FECHA_INMUNIZACION"] = pd.to_datetime(vacxdia_gb["FECHA_INMUNIZACION"]).dt.date
 #fecha lunes de la semana pasada
-mon_1sem = ((datetime.now() -timedelta(days=(7+(datetime.now().weekday()) % 7)))).date()
+mon_1sem = ((fecha_act -timedelta(days=(7+(fecha_act.weekday()) % 7))))
 #fecha lunes de hace 2 semanas
-mon_2sem = ((datetime.now() -timedelta(days=(14+(datetime.now().weekday()) % 7)))).date()
+mon_2sem = ((fecha_act -timedelta(days=(14+(fecha_act.weekday()) % 7))))
 #fecha domingo de la semana pasada
-sun_1sem = ((datetime.now() -timedelta(days=((datetime.now().weekday() + 1) % 7)))).date()
+sun_1sem = ((fecha_act -timedelta(days=((fecha_act.weekday() + 1) % 7))))
 #fecha domingo de hace 2 semanas
-sun_2sem = ((datetime.now() -timedelta(days=(7+(datetime.now().weekday() + 1) % 7)))).date()
+sun_2sem = ((fecha_act -timedelta(days=(7+(fecha_act.weekday() + 1) % 7))))
 
 pen_sem = (vacxdia_gb["FECHA_INMUNIZACION"] >= mon_2sem) &  (vacxdia_gb["FECHA_INMUNIZACION"] <= sun_2sem) 
 ult_sem = (vacxdia_gb["FECHA_INMUNIZACION"] >= mon_1sem) &  (vacxdia_gb["FECHA_INMUNIZACION"] <= sun_1sem)

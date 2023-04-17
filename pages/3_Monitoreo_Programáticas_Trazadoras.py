@@ -13,11 +13,14 @@ locale.setlocale(locale.LC_ALL, 'es_ES.utf8')
 st.set_page_config("Monitoreo Vacunas Programáticas", layout="wide")
 
 st.title("Monitoreo Vacunas Programáticas - 2023")
-st.markdown("Fecha de actualización: 10-Abril-2023 - Datos provisorios")
-st.markdown("---")
 
 ################################# CARGA DE DATOS ###########################################
 df = pd.read_csv("prog_avance_vac_2023.csv", sep=";", encoding="latin-1")
+fecha_act = df["fecha_actualizacion"].iloc[0]
+st.markdown(f"Fecha de actualización: {fecha_act} - Datos provisorios")
+st.markdown("---")
+fecha_act = pd.to_datetime(fecha_act, format='%d-%m-%Y').strftime('%Y-%m-%d %H:%M:%S')
+fecha_act = pd.to_datetime(fecha_act).date()
 vac_inf_com = pd.read_csv("prog_dosis_com_2023.csv", sep=";", encoding="latin-1")
 vacxdia = pd.read_csv("prog_vacxdia_2023.csv", sep=";", encoding="latin-1")
 vac_inf_geo = pd.read_csv("prog_n_estab_geo_2023.csv", sep=";", encoding="latin-1")
@@ -102,13 +105,13 @@ dosis_adm =str('{0:,}'.format(dosis_adm))
 dosis_adm = dosis_adm.replace(",", ".")
 vacxdia_gb["FECHA_INMUNIZACION"] = pd.to_datetime(vacxdia_gb["FECHA_INMUNIZACION"]).dt.date
 #fecha lunes de la semana pasada
-mon_1sem = ((datetime.now() -timedelta(days=(7+(datetime.now().weekday()) % 7)))).date()
+mon_1sem = ((fecha_act -timedelta(days=(7+(fecha_act.weekday()) % 7))))
 #fecha lunes de hace 2 semanas
-mon_2sem = ((datetime.now() -timedelta(days=(14+(datetime.now().weekday()) % 7)))).date()
+mon_2sem = ((fecha_act -timedelta(days=(14+(fecha_act.weekday()) % 7))))
 #fecha domingo de la semana pasada
-sun_1sem = ((datetime.now() -timedelta(days=((datetime.now().weekday() + 1) % 7)))).date()
+sun_1sem = ((fecha_act -timedelta(days=((fecha_act.weekday() + 1) % 7))))
 #fecha domingo de hace 2 semanas
-sun_2sem = ((datetime.now() -timedelta(days=(7+(datetime.now().weekday() + 1) % 7)))).date()
+sun_2sem = ((fecha_act -timedelta(days=(7+(fecha_act.weekday() + 1) % 7))))
 
 pen_sem = (vacxdia_gb["FECHA_INMUNIZACION"] >= mon_2sem) &  (vacxdia_gb["FECHA_INMUNIZACION"] <= sun_2sem) 
 ult_sem = (vacxdia_gb["FECHA_INMUNIZACION"] >= mon_1sem) &  (vacxdia_gb["FECHA_INMUNIZACION"] <= sun_1sem)
