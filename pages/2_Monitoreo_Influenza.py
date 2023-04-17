@@ -247,6 +247,7 @@ vacxdia_f2 =  vacxdia_comp.groupby(["día-mes", "Campaña"]).sum("N° de vacunad
 fig5 = px.line(vacxdia_f2, x='día-mes', y='N° de vacunados', title='Comparación Dosis diarias - Campañas 2022 y 2023',
                 color='Campaña',  color_discrete_sequence= ["#3057D3", "#EC5307"])
 fig5.update_layout(xaxis_tickformat='%d-%b')
+fig5.update_traces(line=dict(width=1))
 fig5.update_xaxes(rangeslider_visible=True)
 
 # GRÁFICO INDICADOR: % AVANCE VACUNACIÓN
