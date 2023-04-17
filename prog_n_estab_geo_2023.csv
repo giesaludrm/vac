@@ -1,0 +1,1186 @@
+Comuna;CODIGO_DEIS;Establecimiento;Dosis;N° de vacunados;Criterio_elegibilidad;Vacuna;Servicio;Código Antiguo ;latitud;longitud
+Alhué;10-393;Centro de Salud Familiar Villa Alhué;Única;15;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-393;-34.032484;-71.100076
+Buin;13-320;Centro de Salud Familiar Maipo;Única;44;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-320;-33.734885;-70.784598
+Buin;13-333;Centro de Salud Familiar Alto Jahuel;Única;6;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-333;-33.735249;-70.684161
+Buin;13-390;Centro de Salud Familiar Dr. Héctor García;Única;85;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-390;-33.737754;-70.741333
+Buin;13-402;Centro Comunitario de Salud Familiar Dr. Ramón Galindo;Única;3;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-402;-33.75109;-70.735556
+Buin;13-404;Posta de Salud Rural Valdivia de Paine;Única;4;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-404;-33.811928;-70.86063
+Buin;13-405;Posta de Salud Rural Viluco;Única;2;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-405;-33.782229;-70.791771
+Buin;13-406;Posta de Salud Rural El Recurso;Única;1;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-406;-33.690787;-70.701729
+Buin;13-407;Posta de Salud Rural Los Morros;Única;4;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-407;-33.67046;-70.665548
+Buin;13-790;Centro Comunitario de Salud Familiar Dr. Héctor García;Única;6;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-790;-33.711787;-70.739533
+Buin;201162;KUME FELEN SPA;Única;2;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;201162;-33.730461;-70.741187
+Calera de Tango;13-321;Centro de Salud Familiar Calera de Tango;Única;9;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-321;-33.636009;-70.811012
+Calera de Tango;13-334;Centro de Salud Familiar Los Bajos de San Agustín;Única;6;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-334;-33.625946;-70.782415
+Cerrillos;11-305;Centro de Salud Familiar Dr. Norman Voulliéme;Única;72;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-305;-33.49331;-70.719201
+Cerrillos;11-307;Centro de Salud Familiar Enfermera Sofía Pincheira;Única;28;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-307;-33.501479;-70.733545
+Cerro Navia;10-330;Centro de Salud Familiar Dr. Adalberto Steeger;Única;48;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-330;-33.417518;-70.741198
+Cerro Navia;10-331;Centro de Salud Familiar Lo Amor;Única;25;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-331;-33.417581;-70.717399
+Cerro Navia;10-335;Centro de Salud Familiar Cerro Navia;Única;25;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-335;-33.419555;-70.750834
+Cerro Navia;10-355;Centro de Salud Familiar Dr. Arturo Albertz;Única;20;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-355;-33.433502;-70.731655
+Colina;09-310;Centro de Salud Familiar Colina;Única;58;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-310;-33.205979;-70.670553
+Colina;09-316;Centro de Salud Familiar Esmeralda;Única;11;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-316;-33.184133;-70.653657
+Colina;09-417;Posta de Salud Rural Los Ingleses;Única;2;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-417;-33.267323;-70.678694
+Colina;09-419;Posta de Salud Rural Santa Marta de Liray;Única;5;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-419;-33.240239;-70.736763
+Colina;09-905;Centro Médico Clínica Alemana de Chicureo;Única;2;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-905;-33.286284;-70.651801
+Colina;09-927;Centro Médico Clinica Las Condes de Chicureo (Servicios de Salud Integrados S.A.);Única;3;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-927;-33.283002;-70.651101
+Conchalí;09-302;Centro de Salud Familiar Lucas Sierra;Única;46;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-302;-33.388856;-70.671249
+Conchalí;09-308;Centro de Salud Familiar Alberto Bachelet Martínez;Única;80;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-308;-33.394414;-70.658337
+Conchalí;09-309;Centro de Salud Familiar José Symon Ojeda;Única;12;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-309;-33.378315;-70.692373
+Conchalí;09-314;Centro de Salud Familiar Juanita Aguirre;Única;26;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-314;-33.370386;-70.683005
+Curacaví;10-160;Hospital de Curacaví;Única;47;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-160;-33.4095;-71.145664
+El Bosque;13-312;Centro de Salud Familiar Dr. Carlos Lorca Tobar;Única;277;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-312;-33.554149;-70.666968
+El Bosque;13-314;Centro de Salud Familiar Cóndores de Chile;Única;170;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-314;-33.561362;-70.674691
+El Bosque;13-317;Centro de Salud Familiar Santa Laura;Única;122;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-317;-33.552491;-70.688809
+El Bosque;13-323;Centro de Salud Familiar Dr. Mario Salcedo;Única;128;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-323;-33.582081;-70.668768
+El Bosque;13-324;Centro de Salud Familiar Dra. Haydeé López Casoou;Única;114;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-324;-33.572212;-70.667054
+El Bosque;13-329;Centro de Salud Familiar Canciller Orlando Letelier;Única;126;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-329;-33.578041;-70.67785
+El Monte;10-370;Centro de Salud Familiar El Monte;Única;66;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-370;-33.681919;-70.986091
+Estación Central;11-230;Clínica Hospital del Profesor;Única;7;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-230;-33.457755;-70.702639
+Estación Central;11-295;Red Salud Santiago ex Clínica Bicentenario;Única;13;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-295;-33.457336;-70.701792
+Estación Central;11-302;Centro de Salud Familiar Padre Vicente Irarrázabal;Única;10;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-302;-33.47284;-70.691894
+Estación Central;11-306;Centro de Salud Familiar San José de Chuchunco;Única;31;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-306;-33.473682;-70.705982
+Estación Central;11-310;Centro de Salud Familiar Las Mercedes;Única;11;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-310;-33.451977;-70.703928
+Huechuraba;09-305;Centro de Salud Familiar La Pincoya;Única;26;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-305;-33.373386;-70.63702
+Huechuraba;09-317;Centro de Salud Familiar El Barrero;Única;21;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-317;-33.375909;-70.624663
+Huechuraba;09-323;Centro de Salud Familiar Dr. Salvador Allende Gossens;Única;6;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-323;-33.363415;-70.632789
+Huechuraba;09-718;Centro Comunitario de Salud Familiar Los Libertadores;Única;16;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-718;-33.360049;-70.683527
+Huechuraba;09-915;Centro de Salud Familiar Dr. Victor Castro Wiren;Única;34;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-915;-33.352605;-70.67705
+Independencia;09-100;Complejo Hospitalario San José (Santiago, Independencia);Única;4;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-100;-33.416586;-70.653318
+Independencia;09-101;Hospital Clínico de Niños Dr. Roberto del Río (Santiago, Independencia);Única;7;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-101;-33.415335;-70.655086
+Independencia;09-200;Hospital Clínico Universidad de Chile;Única;9;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-200;-33.420057;-70.653116
+Independencia;09-300;Centro de Salud Familiar Agustín Cruz Melo;Única;299;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-300;-33.415155;-70.657119
+Independencia;09-321;Centro de Salud Familiar Juan Antonio Ríos;Única;19;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-321;-33.417373;-70.668652
+Isla de Maipo;10-375;Centro de Salud Familiar Isla de Maipo;EPRO;1;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-375;-33.749042;-70.903306
+Isla de Maipo;10-375;Centro de Salud Familiar Isla de Maipo;Única;19;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-375;-33.749042;-70.903306
+Isla de Maipo;10-425;Centro de Salud Familiar La Islita;Única;14;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-425;-33.734795;-70.861701
+La Cisterna;13-311;Centro de Salud Familiar Santa Anselma;Única;99;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-311;-33.529594;-70.667368
+La Cisterna;13-326;Centro de Salud Familiar Eduardo Frei Montalva;Única;122;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-326;-33.538937;-70.66238
+La Florida;14-223;Clínica Vespucio;Única;5;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-223;-33.519116;-70.596867
+La Florida;14-302;Centro de Salud Familiar Los Castaños;Única;4;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-302;-33.511875;-70.577975
+La Florida;14-303;Centro de Salud Familiar Bellavista;Única;16;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-303;-33.518563;-70.602218
+La Florida;14-304;Centro de Salud Familiar Villa O'Higgins;Única;32;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-304;-33.531236;-70.604217
+La Florida;14-305;Centro de Salud Familiar Los Quillayes;Única;42;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-305;-33.560178;-70.60598
+La Florida;14-316;Centro de Salud Familiar Dr. Fernando Maffioletti;Única;26;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-316;-33.560204;-70.578515
+La Florida;14-324;Centro de Salud Familiar Santa Amalia;Única;16;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-324;-33.54375;-70.592829
+La Florida;14-330;Centro de Salud Familiar Trinidad;Única;6;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-330;-33.547211;-70.60862
+La Florida;14-331;Centro de Salud Familiar La Florida;Única;26;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-331;-33.514659;-70.585809
+La Florida;14-334;Centro de Salud Familiar José Alvo;Única;41;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-334;-33.557178;-70.582012
+La Florida;14-908;Clínica Bupa Santiago;Única;2;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-908;-33.509903;-70.598229
+La Granja;13-307;Centro de Salud Familiar Padre Esteban Gumucio Vives;Única;49;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;13-307;-33.519604;-70.623975
+La Granja;14-306;Centro de Salud Familiar La Granja;Única;7;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-306;-33.536995;-70.633668
+La Granja;14-315;Centro de Salud Familiar Malaquías Concha;Única;16;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-315;-33.527458;-70.621298
+La Granja;14-325;Centro de Salud Familiar Granja Sur;Única;54;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-325;-33.551822;-70.629548
+La Pintana;14-308;Centro de Salud Familiar San Rafael;Única;43;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-308;-33.579577;-70.639086
+La Pintana;14-311;Centro de Salud Familiar Santiago de Nueva Extremadura;Única;27;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-311;-33.588977;-70.618578
+La Pintana;14-317;Centro de Salud Familiar Santo Tomás;Única;18;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-317;-33.556972;-70.616542
+La Pintana;14-318;Centro de Salud Familiar Flor Fernández;Única;12;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-318;-33.585495;-70.636257
+La Pintana;14-319;Centro de Salud Familiar El Roble;Única;22;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-319;-33.563873;-70.647535
+La Pintana;14-327;Centro de Salud Familiar Juan Pablo II Red de Salud UC CHRISTUS;Única;25;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-327;-33.595431;-70.621698
+La Reina;12-317;Centro de Salud Familiar Ossandon;Única;48;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-317;-33.442855;-70.54447
+La Reina;12-320;Centro de Salud Familiar Juan Pablo II ( La Reina);Única;5;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-320;-33.456864;-70.532647
+La Reina;12-530;Hospital Militar de Santiago;Única;70;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-530;-33.45281;-70.56351
+Lampa;09-311;Centro de Salud Familiar José Bauza Frau;Única;29;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-311;-33.285648;-70.876237
+Lampa;09-312;Centro de Salud Familiar Batuco;Única;13;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-312;-33.241849;-70.81415
+Las Condes;12-204;Nueva Clínica Cordillera;Única;1;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-204;-33.42206;-70.52727
+Las Condes;12-212;Clínica Las Condes;Única;33;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-212;-33.384094;-70.530151
+Las Condes;12-238;Hospital FACH;Única;58;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-238;-33.395327;-70.548074
+Las Condes;12-261;Clínica San Carlos de Apoquindo Red de Salud UC CHRISTUS;Única;10;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-261;-33.40132;-70.51837
+Las Condes;12-272;Centro Médico Militar Rosa O'Higgins;Única;10;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-272;-33.405309;-70.585445
+Las Condes;12-304;Centro de Salud Familiar Apoquindo;Única;608;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-304;-33.400414;-70.56441
+Las Condes;12-306;Centro de Salud Familiar Aníbal Ariztía;Única;20;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-306;-33.417067;-70.53311
+Las Condes;12-950;Hospital Clínico Universidad de Los Andes;Única;12;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-950;-33.40656;-70.50017
+Las Condes;201094;Vacunatorio Medicien Alto El Plomo;Única;1;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;201094;-33.404764;-70.570812
+Las Condes;201157;Centro Médico y Dental Arauco Salud;Única;5;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;201157;-33.402191;-70.578247
+Lo Barnechea;12-307;Centro de Salud Familiar Lo Barnechea;Única;43;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-307;-33.351854;-70.509989
+Lo Barnechea;12-522;Centro Médico Clínica Santa María La Dehesa;Única;3;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-522;-33.357673;-70.51444
+Lo Barnechea;12-527;Centro Médico Clínica Alemana (La Dehesa);Única;25;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-527;-33.355705;-70.526293
+Lo Barnechea;12-906;Clínica MEDS La Dehesa;Única;3;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-906;-33.36385;-70.5446
+Lo Espejo;13-308;Centro de Salud Familiar Clara Estrella;Única;22;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-308;-33.514933;-70.676174
+Lo Espejo;13-309;Centro de Salud Familiar Julio Acuña Pinzón;Única;7;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-309;-33.522431;-70.69732
+Lo Espejo;13-310;Centro de Salud Familiar Dra. Mariela Salgado Zepeda;Única;8;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-310;-33.507423;-70.694073
+Lo Espejo;13-396;Centro de Salud Familiar Pueblo Lo Espejo;Única;20;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-396;-33.53472;-70.696425
+Lo Prado;10-315;Centro de Salud Familiar Santa Anita;Única;38;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-315;-33.43929;-70.7093
+Lo Prado;10-316;Centro de Salud Familiar Pablo Neruda;Única;48;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-316;-33.450001;-70.730087
+Lo Prado;10-340;Centro de Salud Familiar Dr. Raúl Yazigi;Única;45;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-340;-33.451755;-70.71605
+Lo Prado;10-345;Centro de Salud Familiar Dr. Carlos Avendaño;Única;66;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-345;-33.436875;-70.740448
+Macul;12-312;Centro de Salud Familiar Félix de Amesti;Única;18;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-312;-33.501502;-70.593927
+Macul;12-313;Centro de Salud Familiar Santa Julia;Única;12;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-313;-33.476364;-70.592875
+Macul;12-319;Centro de Salud Familiar Padre Alberto Hurtado;Única;86;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-319;-33.493484;-70.615109
+Macul;12-512;Centro Médico San Joaquín Red de Salud UC CHRISTUS;Única;2;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-512;-33.497116;-70.614619
+Maipú;11-304;Centro de Salud Familiar Maipú;Única;75;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-304;-33.504315;-70.75815
+Maipú;11-308;Centro de Salud Familiar Dr. José Eduardo Ahués Salame;Única;73;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-308;-33.505433;-70.774352
+Maipú;11-309;Centro de Salud Familiar Dra. Ana María Juricic;Única;17;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-309;-33.514065;-70.796603
+Maipú;11-378;Centro de Salud Familiar Dr. Iván Insunza;Única;19;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-378;-33.484273;-70.771353
+Maipú;11-379;Centro de Salud Familiar Clotario Blest;Única;65;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-379;-33.490025;-70.744879
+Maipú;11-380;Centro de Salud Familiar Dr. Carlos Godoy;Única;38;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-380;-33.52776;-70.796393
+Maipú;11-382;Centro de Salud Familiar Presidenta Michelle Bachelet;Única;96;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-382;-33.525395;-70.767836
+Maipú;11-383;Centro de Salud Familiar Dr. Luis Ferrada;Única;29;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-383;-33.473168;-70.75602
+María Pinto;10-385;Centro de Salud Familiar Adriana Madrid De Costabal;Única;11;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-385;-33.51714;-71.125008
+Melipilla;10-378;Centro de Salud Familiar Dr. Edelberto Elgueta;Única;77;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-378;-33.681498;-71.22595
+Melipilla;10-379;Centro de Salud Familiar Dr. Francisco Boris Soler;Única;21;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-379;-33.700239;-71.218134
+Melipilla;10-380;Centro de Salud Familiar San Manuel;Única;6;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-380;-33.773496;-71.257568
+Melipilla;10-381;Centro de Salud Familiar Alfarera Rosa Reyes Vilches;Única;8;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-381;-33.649845;-71.15045
+Melipilla;10-440;Posta de Salud Rural Bollenar;Única;3;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-440;-33.569087;-71.210906
+Melipilla;10-445;Posta de Salud Rural Pahuilmo;Única;6;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-445;-33.569161;-71.11575
+Melipilla;10-455;Posta de salud Rural Pabellón;Única;1;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-455;-33.750621;-71.198276
+Melipilla;10-938;Centro de Salud Familiar Florencia;Única;10;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-938;-33.684442;-71.213312
+Padre Hurtado;10-366;Centro de Salud Familiar Juan Pablo II ( Padre Hurtado);Única;35;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-366;-33.569779;-70.805151
+Paine;13-318;Centro de Salud Familiar Dr. Miguel Ángel Solar (ex CESFAM Paine);Única;51;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-318;-33.804827;-70.741211
+Paine;13-319;Centro de Salud Familiar Dr. Raúl Moya;Única;5;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-319;-33.868535;-70.747995
+Paine;13-408;Posta de Salud Rural Pintué;Única;5;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-408;-33.88597;-70.892169
+Paine;13-409;Posta de Salud Rural Huelquén;Única;6;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-409;-33.832761;-70.643261
+Paine;13-411;Posta de Salud Rural Abrantes;Única;3;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-411;-33.85926;-70.850687
+Pedro Aguirre Cerda;11-303;Centro de Salud Familiar Lo Valledor Norte;Única;23;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;11-303;-33.488282;-70.686377
+Pedro Aguirre Cerda;13-303;Centro de Salud Familiar Amador Neghme;Única;52;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-303;-33.503461;-70.676059
+Pedro Aguirre Cerda;13-306;Centro de Salud Familiar Padre Pierre Dubois (Ex La Feria);Única;43;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-306;-33.48971;-70.676018
+Pedro Aguirre Cerda;13-331;Centro de Salud Familiar Edgardo Enríquez Fröedden;Única;10;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-331;-33.480185;-70.669075
+Peñaflor;10-308;Centro de Salud Familiar Peñaflor;Única;46;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-308;-33.6088;-70.896258
+Peñaflor;10-369;Centro de Salud Familiar Dr. Fernando Monckeberg;Única;10;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-369;-33.609978;-70.871635
+Peñalolén;12-275;Centro Médico Alto Tobalaba - Vacunatorio Vacci Protex;Única;2;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-275;-33.48292;-70.557327
+Peñalolén;12-314;Centro de Salud Familiar La Faena;Única;22;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-314;-33.467931;-70.556011
+Peñalolén;12-315;Centro de Salud Familiar San Luis;Única;14;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-315;-33.508122;-70.577994
+Peñalolén;12-316;Centro de Salud Familiar Carol Urzúa Ibáñez;Única;56;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-316;-33.476897;-70.542996
+Peñalolén;12-318;Centro de Salud Familiar Lo Hermida;Única;15;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-318;-33.476942;-70.562722
+Peñalolén;12-321;Centro de Salud Familiar Cardenal Silva Henríquez;Única;4;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-321;-33.470387;-70.532225
+Peñalolén;12-322;Centro de Salud Familiar Padre Gerardo Whelan;Única;12;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-322;-33.473974;-70.574226
+Peñalolén;12-930;Clínica Las Condes Peñalolén;Única;14;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-930;-33.489949;-70.544831
+Peñalolén;201112;CESFAM Las Torres;Única;14;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;201112;-33.50287;-70.577602
+Pirque;14-310;Centro de Salud Familiar Dr. José Manuel Balmaceda;Única;14;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-310;-33.635077;-70.572477
+Pirque;14-333;Centro de Salud Rural El Principal;Única;17;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-333;-33.720684;-70.553279
+Providencia;12-211;Clínica Indisa;Única;8;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-211;-33.43333;-70.62855
+Providencia;12-249;Clínica Santa María;Única;29;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-249;-33.43282;-70.62822
+Providencia;12-301;Centro de Salud Familiar Dr. Hernán Alessandri;Única;52;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-301;-33.444228;-70.620427
+Providencia;12-302;Centro de Salud Familiar Dr. Alfonso Leng;Única;51;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-302;-33.431406;-70.618809
+Providencia;12-303;Centro de Salud Familiar Aguilucho;Única;54;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-303;-33.442673;-70.597096
+Providencia;12-943;Vacunatorio RENVAC;Única;1;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-943;-33.425381;-70.614023
+Providencia;12-945;Vacunatorio Clínica El Bosque;Única;9;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-945;-33.42821;-70.619211
+Providencia;200919;VACUMED;Única;1;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;200919;-33.435545;-70.631183
+Providencia;201156;VAXPROSALUD;Única;3;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;201156;-33.427625;-70.592504
+Pudahuel;10-350;Centro de Salud Familiar Pudahuel Estrella;Única;41;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-350;-33.437387;-70.750666
+Pudahuel;10-351;Centro de Salud Familiar Pudahuel Poniente;Única;17;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-351;-33.447426;-70.76289
+Pudahuel;10-352;Centro de Salud Familiar Dr. Gustavo Molina;Única;41;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-352;-33.458131;-70.76084
+Pudahuel;10-353;Centro de Salud Familiar Cardenal Raúl Silva Henríquez;Única;21;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-353;-33.429;-70.770919
+Pudahuel;10-354;Centro de Salud Familiar Violeta Parra;Única;111;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-354;-33.456935;-70.742752
+Puente Alto;14-301;Centro de Salud Familiar Dr. Alejandro del Río;Única;43;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-301;-33.607158;-70.578452
+Puente Alto;14-312;Centro de Salud Familiar San Gerónimo;Única;35;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-312;-33.623527;-70.588387
+Puente Alto;14-313;Centro de Salud Familiar Vista Hermosa;Única;11;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-313;-33.61107;-70.521039
+Puente Alto;14-320;Centro de Salud Familiar Bernardo Leighton;Única;63;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-320;-33.584276;-70.604383
+Puente Alto;14-321;Centro de Salud Familiar Cardenal Silva Henríquez;Única;17;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-321;-33.627923;-70.616459
+Puente Alto;14-322;Centro de Salud Familiar Padre Manuel Villaseca;Única;29;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-322;-33.583959;-70.556326
+Puente Alto;14-323;Centro de Salud Familiar Madre Teresa de Calcuta Red de Salud UC CHRISTUS;Única;15;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-323;-33.614332;-70.552683
+Puente Alto;14-326;Centro de Salud Familiar Karol Wojtyla;Única;16;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-326;-33.625966;-70.625759
+Puente Alto;14-329;Centro de Salud Familiar San Alberto Hurtado Red de Salud UC CHRISTUS;Única;18;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-329;-33.59663;-70.556535
+Puente Alto;14-332;Centro de Salud Familiar Laurita Vicuña;Única;12;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-332;-33.591149;-70.595281
+Quilicura;09-313;Centro de Salud Familiar Irene Frei de Cid;Única;18;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-313;-33.365842;-70.746633
+Quilicura;09-315;Centro de Salud Familiar Manuel Bustos Huerta;Única;28;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-315;-33.354232;-70.720395
+Quilicura;09-324;Centro de Salud Familiar Presidente Salvador Allende Gossens;Única;30;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-324;-33.354498;-70.737981
+Quilicura;201091;CESFAM Marta Ugarte Román;Única;11;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;201091;-33.369414;-70.73201
+Quinta Normal;10-120;Hospital Dr. Félix Bulnes Cerda (Santiago, Quinta Normal);Única;1;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-120;-33.415057;-70.696103
+Quinta Normal;10-310;Centro de Salud Familiar Andes;Única;5;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-310;-33.434192;-70.692944
+Quinta Normal;10-320;Centro de Salud Familiar Lo Franco;Única;25;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-320;-33.422508;-70.694803
+Quinta Normal;10-325;Centro de Salud Familiar Garín;Única;33;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-325;-33.430421;-70.714351
+Recoleta;09-201;Clínica Dávila;Única;6;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-201;-33.427257;-70.648544
+Recoleta;09-301;Centro de Salud Familiar Recoleta;Única;22;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-301;-33.423922;-70.645768
+Recoleta;09-303;Centro de Salud Familiar Quinta Bella;Única;35;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-303;-33.403207;-70.634602
+Recoleta;09-304;Centro de Salud Familiar Valdivieso;Única;17;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-304;-33.410322;-70.631219
+Recoleta;09-307;Centro de Salud Familiar Dr. Juan Petrinovic (Ex Scroggie);Única;46;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-307;-33.384392;-70.644939
+Recoleta;09-390;Centro de Salud Familiar Cristo Vive (ONG);Única;49;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-390;-33.387053;-70.641803
+Renca;10-360;Centro de Salud Familiar Renca;Única;37;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-360;-33.403452;-70.709698
+Renca;10-361;Centro de Salud Familiar Bicentenario;Única;25;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-361;-33.397669;-70.749713
+Renca;10-362;Centro de Salud Familiar Dr. Hernán Urzúa Merino;Única;8;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-362;-33.411478;-70.728472
+Renca;10-364;Centro de Salud Familiar Huamachuco;Única;15;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-364;-33.39126;-70.698932
+San Bernardo;13-313;Centro de Salud Familiar Raúl Cuevas (Ex-San Bernardo);Única;79;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-313;-33.597631;-70.714846
+San Bernardo;13-315;Centro de Salud Familiar Confraternidad;Única;33;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-315;-33.589661;-70.682857
+San Bernardo;13-316;Centro de Salud Familiar Carol Urzúa;Única;17;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-316;-33.575808;-70.703607
+San Bernardo;13-328;Centro de Salud Familiar Padre Joan Alsina;Única;20;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-328;-33.613987;-70.697869
+San Bernardo;13-330;Centro de Salud Familiar Raúl Brañes F.;Única;92;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-330;-33.59866;-70.68036
+San Bernardo;13-332;Centro de Salud Familiar Juan Pablo II ( San Bernardo);Única;18;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-332;-33.584476;-70.692076
+San Bernardo;13-394;Centro de Salud Familiar El Manzano;Única;35;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-394;-33.590706;-70.666217
+San Joaquín;13-301;Centro de Salud Familiar San Joaquín;EPRO;1;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-301;-33.486494;-70.623533
+San Joaquín;13-301;Centro de Salud Familiar San Joaquín;Única;62;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-301;-33.486494;-70.623533
+San Joaquín;13-305;Centro de Salud Familiar Arturo Baeza Goñi;Única;19;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-305;-33.491964;-70.633221
+San Joaquín;13-322;Centro de Salud Familiar Santa Teresa de Los Andes;Única;2;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-322;-33.506303;-70.624386
+San José de Maipo;14-102;Hospital San José de Maipo;Única;13;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-102;-33.641256;-70.352299
+San José de Maipo;14-407;Posta de Salud Rural Las Vertientes;Única;11;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-407;-33.592102;-70.482171
+San Miguel;13-300;Centro de Salud Familiar Barros Luco;Única;21;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-300;-33.48279;-70.648764
+San Miguel;13-302;Centro de Salud Familiar Recreo;Única;26;Personas 65 años de edad;Neumocócica polisacárida 23V;Sur;13-302;-33.510116;-70.64902
+San Ramón;14-103;Hospital Padre Alberto Hurtado (San Ramón);Única;10;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-103;-33.5525;-70.635024
+San Ramón;14-307;Centro de Salud Familiar La Bandera;Única;5;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-307;-33.545428;-70.644824
+San Ramón;14-314;Centro de Salud Familiar Dr. Salvador Allende (Ex Consultorio San Ramón);Única;30;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-314;-33.537986;-70.640552
+San Ramón;14-328;Centro de Salud Familiar Poetisa Gabriela Mistral;Única;14;Personas 65 años de edad;Neumocócica polisacárida 23V;Suroriente;14-328;-33.551606;-70.640729
+Santiago;10-100;Hospital San Juan de Dios (Santiago, Santiago);Única;6;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;10-100;-33.442394;-70.679188
+Santiago;11-100;Hospital Clínico San Borja Arriarán;Única;23;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-100;-33.460498;-70.64232
+Santiago;11-267;Centro Médico Vida Integra Alameda;Única;7;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-267;-33.446412;-70.658798
+Santiago;11-284;Centro Médico y Dental Megasalud Alameda;Única;2;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-284;-33.444915;-70.657657
+Santiago;11-291;Centro Médico y Dental Fundación Asistencial Trabajadores Del Banco del Estado de Chile;Única;3;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-291;-33.442973;-70.655523
+Santiago;11-292;Vacunatorio Marcoleta de la Pontificia Universidad Católica de Chile;Única;10;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-292;-33.442163;-70.640257
+Santiago;11-300;Centro de Salud Familiar N° 1 Dr. Ramón Corbalán Melgarejo;Única;45;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-300;-33.455442;-70.652731
+Santiago;11-301;Centro de Salud Familiar Nº 5;Única;29;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-301;-33.45118;-70.673769
+Santiago;11-370;Centro de Salud Familiar Padre Orellana;Única;24;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-370;-33.466621;-70.629593
+Santiago;11-372;Centro de Salud Familiar Arauco;Única;20;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-372;-33.46803;-70.670454
+Santiago;11-376;Centro de Salud Familiar Matta Sur;Única;29;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-376;-33.461578;-70.655451
+Santiago;11-381;Centro de Salud Familiar Ignacio Domeyko;Única;111;Personas 65 años de edad;Neumocócica polisacárida 23V;Central;11-381;-33.438921;-70.672467
+Talagante;10-390;Centro de Salud Familiar Dr. Alberto Allende Jones;Única;60;Personas 65 años de edad;Neumocócica polisacárida 23V;Occidente;10-390;-33.669665;-70.937614
+Tiltil;09-104;Hospital de Til Til;Única;24;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-104;-33.086793;-70.924522
+Tiltil;09-320;Centro de Salud Familiar Huertos Familiares;Única;15;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-320;-33.135821;-70.799456
+Tiltil;09-410;Posta de Salud Rural La Capilla de Caleu;Única;1;Personas 65 años de edad;Neumocócica polisacárida 23V;Norte;09-410;-33.002937;-70.995072
+Vitacura;12-200;Clínica Alemana;Única;30;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-200;-33.391276;-70.572983
+Vitacura;12-201;Clínica Tabancura;Única;4;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-201;-33.38216;-70.53534
+Vitacura;12-309;Centro de Salud Familiar Vitacura;Única;42;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-309;-33.38985;-70.555009
+Vitacura;201092;Vacunatorio Medicien_Vitacura;Única;2;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;201092;-33.371854;-70.518529
+Ñuñoa;12-240;Hospital Carabineros;Única;8;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-240;-33.450658;-70.608463
+Ñuñoa;12-310;Centro de Salud Familiar Rosita Renard;Única;54;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-310;-33.469243;-70.602904
+Ñuñoa;12-311;Centro de Salud Familiar Salvador Bustos;Única;347;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;12-311;-33.465998;-70.587774
+Ñuñoa;201093;Vacunatorio Medicien_Ñuñoa;Única;3;Personas 65 años de edad;Neumocócica polisacárida 23V;Oriente;201093;-33.455441;-70.595222
+Alhué;10-393;Centro de Salud Familiar Villa Alhué;1ra dosis;25;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-393;-34.032484;-71.100076
+Buin;13-320;Centro de Salud Familiar Maipo;1ra dosis;46;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-320;-33.734885;-70.784598
+Buin;13-333;Centro de Salud Familiar Alto Jahuel;1ra dosis;22;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-333;-33.735249;-70.684161
+Buin;13-390;Centro de Salud Familiar Dr. Héctor García;1ra dosis;106;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-390;-33.737754;-70.741333
+Buin;13-402;Centro Comunitario de Salud Familiar Dr. Ramón Galindo;1ra dosis;11;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-402;-33.75109;-70.735556
+Buin;13-404;Posta de Salud Rural Valdivia de Paine;1ra dosis;10;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-404;-33.811928;-70.86063
+Buin;13-405;Posta de Salud Rural Viluco;1ra dosis;8;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-405;-33.782229;-70.791771
+Buin;13-407;Posta de Salud Rural Los Morros;1ra dosis;2;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-407;-33.67046;-70.665548
+Buin;13-790;Centro Comunitario de Salud Familiar Dr. Héctor García;1ra dosis;20;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-790;-33.711787;-70.739533
+Buin;201098;Centro Medico KINEROD;1ra dosis;7;Vacunación Programática;SRP (trivirica) Monodosis;Sur;201098;-33.73418;-70.744272
+Buin;201162;KUME FELEN SPA;1ra dosis;13;Vacunación Programática;SRP (trivirica) Monodosis;Sur;201162;-33.730461;-70.741187
+Calera de Tango;13-321;Centro de Salud Familiar Calera de Tango;1ra dosis;19;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-321;-33.636009;-70.811012
+Calera de Tango;13-334;Centro de Salud Familiar Los Bajos de San Agustín;1ra dosis;23;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-334;-33.625946;-70.782415
+Cerrillos;11-305;Centro de Salud Familiar Dr. Norman Voulliéme;1ra dosis;68;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-305;-33.49331;-70.719201
+Cerrillos;11-307;Centro de Salud Familiar Enfermera Sofía Pincheira;1ra dosis;40;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-307;-33.501479;-70.733545
+Cerro Navia;10-330;Centro de Salud Familiar Dr. Adalberto Steeger;1ra dosis;96;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-330;-33.417518;-70.741198
+Cerro Navia;10-331;Centro de Salud Familiar Lo Amor;1ra dosis;43;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-331;-33.417581;-70.717399
+Cerro Navia;10-335;Centro de Salud Familiar Cerro Navia;1ra dosis;50;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-335;-33.419555;-70.750834
+Cerro Navia;10-355;Centro de Salud Familiar Dr. Arturo Albertz;1ra dosis;61;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-355;-33.433502;-70.731655
+Colina;09-310;Centro de Salud Familiar Colina;1ra dosis;142;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-310;-33.205979;-70.670553
+Colina;09-316;Centro de Salud Familiar Esmeralda;1ra dosis;145;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-316;-33.184133;-70.653657
+Colina;09-417;Posta de Salud Rural Los Ingleses;1ra dosis;2;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-417;-33.267323;-70.678694
+Colina;09-418;Posta de Salud Rural Las Canteras;1ra dosis;2;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-418;-33.3043;-70.689015
+Colina;09-419;Posta de Salud Rural Santa Marta de Liray;1ra dosis;2;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-419;-33.240239;-70.736763
+Colina;09-905;Centro Médico Clínica Alemana de Chicureo;1ra dosis;85;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-905;-33.286284;-70.651801
+Colina;09-927;Centro Médico Clinica Las Condes de Chicureo (Servicios de Salud Integrados S.A.);1ra dosis;69;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-927;-33.283002;-70.651101
+Colina;201087;VACUNATORIO CHICUREO SpA;1ra dosis;1;Vacunación Programática;SRP (trivirica) Monodosis;Norte;201087;-33.278421;-70.706218
+Conchalí;09-302;Centro de Salud Familiar Lucas Sierra;1ra dosis;72;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-302;-33.388856;-70.671249
+Conchalí;09-308;Centro de Salud Familiar Alberto Bachelet Martínez;1ra dosis;55;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-308;-33.394414;-70.658337
+Conchalí;09-309;Centro de Salud Familiar José Symon Ojeda;1ra dosis;64;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-309;-33.378315;-70.692373
+Conchalí;09-314;Centro de Salud Familiar Juanita Aguirre;1ra dosis;48;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-314;-33.370386;-70.683005
+Curacaví;10-160;Hospital de Curacaví;1ra dosis;59;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-160;-33.4095;-71.145664
+El Bosque;13-312;Centro de Salud Familiar Dr. Carlos Lorca Tobar;1ra dosis;78;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-312;-33.554149;-70.666968
+El Bosque;13-314;Centro de Salud Familiar Cóndores de Chile;1ra dosis;47;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-314;-33.561362;-70.674691
+El Bosque;13-317;Centro de Salud Familiar Santa Laura;1ra dosis;57;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-317;-33.552491;-70.688809
+El Bosque;13-323;Centro de Salud Familiar Dr. Mario Salcedo;1ra dosis;76;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-323;-33.582081;-70.668768
+El Bosque;13-324;Centro de Salud Familiar Dra. Haydeé López Casoou;1ra dosis;55;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-324;-33.572212;-70.667054
+El Bosque;13-329;Centro de Salud Familiar Canciller Orlando Letelier;1ra dosis;41;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-329;-33.578041;-70.67785
+El Monte;10-370;Centro de Salud Familiar El Monte;1ra dosis;69;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-370;-33.681919;-70.986091
+Estación Central;11-230;Clínica Hospital del Profesor;1ra dosis;59;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-230;-33.457755;-70.702639
+Estación Central;11-295;Red Salud Santiago ex Clínica Bicentenario;1ra dosis;113;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-295;-33.457336;-70.701792
+Estación Central;11-302;Centro de Salud Familiar Padre Vicente Irarrázabal;1ra dosis;60;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-302;-33.47284;-70.691894
+Estación Central;11-306;Centro de Salud Familiar San José de Chuchunco;1ra dosis;36;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-306;-33.473682;-70.705982
+Estación Central;11-310;Centro de Salud Familiar Las Mercedes;1ra dosis;140;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-310;-33.451977;-70.703928
+Huechuraba;09-305;Centro de Salud Familiar La Pincoya;1ra dosis;55;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-305;-33.373386;-70.63702
+Huechuraba;09-317;Centro de Salud Familiar El Barrero;1ra dosis;24;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-317;-33.375909;-70.624663
+Huechuraba;09-323;Centro de Salud Familiar Dr. Salvador Allende Gossens;1ra dosis;45;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-323;-33.363415;-70.632789
+Huechuraba;09-718;Centro Comunitario de Salud Familiar Los Libertadores;1ra dosis;7;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-718;-33.360049;-70.683527
+Huechuraba;09-915;Centro de Salud Familiar Dr. Victor Castro Wiren;1ra dosis;21;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-915;-33.352605;-70.67705
+Independencia;09-101;Hospital Clínico de Niños Dr. Roberto del Río (Santiago, Independencia);1ra dosis;5;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-101;-33.415335;-70.655086
+Independencia;09-200;Hospital Clínico Universidad de Chile;1ra dosis;25;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-200;-33.420057;-70.653116
+Independencia;09-300;Centro de Salud Familiar Agustín Cruz Melo;1ra dosis;158;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-300;-33.415155;-70.657119
+Independencia;09-321;Centro de Salud Familiar Juan Antonio Ríos;1ra dosis;53;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-321;-33.417373;-70.668652
+Isla de Maipo;10-375;Centro de Salud Familiar Isla de Maipo;1ra dosis;48;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-375;-33.749042;-70.903306
+Isla de Maipo;10-425;Centro de Salud Familiar La Islita;1ra dosis;31;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-425;-33.734795;-70.861701
+La Cisterna;13-311;Centro de Salud Familiar Santa Anselma;1ra dosis;71;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-311;-33.529594;-70.667368
+La Cisterna;13-326;Centro de Salud Familiar Eduardo Frei Montalva;1ra dosis;73;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-326;-33.538937;-70.66238
+La Florida;14-223;Clínica Vespucio;1ra dosis;200;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-223;-33.519116;-70.596867
+La Florida;14-302;Centro de Salud Familiar Los Castaños;1ra dosis;59;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-302;-33.511875;-70.577975
+La Florida;14-303;Centro de Salud Familiar Bellavista;1ra dosis;58;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-303;-33.518563;-70.602218
+La Florida;14-304;Centro de Salud Familiar Villa O'Higgins;1ra dosis;68;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-304;-33.531236;-70.604217
+La Florida;14-305;Centro de Salud Familiar Los Quillayes;1ra dosis;105;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-305;-33.560178;-70.60598
+La Florida;14-316;Centro de Salud Familiar Dr. Fernando Maffioletti;1ra dosis;57;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-316;-33.560204;-70.578515
+La Florida;14-324;Centro de Salud Familiar Santa Amalia;1ra dosis;67;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-324;-33.54375;-70.592829
+La Florida;14-330;Centro de Salud Familiar Trinidad;1ra dosis;61;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-330;-33.547211;-70.60862
+La Florida;14-331;Centro de Salud Familiar La Florida;1ra dosis;79;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-331;-33.514659;-70.585809
+La Florida;14-334;Centro de Salud Familiar José Alvo;1ra dosis;63;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-334;-33.557178;-70.582012
+La Florida;14-908;Clínica Bupa Santiago;1ra dosis;72;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-908;-33.509903;-70.598229
+La Granja;13-307;Centro de Salud Familiar Padre Esteban Gumucio Vives;1ra dosis;37;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;13-307;-33.519604;-70.623975
+La Granja;14-306;Centro de Salud Familiar La Granja;1ra dosis;80;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-306;-33.536995;-70.633668
+La Granja;14-315;Centro de Salud Familiar Malaquías Concha;1ra dosis;37;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-315;-33.527458;-70.621298
+La Granja;14-325;Centro de Salud Familiar Granja Sur;1ra dosis;80;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-325;-33.551822;-70.629548
+La Pintana;14-308;Centro de Salud Familiar San Rafael;1ra dosis;68;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-308;-33.579577;-70.639086
+La Pintana;14-309;Centro de Salud Familiar Pablo de Rokha;1ra dosis;48;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-309;-33.576624;-70.64964
+La Pintana;14-311;Centro de Salud Familiar Santiago de Nueva Extremadura;1ra dosis;52;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-311;-33.588977;-70.618578
+La Pintana;14-317;Centro de Salud Familiar Santo Tomás;1ra dosis;53;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-317;-33.556972;-70.616542
+La Pintana;14-318;Centro de Salud Familiar Flor Fernández;1ra dosis;26;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-318;-33.585495;-70.636257
+La Pintana;14-319;Centro de Salud Familiar El Roble;1ra dosis;87;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-319;-33.563873;-70.647535
+La Pintana;14-327;Centro de Salud Familiar Juan Pablo II Red de Salud UC CHRISTUS;1ra dosis;42;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-327;-33.595431;-70.621698
+La Reina;12-317;Centro de Salud Familiar Ossandon;1ra dosis;19;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-317;-33.442855;-70.54447
+La Reina;12-320;Centro de Salud Familiar Juan Pablo II ( La Reina);1ra dosis;24;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-320;-33.456864;-70.532647
+La Reina;12-530;Hospital Militar de Santiago;1ra dosis;29;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-530;-33.45281;-70.56351
+Lampa;09-311;Centro de Salud Familiar José Bauza Frau;1ra dosis;131;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-311;-33.285648;-70.876237
+Lampa;09-312;Centro de Salud Familiar Batuco;1ra dosis;52;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-312;-33.241849;-70.81415
+Las Condes;12-204;Nueva Clínica Cordillera;1ra dosis;17;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-204;-33.42206;-70.52727
+Las Condes;12-212;Clínica Las Condes;1ra dosis;217;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-212;-33.384094;-70.530151
+Las Condes;12-238;Hospital FACH;1ra dosis;22;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-238;-33.395327;-70.548074
+Las Condes;12-261;Clínica San Carlos de Apoquindo Red de Salud UC CHRISTUS;1ra dosis;106;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-261;-33.40132;-70.51837
+Las Condes;12-272;Centro Médico Militar Rosa O'Higgins;1ra dosis;6;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-272;-33.405309;-70.585445
+Las Condes;12-304;Centro de Salud Familiar Apoquindo;1ra dosis;22;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-304;-33.400414;-70.56441
+Las Condes;12-306;Centro de Salud Familiar Aníbal Ariztía;1ra dosis;52;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-306;-33.417067;-70.53311
+Las Condes;12-950;Hospital Clínico Universidad de Los Andes;1ra dosis;128;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-950;-33.40656;-70.50017
+Las Condes;201094;Vacunatorio Medicien Alto El Plomo;1ra dosis;19;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;201094;-33.404764;-70.570812
+Las Condes;201157;Centro Médico y Dental Arauco Salud;1ra dosis;38;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;201157;-33.402191;-70.578247
+Lo Barnechea;12-307;Centro de Salud Familiar Lo Barnechea;1ra dosis;62;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-307;-33.351854;-70.509989
+Lo Barnechea;12-522;Centro Médico Clínica Santa María La Dehesa;1ra dosis;39;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-522;-33.357673;-70.51444
+Lo Barnechea;12-527;Centro Médico Clínica Alemana (La Dehesa);1ra dosis;172;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-527;-33.355705;-70.526293
+Lo Barnechea;12-906;Clínica MEDS La Dehesa;1ra dosis;9;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-906;-33.36385;-70.5446
+Lo Espejo;13-308;Centro de Salud Familiar Clara Estrella;1ra dosis;51;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-308;-33.514933;-70.676174
+Lo Espejo;13-309;Centro de Salud Familiar Julio Acuña Pinzón;1ra dosis;55;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-309;-33.522431;-70.69732
+Lo Espejo;13-310;Centro de Salud Familiar Dra. Mariela Salgado Zepeda;1ra dosis;49;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-310;-33.507423;-70.694073
+Lo Espejo;13-396;Centro de Salud Familiar Pueblo Lo Espejo;1ra dosis;52;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-396;-33.53472;-70.696425
+Lo Prado;10-315;Centro de Salud Familiar Santa Anita;1ra dosis;62;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-315;-33.43929;-70.7093
+Lo Prado;10-316;Centro de Salud Familiar Pablo Neruda;1ra dosis;68;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-316;-33.450001;-70.730087
+Lo Prado;10-340;Centro de Salud Familiar Dr. Raúl Yazigi;1ra dosis;51;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-340;-33.451755;-70.71605
+Lo Prado;10-345;Centro de Salud Familiar Dr. Carlos Avendaño;1ra dosis;46;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-345;-33.436875;-70.740448
+Macul;12-312;Centro de Salud Familiar Félix de Amesti;1ra dosis;43;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-312;-33.501502;-70.593927
+Macul;12-313;Centro de Salud Familiar Santa Julia;1ra dosis;52;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-313;-33.476364;-70.592875
+Macul;12-319;Centro de Salud Familiar Padre Alberto Hurtado;1ra dosis;35;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-319;-33.493484;-70.615109
+Macul;12-512;Centro Médico San Joaquín Red de Salud UC CHRISTUS;1ra dosis;101;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-512;-33.497116;-70.614619
+Maipú;11-304;Centro de Salud Familiar Maipú;1ra dosis;82;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-304;-33.504315;-70.75815
+Maipú;11-308;Centro de Salud Familiar Dr. José Eduardo Ahués Salame;1ra dosis;109;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-308;-33.505433;-70.774352
+Maipú;11-309;Centro de Salud Familiar Dra. Ana María Juricic;1ra dosis;53;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-309;-33.514065;-70.796603
+Maipú;11-378;Centro de Salud Familiar Dr. Iván Insunza;1ra dosis;60;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-378;-33.484273;-70.771353
+Maipú;11-379;Centro de Salud Familiar Clotario Blest;1ra dosis;77;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-379;-33.490025;-70.744879
+Maipú;11-380;Centro de Salud Familiar Dr. Carlos Godoy;1ra dosis;93;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-380;-33.52776;-70.796393
+Maipú;11-382;Centro de Salud Familiar Presidenta Michelle Bachelet;1ra dosis;71;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-382;-33.525395;-70.767836
+Maipú;11-383;Centro de Salud Familiar Dr. Luis Ferrada;1ra dosis;58;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-383;-33.473168;-70.75602
+Maipú;201290;Vacunatorio INMUVAX;1ra dosis;4;Vacunación Programática;SRP (trivirica) Monodosis;Central;201290;-33.498106;-70.75715
+María Pinto;10-385;Centro de Salud Familiar Adriana Madrid De Costabal;1ra dosis;33;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-385;-33.51714;-71.125008
+Melipilla;10-270;Clínica Los Maitenes;1ra dosis;32;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-270;-33.6721;-71.21718
+Melipilla;10-378;Centro de Salud Familiar Dr. Edelberto Elgueta;1ra dosis;77;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-378;-33.681498;-71.22595
+Melipilla;10-379;Centro de Salud Familiar Dr. Francisco Boris Soler;1ra dosis;73;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-379;-33.700239;-71.218134
+Melipilla;10-380;Centro de Salud Familiar San Manuel;1ra dosis;19;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-380;-33.773496;-71.257568
+Melipilla;10-381;Centro de Salud Familiar Alfarera Rosa Reyes Vilches;1ra dosis;11;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-381;-33.649845;-71.15045
+Melipilla;10-440;Posta de Salud Rural Bollenar;1ra dosis;14;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-440;-33.569087;-71.210906
+Melipilla;10-445;Posta de Salud Rural Pahuilmo;1ra dosis;9;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-445;-33.569161;-71.11575
+Melipilla;10-455;Posta de salud Rural Pabellón;1ra dosis;3;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-455;-33.750621;-71.198276
+Melipilla;10-938;Centro de Salud Familiar Florencia;1ra dosis;57;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-938;-33.684442;-71.213312
+Padre Hurtado;10-366;Centro de Salud Familiar Juan Pablo II ( Padre Hurtado);1ra dosis;141;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-366;-33.569779;-70.805151
+Paine;13-318;Centro de Salud Familiar Dr. Miguel Ángel Solar (ex CESFAM Paine);1ra dosis;95;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-318;-33.804827;-70.741211
+Paine;13-319;Centro de Salud Familiar Dr. Raúl Moya;1ra dosis;23;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-319;-33.868535;-70.747995
+Paine;13-408;Posta de Salud Rural Pintué;1ra dosis;7;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-408;-33.88597;-70.892169
+Paine;13-409;Posta de Salud Rural Huelquén;1ra dosis;23;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-409;-33.832761;-70.643261
+Paine;13-410;Posta de Salud Rural Rangue;1ra dosis;3;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-410;-33.850752;-70.942806
+Paine;13-411;Posta de Salud Rural Abrantes;1ra dosis;4;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-411;-33.85926;-70.850687
+Paine;13-412;Posta de Salud Rural Chada;1ra dosis;3;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-412;-33.900747;-70.660518
+Pedro Aguirre Cerda;11-303;Centro de Salud Familiar Lo Valledor Norte;1ra dosis;49;Vacunación Programática;SRP (trivirica) Monodosis;Sur;11-303;-33.488282;-70.686377
+Pedro Aguirre Cerda;13-303;Centro de Salud Familiar Amador Neghme;1ra dosis;46;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-303;-33.503461;-70.676059
+Pedro Aguirre Cerda;13-306;Centro de Salud Familiar Padre Pierre Dubois (Ex La Feria);1ra dosis;60;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-306;-33.48971;-70.676018
+Pedro Aguirre Cerda;13-331;Centro de Salud Familiar Edgardo Enríquez Fröedden;1ra dosis;40;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-331;-33.480185;-70.669075
+Peñaflor;10-308;Centro de Salud Familiar Peñaflor;1ra dosis;58;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-308;-33.6088;-70.896258
+Peñaflor;10-369;Centro de Salud Familiar Dr. Fernando Monckeberg;1ra dosis;54;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-369;-33.609978;-70.871635
+Peñalolén;12-275;Centro Médico Alto Tobalaba - Vacunatorio Vacci Protex;1ra dosis;36;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-275;-33.48292;-70.557327
+Peñalolén;12-314;Centro de Salud Familiar La Faena;1ra dosis;46;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-314;-33.467931;-70.556011
+Peñalolén;12-315;Centro de Salud Familiar San Luis;1ra dosis;40;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-315;-33.508122;-70.577994
+Peñalolén;12-316;Centro de Salud Familiar Carol Urzúa Ibáñez;1ra dosis;75;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-316;-33.476897;-70.542996
+Peñalolén;12-318;Centro de Salud Familiar Lo Hermida;1ra dosis;51;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-318;-33.476942;-70.562722
+Peñalolén;12-321;Centro de Salud Familiar Cardenal Silva Henríquez;1ra dosis;37;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-321;-33.470387;-70.532225
+Peñalolén;12-322;Centro de Salud Familiar Padre Gerardo Whelan;1ra dosis;44;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-322;-33.473974;-70.574226
+Peñalolén;12-930;Clínica Las Condes Peñalolén;1ra dosis;46;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-930;-33.489949;-70.544831
+Peñalolén;201112;CESFAM Las Torres;1ra dosis;56;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;201112;-33.50287;-70.577602
+Pirque;14-310;Centro de Salud Familiar Dr. José Manuel Balmaceda;1ra dosis;17;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-310;-33.635077;-70.572477
+Pirque;14-333;Centro de Salud Rural El Principal;1ra dosis;24;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-333;-33.720684;-70.553279
+Providencia;12-211;Clínica Indisa;1ra dosis;580;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-211;-33.43333;-70.62855
+Providencia;12-249;Clínica Santa María;1ra dosis;176;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-249;-33.43282;-70.62822
+Providencia;12-301;Centro de Salud Familiar Dr. Hernán Alessandri;1ra dosis;29;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-301;-33.444228;-70.620427
+Providencia;12-302;Centro de Salud Familiar Dr. Alfonso Leng;1ra dosis;15;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-302;-33.431406;-70.618809
+Providencia;12-303;Centro de Salud Familiar Aguilucho;1ra dosis;33;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-303;-33.442673;-70.597096
+Providencia;12-944;Vacunatorio Internacional Immunitas SpA;1ra dosis;14;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-944;-33.423268;-70.609892
+Providencia;12-945;Vacunatorio Clínica El Bosque;1ra dosis;41;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-945;-33.42821;-70.619211
+Providencia;200919;VACUMED;1ra dosis;3;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;200919;-33.435545;-70.631183
+Providencia;201156;VAXPROSALUD;1ra dosis;32;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;201156;-33.427625;-70.592504
+Pudahuel;10-350;Centro de Salud Familiar Pudahuel Estrella;1ra dosis;105;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-350;-33.437387;-70.750666
+Pudahuel;10-351;Centro de Salud Familiar Pudahuel Poniente;1ra dosis;71;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-351;-33.447426;-70.76289
+Pudahuel;10-352;Centro de Salud Familiar Dr. Gustavo Molina;1ra dosis;61;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-352;-33.458131;-70.76084
+Pudahuel;10-353;Centro de Salud Familiar Cardenal Raúl Silva Henríquez;1ra dosis;45;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-353;-33.429;-70.770919
+Pudahuel;10-354;Centro de Salud Familiar Violeta Parra;1ra dosis;87;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-354;-33.456935;-70.742752
+Pudahuel;201146;Centro Medico y Dental Del Valle;1ra dosis;4;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;201146;-33.45267;-70.848608
+Puente Alto;14-101;Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto);1ra dosis;1;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-101;-33.577251;-70.581781
+Puente Alto;14-301;Centro de Salud Familiar Dr. Alejandro del Río;1ra dosis;110;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-301;-33.607158;-70.578452
+Puente Alto;14-312;Centro de Salud Familiar San Gerónimo;1ra dosis;93;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-312;-33.623527;-70.588387
+Puente Alto;14-313;Centro de Salud Familiar Vista Hermosa;1ra dosis;62;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-313;-33.61107;-70.521039
+Puente Alto;14-320;Centro de Salud Familiar Bernardo Leighton;1ra dosis;92;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-320;-33.584276;-70.604383
+Puente Alto;14-321;Centro de Salud Familiar Cardenal Silva Henríquez;1ra dosis;86;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-321;-33.627923;-70.616459
+Puente Alto;14-322;Centro de Salud Familiar Padre Manuel Villaseca;1ra dosis;87;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-322;-33.583959;-70.556326
+Puente Alto;14-323;Centro de Salud Familiar Madre Teresa de Calcuta Red de Salud UC CHRISTUS;1ra dosis;43;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-323;-33.614332;-70.552683
+Puente Alto;14-326;Centro de Salud Familiar Karol Wojtyla;1ra dosis;88;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-326;-33.625966;-70.625759
+Puente Alto;14-329;Centro de Salud Familiar San Alberto Hurtado Red de Salud UC CHRISTUS;1ra dosis;50;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-329;-33.59663;-70.556535
+Puente Alto;14-332;Centro de Salud Familiar Laurita Vicuña;1ra dosis;87;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-332;-33.591149;-70.595281
+Quilicura;09-313;Centro de Salud Familiar Irene Frei de Cid;1ra dosis;98;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-313;-33.365842;-70.746633
+Quilicura;09-315;Centro de Salud Familiar Manuel Bustos Huerta;1ra dosis;76;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-315;-33.354232;-70.720395
+Quilicura;09-324;Centro de Salud Familiar Presidente Salvador Allende Gossens;1ra dosis;118;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-324;-33.354498;-70.737981
+Quilicura;201091;CESFAM Marta Ugarte Román;1ra dosis;83;Vacunación Programática;SRP (trivirica) Monodosis;Norte;201091;-33.369414;-70.73201
+Quinta Normal;10-120;Hospital Dr. Félix Bulnes Cerda (Santiago, Quinta Normal);1ra dosis;1;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-120;-33.415057;-70.696103
+Quinta Normal;10-310;Centro de Salud Familiar Andes;1ra dosis;71;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-310;-33.434192;-70.692944
+Quinta Normal;10-320;Centro de Salud Familiar Lo Franco;1ra dosis;45;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-320;-33.422508;-70.694803
+Quinta Normal;10-325;Centro de Salud Familiar Garín;1ra dosis;66;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-325;-33.430421;-70.714351
+Recoleta;09-201;Clínica Dávila;1ra dosis;141;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-201;-33.427257;-70.648544
+Recoleta;09-301;Centro de Salud Familiar Recoleta;1ra dosis;100;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-301;-33.423922;-70.645768
+Recoleta;09-303;Centro de Salud Familiar Quinta Bella;1ra dosis;63;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-303;-33.403207;-70.634602
+Recoleta;09-304;Centro de Salud Familiar Valdivieso;1ra dosis;20;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-304;-33.410322;-70.631219
+Recoleta;09-307;Centro de Salud Familiar Dr. Juan Petrinovic (Ex Scroggie);1ra dosis;48;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-307;-33.384392;-70.644939
+Recoleta;09-390;Centro de Salud Familiar Cristo Vive (ONG);1ra dosis;42;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-390;-33.387053;-70.641803
+Renca;10-360;Centro de Salud Familiar Renca;1ra dosis;113;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-360;-33.403452;-70.709698
+Renca;10-361;Centro de Salud Familiar Bicentenario;1ra dosis;106;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-361;-33.397669;-70.749713
+Renca;10-362;Centro de Salud Familiar Dr. Hernán Urzúa Merino;1ra dosis;52;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-362;-33.411478;-70.728472
+Renca;10-364;Centro de Salud Familiar Huamachuco;1ra dosis;36;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-364;-33.39126;-70.698932
+San Bernardo;13-313;Centro de Salud Familiar Raúl Cuevas (Ex-San Bernardo);1ra dosis;82;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-313;-33.597631;-70.714846
+San Bernardo;13-315;Centro de Salud Familiar Confraternidad;1ra dosis;56;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-315;-33.589661;-70.682857
+San Bernardo;13-316;Centro de Salud Familiar Carol Urzúa;1ra dosis;88;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-316;-33.575808;-70.703607
+San Bernardo;13-328;Centro de Salud Familiar Padre Joan Alsina;1ra dosis;110;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-328;-33.613987;-70.697869
+San Bernardo;13-330;Centro de Salud Familiar Raúl Brañes F.;1ra dosis;113;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-330;-33.59866;-70.68036
+San Bernardo;13-332;Centro de Salud Familiar Juan Pablo II ( San Bernardo);1ra dosis;59;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-332;-33.584476;-70.692076
+San Bernardo;13-394;Centro de Salud Familiar El Manzano;1ra dosis;76;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-394;-33.590706;-70.666217
+San Joaquín;13-301;Centro de Salud Familiar San Joaquín;1ra dosis;42;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-301;-33.486494;-70.623533
+San Joaquín;13-305;Centro de Salud Familiar Arturo Baeza Goñi;1ra dosis;41;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-305;-33.491964;-70.633221
+San Joaquín;13-322;Centro de Salud Familiar Santa Teresa de Los Andes;1ra dosis;51;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-322;-33.506303;-70.624386
+San José de Maipo;14-102;Hospital San José de Maipo;1ra dosis;17;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-102;-33.641256;-70.352299
+San José de Maipo;14-407;Posta de Salud Rural Las Vertientes;1ra dosis;12;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-407;-33.592102;-70.482171
+San Miguel;13-300;Centro de Salud Familiar Barros Luco;1ra dosis;96;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-300;-33.48279;-70.648764
+San Miguel;13-302;Centro de Salud Familiar Recreo;1ra dosis;70;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-302;-33.510116;-70.64902
+San Pedro;10-387;Centro de Salud Familiar San Pedro;1ra dosis;25;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-387;-33.895313;-71.454412
+San Ramón;14-103;Hospital Padre Alberto Hurtado (San Ramón);1ra dosis;1;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-103;-33.5525;-70.635024
+San Ramón;14-307;Centro de Salud Familiar La Bandera;1ra dosis;47;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-307;-33.545428;-70.644824
+San Ramón;14-314;Centro de Salud Familiar Dr. Salvador Allende (Ex Consultorio San Ramón);1ra dosis;60;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-314;-33.537986;-70.640552
+San Ramón;14-328;Centro de Salud Familiar Poetisa Gabriela Mistral;1ra dosis;41;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-328;-33.551606;-70.640729
+Santiago;10-100;Hospital San Juan de Dios (Santiago, Santiago);1ra dosis;1;Vacunación Programática;SRP (trivirica) Monodosis;Central;10-100;-33.442394;-70.679188
+Santiago;11-100;Hospital Clínico San Borja Arriarán;1ra dosis;1;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-100;-33.460498;-70.64232
+Santiago;11-267;Centro Médico Vida Integra Alameda;1ra dosis;8;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-267;-33.446412;-70.658798
+Santiago;11-284;Centro Médico y Dental Megasalud Alameda;1ra dosis;16;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-284;-33.444915;-70.657657
+Santiago;11-291;Centro Médico y Dental Fundación Asistencial Trabajadores Del Banco del Estado de Chile;1ra dosis;1;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-291;-33.442973;-70.655523
+Santiago;11-292;Vacunatorio Marcoleta de la Pontificia Universidad Católica de Chile;1ra dosis;102;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-292;-33.442163;-70.640257
+Santiago;11-300;Centro de Salud Familiar N° 1 Dr. Ramón Corbalán Melgarejo;1ra dosis;167;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-300;-33.455442;-70.652731
+Santiago;11-301;Centro de Salud Familiar Nº 5;1ra dosis;47;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-301;-33.45118;-70.673769
+Santiago;11-370;Centro de Salud Familiar Padre Orellana;1ra dosis;74;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-370;-33.466621;-70.629593
+Santiago;11-372;Centro de Salud Familiar Arauco;1ra dosis;30;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-372;-33.46803;-70.670454
+Santiago;11-376;Centro de Salud Familiar Matta Sur;1ra dosis;78;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-376;-33.461578;-70.655451
+Santiago;11-381;Centro de Salud Familiar Ignacio Domeyko;1ra dosis;150;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-381;-33.438921;-70.672467
+Talagante;10-390;Centro de Salud Familiar Dr. Alberto Allende Jones;1ra dosis;145;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-390;-33.669665;-70.937614
+Tiltil;09-104;Hospital de Til Til;1ra dosis;15;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-104;-33.086793;-70.924522
+Tiltil;09-320;Centro de Salud Familiar Huertos Familiares;1ra dosis;10;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-320;-33.135821;-70.799456
+Tiltil;09-410;Posta de Salud Rural La Capilla de Caleu;1ra dosis;1;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-410;-33.002937;-70.995072
+Tiltil;09-413;Posta de Salud Rural Rungue;1ra dosis;2;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-413;-33.008385;-70.892433
+Tiltil;09-414;Posta de Salud Rural Polpaico;1ra dosis;3;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-414;-33.167398;-70.887052
+Vitacura;12-200;Clínica Alemana;1ra dosis;410;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-200;-33.391276;-70.572983
+Vitacura;12-201;Clínica Tabancura;1ra dosis;69;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-201;-33.38216;-70.53534
+Vitacura;12-274;Procedimientos Clínicos Alto Tabancura;1ra dosis;45;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-274;-33.380903;-70.536344
+Vitacura;12-309;Centro de Salud Familiar Vitacura;1ra dosis;6;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-309;-33.38985;-70.555009
+Vitacura;201092;Vacunatorio Medicien_Vitacura;1ra dosis;6;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;201092;-33.371854;-70.518529
+Ñuñoa;12-240;Hospital Carabineros;1ra dosis;61;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-240;-33.450658;-70.608463
+Ñuñoa;12-310;Centro de Salud Familiar Rosita Renard;1ra dosis;62;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-310;-33.469243;-70.602904
+Ñuñoa;12-311;Centro de Salud Familiar Salvador Bustos;1ra dosis;49;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-311;-33.465998;-70.587774
+Ñuñoa;12-942;Vacunatorio Varik;1ra dosis;126;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-942;-33.45454;-70.606179
+Ñuñoa;201093;Vacunatorio Medicien_Ñuñoa;1ra dosis;21;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;201093;-33.455441;-70.595222
+Alhué;10-393;Centro de Salud Familiar Villa Alhué;2da dosis;1;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-393;-34.032484;-71.100076
+Buin;13-320;Centro de Salud Familiar Maipo;2da dosis;3;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-320;-33.734885;-70.784598
+Buin;13-333;Centro de Salud Familiar Alto Jahuel;2da dosis;2;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-333;-33.735249;-70.684161
+Buin;13-390;Centro de Salud Familiar Dr. Héctor García;2da dosis;6;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-390;-33.737754;-70.741333
+Buin;13-404;Posta de Salud Rural Valdivia de Paine;2da dosis;1;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-404;-33.811928;-70.86063
+Buin;13-405;Posta de Salud Rural Viluco;2da dosis;2;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-405;-33.782229;-70.791771
+Buin;13-406;Posta de Salud Rural El Recurso;2da dosis;1;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-406;-33.690787;-70.701729
+Buin;201098;Centro Medico KINEROD;2da dosis;5;Vacunación Programática;SRP (trivirica) Monodosis;Sur;201098;-33.73418;-70.744272
+Buin;201162;KUME FELEN SPA;2da dosis;4;Vacunación Programática;SRP (trivirica) Monodosis;Sur;201162;-33.730461;-70.741187
+Calera de Tango;13-321;Centro de Salud Familiar Calera de Tango;2da dosis;5;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-321;-33.636009;-70.811012
+Calera de Tango;13-334;Centro de Salud Familiar Los Bajos de San Agustín;2da dosis;3;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-334;-33.625946;-70.782415
+Cerrillos;11-305;Centro de Salud Familiar Dr. Norman Voulliéme;2da dosis;10;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-305;-33.49331;-70.719201
+Cerrillos;11-307;Centro de Salud Familiar Enfermera Sofía Pincheira;2da dosis;9;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-307;-33.501479;-70.733545
+Cerro Navia;10-330;Centro de Salud Familiar Dr. Adalberto Steeger;2da dosis;19;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-330;-33.417518;-70.741198
+Cerro Navia;10-331;Centro de Salud Familiar Lo Amor;2da dosis;7;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-331;-33.417581;-70.717399
+Cerro Navia;10-335;Centro de Salud Familiar Cerro Navia;2da dosis;10;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-335;-33.419555;-70.750834
+Cerro Navia;10-355;Centro de Salud Familiar Dr. Arturo Albertz;2da dosis;1;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-355;-33.433502;-70.731655
+Colina;09-310;Centro de Salud Familiar Colina;2da dosis;2;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-310;-33.205979;-70.670553
+Colina;09-905;Centro Médico Clínica Alemana de Chicureo;2da dosis;29;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-905;-33.286284;-70.651801
+Colina;09-927;Centro Médico Clinica Las Condes de Chicureo (Servicios de Salud Integrados S.A.);2da dosis;10;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-927;-33.283002;-70.651101
+Colina;201087;VACUNATORIO CHICUREO SpA;2da dosis;1;Vacunación Programática;SRP (trivirica) Monodosis;Norte;201087;-33.278421;-70.706218
+Conchalí;09-302;Centro de Salud Familiar Lucas Sierra;2da dosis;3;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-302;-33.388856;-70.671249
+Conchalí;09-308;Centro de Salud Familiar Alberto Bachelet Martínez;2da dosis;5;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-308;-33.394414;-70.658337
+Conchalí;09-309;Centro de Salud Familiar José Symon Ojeda;2da dosis;24;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-309;-33.378315;-70.692373
+Conchalí;09-314;Centro de Salud Familiar Juanita Aguirre;2da dosis;2;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-314;-33.370386;-70.683005
+Curacaví;10-160;Hospital de Curacaví;2da dosis;32;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-160;-33.4095;-71.145664
+El Bosque;13-312;Centro de Salud Familiar Dr. Carlos Lorca Tobar;2da dosis;4;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-312;-33.554149;-70.666968
+El Bosque;13-314;Centro de Salud Familiar Cóndores de Chile;2da dosis;28;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-314;-33.561362;-70.674691
+El Bosque;13-317;Centro de Salud Familiar Santa Laura;2da dosis;3;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-317;-33.552491;-70.688809
+El Bosque;13-323;Centro de Salud Familiar Dr. Mario Salcedo;2da dosis;16;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-323;-33.582081;-70.668768
+El Bosque;13-324;Centro de Salud Familiar Dra. Haydeé López Casoou;2da dosis;6;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-324;-33.572212;-70.667054
+El Bosque;13-329;Centro de Salud Familiar Canciller Orlando Letelier;2da dosis;4;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-329;-33.578041;-70.67785
+El Monte;10-370;Centro de Salud Familiar El Monte;2da dosis;6;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-370;-33.681919;-70.986091
+Estación Central;11-230;Clínica Hospital del Profesor;2da dosis;16;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-230;-33.457755;-70.702639
+Estación Central;11-295;Red Salud Santiago ex Clínica Bicentenario;2da dosis;12;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-295;-33.457336;-70.701792
+Estación Central;11-302;Centro de Salud Familiar Padre Vicente Irarrázabal;2da dosis;9;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-302;-33.47284;-70.691894
+Estación Central;11-306;Centro de Salud Familiar San José de Chuchunco;2da dosis;4;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-306;-33.473682;-70.705982
+Estación Central;11-310;Centro de Salud Familiar Las Mercedes;2da dosis;6;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-310;-33.451977;-70.703928
+Huechuraba;09-305;Centro de Salud Familiar La Pincoya;2da dosis;20;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-305;-33.373386;-70.63702
+Huechuraba;09-323;Centro de Salud Familiar Dr. Salvador Allende Gossens;2da dosis;16;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-323;-33.363415;-70.632789
+Huechuraba;09-915;Centro de Salud Familiar Dr. Victor Castro Wiren;2da dosis;2;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-915;-33.352605;-70.67705
+Independencia;09-300;Centro de Salud Familiar Agustín Cruz Melo;2da dosis;29;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-300;-33.415155;-70.657119
+Independencia;09-321;Centro de Salud Familiar Juan Antonio Ríos;2da dosis;1;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-321;-33.417373;-70.668652
+Isla de Maipo;10-375;Centro de Salud Familiar Isla de Maipo;2da dosis;11;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-375;-33.749042;-70.903306
+Isla de Maipo;10-425;Centro de Salud Familiar La Islita;2da dosis;18;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-425;-33.734795;-70.861701
+La Cisterna;13-311;Centro de Salud Familiar Santa Anselma;2da dosis;10;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-311;-33.529594;-70.667368
+La Cisterna;13-326;Centro de Salud Familiar Eduardo Frei Montalva;2da dosis;10;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-326;-33.538937;-70.66238
+La Florida;14-223;Clínica Vespucio;2da dosis;40;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-223;-33.519116;-70.596867
+La Florida;14-302;Centro de Salud Familiar Los Castaños;2da dosis;3;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-302;-33.511875;-70.577975
+La Florida;14-303;Centro de Salud Familiar Bellavista;2da dosis;16;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-303;-33.518563;-70.602218
+La Florida;14-304;Centro de Salud Familiar Villa O'Higgins;2da dosis;11;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-304;-33.531236;-70.604217
+La Florida;14-305;Centro de Salud Familiar Los Quillayes;2da dosis;4;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-305;-33.560178;-70.60598
+La Florida;14-316;Centro de Salud Familiar Dr. Fernando Maffioletti;2da dosis;12;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-316;-33.560204;-70.578515
+La Florida;14-324;Centro de Salud Familiar Santa Amalia;2da dosis;19;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-324;-33.54375;-70.592829
+La Florida;14-330;Centro de Salud Familiar Trinidad;2da dosis;4;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-330;-33.547211;-70.60862
+La Florida;14-331;Centro de Salud Familiar La Florida;2da dosis;9;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-331;-33.514659;-70.585809
+La Florida;14-334;Centro de Salud Familiar José Alvo;2da dosis;21;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-334;-33.557178;-70.582012
+La Florida;14-908;Clínica Bupa Santiago;2da dosis;8;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-908;-33.509903;-70.598229
+La Granja;13-307;Centro de Salud Familiar Padre Esteban Gumucio Vives;2da dosis;21;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;13-307;-33.519604;-70.623975
+La Granja;14-306;Centro de Salud Familiar La Granja;2da dosis;19;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-306;-33.536995;-70.633668
+La Granja;14-315;Centro de Salud Familiar Malaquías Concha;2da dosis;2;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-315;-33.527458;-70.621298
+La Granja;14-325;Centro de Salud Familiar Granja Sur;2da dosis;6;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-325;-33.551822;-70.629548
+La Pintana;14-308;Centro de Salud Familiar San Rafael;2da dosis;7;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-308;-33.579577;-70.639086
+La Pintana;14-309;Centro de Salud Familiar Pablo de Rokha;2da dosis;2;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-309;-33.576624;-70.64964
+La Pintana;14-311;Centro de Salud Familiar Santiago de Nueva Extremadura;2da dosis;14;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-311;-33.588977;-70.618578
+La Pintana;14-317;Centro de Salud Familiar Santo Tomás;2da dosis;32;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-317;-33.556972;-70.616542
+La Pintana;14-318;Centro de Salud Familiar Flor Fernández;2da dosis;6;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-318;-33.585495;-70.636257
+La Pintana;14-319;Centro de Salud Familiar El Roble;2da dosis;3;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-319;-33.563873;-70.647535
+La Pintana;14-327;Centro de Salud Familiar Juan Pablo II Red de Salud UC CHRISTUS;2da dosis;4;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-327;-33.595431;-70.621698
+La Reina;12-317;Centro de Salud Familiar Ossandon;2da dosis;6;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-317;-33.442855;-70.54447
+La Reina;12-320;Centro de Salud Familiar Juan Pablo II ( La Reina);2da dosis;2;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-320;-33.456864;-70.532647
+La Reina;12-530;Hospital Militar de Santiago;2da dosis;12;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-530;-33.45281;-70.56351
+Lampa;09-311;Centro de Salud Familiar José Bauza Frau;2da dosis;2;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-311;-33.285648;-70.876237
+Lampa;09-312;Centro de Salud Familiar Batuco;2da dosis;6;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-312;-33.241849;-70.81415
+Las Condes;12-212;Clínica Las Condes;2da dosis;49;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-212;-33.384094;-70.530151
+Las Condes;12-238;Hospital FACH;2da dosis;4;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-238;-33.395327;-70.548074
+Las Condes;12-261;Clínica San Carlos de Apoquindo Red de Salud UC CHRISTUS;2da dosis;25;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-261;-33.40132;-70.51837
+Las Condes;12-272;Centro Médico Militar Rosa O'Higgins;2da dosis;1;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-272;-33.405309;-70.585445
+Las Condes;12-304;Centro de Salud Familiar Apoquindo;2da dosis;7;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-304;-33.400414;-70.56441
+Las Condes;12-306;Centro de Salud Familiar Aníbal Ariztía;2da dosis;7;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-306;-33.417067;-70.53311
+Las Condes;12-950;Hospital Clínico Universidad de Los Andes;2da dosis;34;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-950;-33.40656;-70.50017
+Las Condes;201094;Vacunatorio Medicien Alto El Plomo;2da dosis;2;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;201094;-33.404764;-70.570812
+Las Condes;201157;Centro Médico y Dental Arauco Salud;2da dosis;3;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;201157;-33.402191;-70.578247
+Lo Barnechea;12-307;Centro de Salud Familiar Lo Barnechea;2da dosis;10;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-307;-33.351854;-70.509989
+Lo Barnechea;12-522;Centro Médico Clínica Santa María La Dehesa;2da dosis;5;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-522;-33.357673;-70.51444
+Lo Barnechea;12-527;Centro Médico Clínica Alemana (La Dehesa);2da dosis;40;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-527;-33.355705;-70.526293
+Lo Barnechea;12-906;Clínica MEDS La Dehesa;2da dosis;3;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-906;-33.36385;-70.5446
+Lo Espejo;13-308;Centro de Salud Familiar Clara Estrella;2da dosis;15;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-308;-33.514933;-70.676174
+Lo Espejo;13-309;Centro de Salud Familiar Julio Acuña Pinzón;2da dosis;26;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-309;-33.522431;-70.69732
+Lo Espejo;13-310;Centro de Salud Familiar Dra. Mariela Salgado Zepeda;2da dosis;15;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-310;-33.507423;-70.694073
+Lo Espejo;13-396;Centro de Salud Familiar Pueblo Lo Espejo;2da dosis;5;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-396;-33.53472;-70.696425
+Lo Prado;10-315;Centro de Salud Familiar Santa Anita;2da dosis;7;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-315;-33.43929;-70.7093
+Lo Prado;10-316;Centro de Salud Familiar Pablo Neruda;2da dosis;17;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-316;-33.450001;-70.730087
+Lo Prado;10-340;Centro de Salud Familiar Dr. Raúl Yazigi;2da dosis;5;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-340;-33.451755;-70.71605
+Lo Prado;10-345;Centro de Salud Familiar Dr. Carlos Avendaño;2da dosis;7;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-345;-33.436875;-70.740448
+Macul;12-312;Centro de Salud Familiar Félix de Amesti;2da dosis;9;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-312;-33.501502;-70.593927
+Macul;12-313;Centro de Salud Familiar Santa Julia;2da dosis;20;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-313;-33.476364;-70.592875
+Macul;12-319;Centro de Salud Familiar Padre Alberto Hurtado;2da dosis;3;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-319;-33.493484;-70.615109
+Macul;12-512;Centro Médico San Joaquín Red de Salud UC CHRISTUS;2da dosis;9;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-512;-33.497116;-70.614619
+Maipú;11-304;Centro de Salud Familiar Maipú;2da dosis;6;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-304;-33.504315;-70.75815
+Maipú;11-308;Centro de Salud Familiar Dr. José Eduardo Ahués Salame;2da dosis;3;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-308;-33.505433;-70.774352
+Maipú;11-309;Centro de Salud Familiar Dra. Ana María Juricic;2da dosis;14;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-309;-33.514065;-70.796603
+Maipú;11-378;Centro de Salud Familiar Dr. Iván Insunza;2da dosis;18;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-378;-33.484273;-70.771353
+Maipú;11-379;Centro de Salud Familiar Clotario Blest;2da dosis;47;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-379;-33.490025;-70.744879
+Maipú;11-380;Centro de Salud Familiar Dr. Carlos Godoy;2da dosis;24;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-380;-33.52776;-70.796393
+Maipú;11-382;Centro de Salud Familiar Presidenta Michelle Bachelet;2da dosis;10;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-382;-33.525395;-70.767836
+Maipú;11-383;Centro de Salud Familiar Dr. Luis Ferrada;2da dosis;8;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-383;-33.473168;-70.75602
+Maipú;201290;Vacunatorio INMUVAX;2da dosis;2;Vacunación Programática;SRP (trivirica) Monodosis;Central;201290;-33.498106;-70.75715
+María Pinto;10-385;Centro de Salud Familiar Adriana Madrid De Costabal;2da dosis;3;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-385;-33.51714;-71.125008
+Melipilla;10-270;Clínica Los Maitenes;2da dosis;16;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-270;-33.6721;-71.21718
+Melipilla;10-378;Centro de Salud Familiar Dr. Edelberto Elgueta;2da dosis;14;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-378;-33.681498;-71.22595
+Melipilla;10-379;Centro de Salud Familiar Dr. Francisco Boris Soler;2da dosis;7;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-379;-33.700239;-71.218134
+Melipilla;10-380;Centro de Salud Familiar San Manuel;2da dosis;7;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-380;-33.773496;-71.257568
+Melipilla;10-440;Posta de Salud Rural Bollenar;2da dosis;6;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-440;-33.569087;-71.210906
+Melipilla;10-455;Posta de salud Rural Pabellón;2da dosis;1;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-455;-33.750621;-71.198276
+Melipilla;10-938;Centro de Salud Familiar Florencia;2da dosis;13;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-938;-33.684442;-71.213312
+Padre Hurtado;10-366;Centro de Salud Familiar Juan Pablo II ( Padre Hurtado);2da dosis;27;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-366;-33.569779;-70.805151
+Paine;13-318;Centro de Salud Familiar Dr. Miguel Ángel Solar (ex CESFAM Paine);2da dosis;3;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-318;-33.804827;-70.741211
+Paine;13-319;Centro de Salud Familiar Dr. Raúl Moya;2da dosis;14;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-319;-33.868535;-70.747995
+Paine;13-408;Posta de Salud Rural Pintué;2da dosis;11;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-408;-33.88597;-70.892169
+Paine;13-409;Posta de Salud Rural Huelquén;2da dosis;11;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-409;-33.832761;-70.643261
+Paine;13-410;Posta de Salud Rural Rangue;2da dosis;4;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-410;-33.850752;-70.942806
+Paine;13-411;Posta de Salud Rural Abrantes;2da dosis;3;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-411;-33.85926;-70.850687
+Paine;13-412;Posta de Salud Rural Chada;2da dosis;3;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-412;-33.900747;-70.660518
+Pedro Aguirre Cerda;11-303;Centro de Salud Familiar Lo Valledor Norte;2da dosis;8;Vacunación Programática;SRP (trivirica) Monodosis;Sur;11-303;-33.488282;-70.686377
+Pedro Aguirre Cerda;13-303;Centro de Salud Familiar Amador Neghme;2da dosis;5;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-303;-33.503461;-70.676059
+Pedro Aguirre Cerda;13-306;Centro de Salud Familiar Padre Pierre Dubois (Ex La Feria);2da dosis;4;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-306;-33.48971;-70.676018
+Pedro Aguirre Cerda;13-331;Centro de Salud Familiar Edgardo Enríquez Fröedden;2da dosis;4;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-331;-33.480185;-70.669075
+Peñaflor;10-308;Centro de Salud Familiar Peñaflor;2da dosis;15;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-308;-33.6088;-70.896258
+Peñaflor;10-369;Centro de Salud Familiar Dr. Fernando Monckeberg;2da dosis;28;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-369;-33.609978;-70.871635
+Peñalolén;12-275;Centro Médico Alto Tobalaba - Vacunatorio Vacci Protex;2da dosis;20;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-275;-33.48292;-70.557327
+Peñalolén;12-314;Centro de Salud Familiar La Faena;2da dosis;19;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-314;-33.467931;-70.556011
+Peñalolén;12-315;Centro de Salud Familiar San Luis;2da dosis;11;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-315;-33.508122;-70.577994
+Peñalolén;12-316;Centro de Salud Familiar Carol Urzúa Ibáñez;2da dosis;6;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-316;-33.476897;-70.542996
+Peñalolén;12-318;Centro de Salud Familiar Lo Hermida;2da dosis;11;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-318;-33.476942;-70.562722
+Peñalolén;12-321;Centro de Salud Familiar Cardenal Silva Henríquez;2da dosis;7;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-321;-33.470387;-70.532225
+Peñalolén;12-322;Centro de Salud Familiar Padre Gerardo Whelan;2da dosis;24;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-322;-33.473974;-70.574226
+Peñalolén;12-930;Clínica Las Condes Peñalolén;2da dosis;25;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-930;-33.489949;-70.544831
+Peñalolén;201112;CESFAM Las Torres;2da dosis;26;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;201112;-33.50287;-70.577602
+Pirque;14-310;Centro de Salud Familiar Dr. José Manuel Balmaceda;2da dosis;6;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-310;-33.635077;-70.572477
+Pirque;14-333;Centro de Salud Rural El Principal;2da dosis;11;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-333;-33.720684;-70.553279
+Providencia;12-211;Clínica Indisa;2da dosis;39;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-211;-33.43333;-70.62855
+Providencia;12-249;Clínica Santa María;2da dosis;15;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-249;-33.43282;-70.62822
+Providencia;12-301;Centro de Salud Familiar Dr. Hernán Alessandri;2da dosis;5;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-301;-33.444228;-70.620427
+Providencia;12-302;Centro de Salud Familiar Dr. Alfonso Leng;2da dosis;5;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-302;-33.431406;-70.618809
+Providencia;12-303;Centro de Salud Familiar Aguilucho;2da dosis;5;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-303;-33.442673;-70.597096
+Providencia;12-944;Vacunatorio Internacional Immunitas SpA;2da dosis;7;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-944;-33.423268;-70.609892
+Providencia;12-945;Vacunatorio Clínica El Bosque;2da dosis;6;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-945;-33.42821;-70.619211
+Providencia;200919;VACUMED;2da dosis;2;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;200919;-33.435545;-70.631183
+Providencia;201156;VAXPROSALUD;2da dosis;6;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;201156;-33.427625;-70.592504
+Pudahuel;10-350;Centro de Salud Familiar Pudahuel Estrella;2da dosis;22;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-350;-33.437387;-70.750666
+Pudahuel;10-351;Centro de Salud Familiar Pudahuel Poniente;2da dosis;11;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-351;-33.447426;-70.76289
+Pudahuel;10-353;Centro de Salud Familiar Cardenal Raúl Silva Henríquez;2da dosis;9;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-353;-33.429;-70.770919
+Pudahuel;10-354;Centro de Salud Familiar Violeta Parra;2da dosis;7;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-354;-33.456935;-70.742752
+Pudahuel;201146;Centro Medico y Dental Del Valle;2da dosis;1;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;201146;-33.45267;-70.848608
+Puente Alto;14-301;Centro de Salud Familiar Dr. Alejandro del Río;2da dosis;10;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-301;-33.607158;-70.578452
+Puente Alto;14-312;Centro de Salud Familiar San Gerónimo;2da dosis;24;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-312;-33.623527;-70.588387
+Puente Alto;14-313;Centro de Salud Familiar Vista Hermosa;2da dosis;6;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-313;-33.61107;-70.521039
+Puente Alto;14-320;Centro de Salud Familiar Bernardo Leighton;2da dosis;6;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-320;-33.584276;-70.604383
+Puente Alto;14-321;Centro de Salud Familiar Cardenal Silva Henríquez;2da dosis;6;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-321;-33.627923;-70.616459
+Puente Alto;14-322;Centro de Salud Familiar Padre Manuel Villaseca;2da dosis;4;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-322;-33.583959;-70.556326
+Puente Alto;14-323;Centro de Salud Familiar Madre Teresa de Calcuta Red de Salud UC CHRISTUS;2da dosis;4;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-323;-33.614332;-70.552683
+Puente Alto;14-326;Centro de Salud Familiar Karol Wojtyla;2da dosis;5;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-326;-33.625966;-70.625759
+Puente Alto;14-329;Centro de Salud Familiar San Alberto Hurtado Red de Salud UC CHRISTUS;2da dosis;26;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-329;-33.59663;-70.556535
+Puente Alto;14-332;Centro de Salud Familiar Laurita Vicuña;2da dosis;16;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-332;-33.591149;-70.595281
+Quilicura;09-313;Centro de Salud Familiar Irene Frei de Cid;2da dosis;27;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-313;-33.365842;-70.746633
+Quilicura;09-315;Centro de Salud Familiar Manuel Bustos Huerta;2da dosis;7;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-315;-33.354232;-70.720395
+Quilicura;09-324;Centro de Salud Familiar Presidente Salvador Allende Gossens;2da dosis;2;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-324;-33.354498;-70.737981
+Quilicura;201091;CESFAM Marta Ugarte Román;2da dosis;11;Vacunación Programática;SRP (trivirica) Monodosis;Norte;201091;-33.369414;-70.73201
+Quinta Normal;10-310;Centro de Salud Familiar Andes;2da dosis;9;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-310;-33.434192;-70.692944
+Quinta Normal;10-320;Centro de Salud Familiar Lo Franco;2da dosis;5;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-320;-33.422508;-70.694803
+Quinta Normal;10-325;Centro de Salud Familiar Garín;2da dosis;8;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-325;-33.430421;-70.714351
+Recoleta;09-201;Clínica Dávila;2da dosis;29;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-201;-33.427257;-70.648544
+Recoleta;09-301;Centro de Salud Familiar Recoleta;2da dosis;8;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-301;-33.423922;-70.645768
+Recoleta;09-303;Centro de Salud Familiar Quinta Bella;2da dosis;8;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-303;-33.403207;-70.634602
+Recoleta;09-304;Centro de Salud Familiar Valdivieso;2da dosis;7;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-304;-33.410322;-70.631219
+Recoleta;09-307;Centro de Salud Familiar Dr. Juan Petrinovic (Ex Scroggie);2da dosis;8;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-307;-33.384392;-70.644939
+Recoleta;09-390;Centro de Salud Familiar Cristo Vive (ONG);2da dosis;3;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-390;-33.387053;-70.641803
+Renca;10-360;Centro de Salud Familiar Renca;2da dosis;2;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-360;-33.403452;-70.709698
+Renca;10-361;Centro de Salud Familiar Bicentenario;2da dosis;1;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-361;-33.397669;-70.749713
+Renca;10-362;Centro de Salud Familiar Dr. Hernán Urzúa Merino;2da dosis;22;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-362;-33.411478;-70.728472
+Renca;10-364;Centro de Salud Familiar Huamachuco;2da dosis;12;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-364;-33.39126;-70.698932
+San Bernardo;13-313;Centro de Salud Familiar Raúl Cuevas (Ex-San Bernardo);2da dosis;9;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-313;-33.597631;-70.714846
+San Bernardo;13-315;Centro de Salud Familiar Confraternidad;2da dosis;20;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-315;-33.589661;-70.682857
+San Bernardo;13-316;Centro de Salud Familiar Carol Urzúa;2da dosis;12;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-316;-33.575808;-70.703607
+San Bernardo;13-328;Centro de Salud Familiar Padre Joan Alsina;2da dosis;4;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-328;-33.613987;-70.697869
+San Bernardo;13-330;Centro de Salud Familiar Raúl Brañes F.;2da dosis;2;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-330;-33.59866;-70.68036
+San Bernardo;13-332;Centro de Salud Familiar Juan Pablo II ( San Bernardo);2da dosis;19;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-332;-33.584476;-70.692076
+San Bernardo;13-394;Centro de Salud Familiar El Manzano;2da dosis;41;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-394;-33.590706;-70.666217
+San Joaquín;13-301;Centro de Salud Familiar San Joaquín;2da dosis;2;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-301;-33.486494;-70.623533
+San Joaquín;13-305;Centro de Salud Familiar Arturo Baeza Goñi;2da dosis;3;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-305;-33.491964;-70.633221
+San Joaquín;13-322;Centro de Salud Familiar Santa Teresa de Los Andes;2da dosis;11;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-322;-33.506303;-70.624386
+San José de Maipo;14-102;Hospital San José de Maipo;2da dosis;4;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-102;-33.641256;-70.352299
+San José de Maipo;14-407;Posta de Salud Rural Las Vertientes;2da dosis;7;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-407;-33.592102;-70.482171
+San Miguel;13-300;Centro de Salud Familiar Barros Luco;2da dosis;5;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-300;-33.48279;-70.648764
+San Miguel;13-302;Centro de Salud Familiar Recreo;2da dosis;13;Vacunación Programática;SRP (trivirica) Monodosis;Sur;13-302;-33.510116;-70.64902
+San Pedro;10-387;Centro de Salud Familiar San Pedro;2da dosis;4;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-387;-33.895313;-71.454412
+San Ramón;14-307;Centro de Salud Familiar La Bandera;2da dosis;23;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-307;-33.545428;-70.644824
+San Ramón;14-314;Centro de Salud Familiar Dr. Salvador Allende (Ex Consultorio San Ramón);2da dosis;6;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-314;-33.537986;-70.640552
+San Ramón;14-328;Centro de Salud Familiar Poetisa Gabriela Mistral;2da dosis;15;Vacunación Programática;SRP (trivirica) Monodosis;Suroriente;14-328;-33.551606;-70.640729
+Santiago;11-267;Centro Médico Vida Integra Alameda;2da dosis;1;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-267;-33.446412;-70.658798
+Santiago;11-291;Centro Médico y Dental Fundación Asistencial Trabajadores Del Banco del Estado de Chile;2da dosis;2;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-291;-33.442973;-70.655523
+Santiago;11-292;Vacunatorio Marcoleta de la Pontificia Universidad Católica de Chile;2da dosis;28;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-292;-33.442163;-70.640257
+Santiago;11-300;Centro de Salud Familiar N° 1 Dr. Ramón Corbalán Melgarejo;2da dosis;8;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-300;-33.455442;-70.652731
+Santiago;11-301;Centro de Salud Familiar Nº 5;2da dosis;5;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-301;-33.45118;-70.673769
+Santiago;11-370;Centro de Salud Familiar Padre Orellana;2da dosis;5;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-370;-33.466621;-70.629593
+Santiago;11-372;Centro de Salud Familiar Arauco;2da dosis;7;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-372;-33.46803;-70.670454
+Santiago;11-376;Centro de Salud Familiar Matta Sur;2da dosis;1;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-376;-33.461578;-70.655451
+Santiago;11-381;Centro de Salud Familiar Ignacio Domeyko;2da dosis;10;Vacunación Programática;SRP (trivirica) Monodosis;Central;11-381;-33.438921;-70.672467
+Talagante;10-390;Centro de Salud Familiar Dr. Alberto Allende Jones;2da dosis;28;Vacunación Programática;SRP (trivirica) Monodosis;Occidente;10-390;-33.669665;-70.937614
+Tiltil;09-104;Hospital de Til Til;2da dosis;3;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-104;-33.086793;-70.924522
+Tiltil;09-320;Centro de Salud Familiar Huertos Familiares;2da dosis;8;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-320;-33.135821;-70.799456
+Tiltil;09-410;Posta de Salud Rural La Capilla de Caleu;2da dosis;2;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-410;-33.002937;-70.995072
+Tiltil;09-413;Posta de Salud Rural Rungue;2da dosis;1;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-413;-33.008385;-70.892433
+Tiltil;09-414;Posta de Salud Rural Polpaico;2da dosis;1;Vacunación Programática;SRP (trivirica) Monodosis;Norte;09-414;-33.167398;-70.887052
+Vitacura;12-200;Clínica Alemana;2da dosis;69;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-200;-33.391276;-70.572983
+Vitacura;12-201;Clínica Tabancura;2da dosis;19;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-201;-33.38216;-70.53534
+Vitacura;12-274;Procedimientos Clínicos Alto Tabancura;2da dosis;6;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-274;-33.380903;-70.536344
+Vitacura;12-309;Centro de Salud Familiar Vitacura;2da dosis;5;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-309;-33.38985;-70.555009
+Ñuñoa;12-240;Hospital Carabineros;2da dosis;22;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-240;-33.450658;-70.608463
+Ñuñoa;12-310;Centro de Salud Familiar Rosita Renard;2da dosis;4;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-310;-33.469243;-70.602904
+Ñuñoa;12-311;Centro de Salud Familiar Salvador Bustos;2da dosis;2;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-311;-33.465998;-70.587774
+Ñuñoa;12-942;Vacunatorio Varik;2da dosis;12;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;12-942;-33.45454;-70.606179
+Ñuñoa;201093;Vacunatorio Medicien_Ñuñoa;2da dosis;1;Vacunación Programática;SRP (trivirica) Monodosis;Oriente;201093;-33.455441;-70.595222
+Alhué;10-393;Centro de Salud Familiar Villa Alhué;1ra dosis;33;Vacunación Programática;Varicela;Occidente;10-393;-34.032484;-71.100076
+Buin;13-320;Centro de Salud Familiar Maipo;1ra dosis;59;Vacunación Programática;Varicela;Sur;13-320;-33.734885;-70.784598
+Buin;13-333;Centro de Salud Familiar Alto Jahuel;1ra dosis;18;Vacunación Programática;Varicela;Sur;13-333;-33.735249;-70.684161
+Buin;13-390;Centro de Salud Familiar Dr. Héctor García;1ra dosis;162;Vacunación Programática;Varicela;Sur;13-390;-33.737754;-70.741333
+Buin;13-402;Centro Comunitario de Salud Familiar Dr. Ramón Galindo;1ra dosis;23;Vacunación Programática;Varicela;Sur;13-402;-33.75109;-70.735556
+Buin;13-404;Posta de Salud Rural Valdivia de Paine;1ra dosis;8;Vacunación Programática;Varicela;Sur;13-404;-33.811928;-70.86063
+Buin;13-405;Posta de Salud Rural Viluco;1ra dosis;21;Vacunación Programática;Varicela;Sur;13-405;-33.782229;-70.791771
+Buin;13-406;Posta de Salud Rural El Recurso;1ra dosis;4;Vacunación Programática;Varicela;Sur;13-406;-33.690787;-70.701729
+Buin;13-407;Posta de Salud Rural Los Morros;1ra dosis;7;Vacunación Programática;Varicela;Sur;13-407;-33.67046;-70.665548
+Buin;13-790;Centro Comunitario de Salud Familiar Dr. Héctor García;1ra dosis;21;Vacunación Programática;Varicela;Sur;13-790;-33.711787;-70.739533
+Buin;201098;Centro Medico KINEROD;1ra dosis;4;Vacunación Programática;Varicela;Sur;201098;-33.73418;-70.744272
+Buin;201162;KUME FELEN SPA;1ra dosis;18;Vacunación Programática;Varicela;Sur;201162;-33.730461;-70.741187
+Calera de Tango;13-321;Centro de Salud Familiar Calera de Tango;1ra dosis;33;Vacunación Programática;Varicela;Sur;13-321;-33.636009;-70.811012
+Calera de Tango;13-334;Centro de Salud Familiar Los Bajos de San Agustín;1ra dosis;39;Vacunación Programática;Varicela;Sur;13-334;-33.625946;-70.782415
+Cerrillos;11-305;Centro de Salud Familiar Dr. Norman Voulliéme;1ra dosis;129;Vacunación Programática;Varicela;Central;11-305;-33.49331;-70.719201
+Cerrillos;11-307;Centro de Salud Familiar Enfermera Sofía Pincheira;1ra dosis;66;Vacunación Programática;Varicela;Central;11-307;-33.501479;-70.733545
+Cerro Navia;10-330;Centro de Salud Familiar Dr. Adalberto Steeger;1ra dosis;105;Vacunación Programática;Varicela;Occidente;10-330;-33.417518;-70.741198
+Cerro Navia;10-331;Centro de Salud Familiar Lo Amor;1ra dosis;52;Vacunación Programática;Varicela;Occidente;10-331;-33.417581;-70.717399
+Cerro Navia;10-335;Centro de Salud Familiar Cerro Navia;1ra dosis;79;Vacunación Programática;Varicela;Occidente;10-335;-33.419555;-70.750834
+Cerro Navia;10-355;Centro de Salud Familiar Dr. Arturo Albertz;1ra dosis;60;Vacunación Programática;Varicela;Occidente;10-355;-33.433502;-70.731655
+Colina;09-310;Centro de Salud Familiar Colina;1ra dosis;169;Vacunación Programática;Varicela;Norte;09-310;-33.205979;-70.670553
+Colina;09-316;Centro de Salud Familiar Esmeralda;1ra dosis;148;Vacunación Programática;Varicela;Norte;09-316;-33.184133;-70.653657
+Colina;09-417;Posta de Salud Rural Los Ingleses;1ra dosis;2;Vacunación Programática;Varicela;Norte;09-417;-33.267323;-70.678694
+Colina;09-418;Posta de Salud Rural Las Canteras;1ra dosis;3;Vacunación Programática;Varicela;Norte;09-418;-33.3043;-70.689015
+Colina;09-419;Posta de Salud Rural Santa Marta de Liray;1ra dosis;4;Vacunación Programática;Varicela;Norte;09-419;-33.240239;-70.736763
+Colina;09-905;Centro Médico Clínica Alemana de Chicureo;1ra dosis;140;Vacunación Programática;Varicela;Norte;09-905;-33.286284;-70.651801
+Colina;09-927;Centro Médico Clinica Las Condes de Chicureo (Servicios de Salud Integrados S.A.);1ra dosis;102;Vacunación Programática;Varicela;Norte;09-927;-33.283002;-70.651101
+Colina;201087;VACUNATORIO CHICUREO SpA;1ra dosis;2;Vacunación Programática;Varicela;Norte;201087;-33.278421;-70.706218
+Conchalí;09-302;Centro de Salud Familiar Lucas Sierra;1ra dosis;77;Vacunación Programática;Varicela;Norte;09-302;-33.388856;-70.671249
+Conchalí;09-308;Centro de Salud Familiar Alberto Bachelet Martínez;1ra dosis;56;Vacunación Programática;Varicela;Norte;09-308;-33.394414;-70.658337
+Conchalí;09-309;Centro de Salud Familiar José Symon Ojeda;1ra dosis;62;Vacunación Programática;Varicela;Norte;09-309;-33.378315;-70.692373
+Conchalí;09-314;Centro de Salud Familiar Juanita Aguirre;1ra dosis;66;Vacunación Programática;Varicela;Norte;09-314;-33.370386;-70.683005
+Curacaví;10-160;Hospital de Curacaví;1ra dosis;72;Vacunación Programática;Varicela;Occidente;10-160;-33.4095;-71.145664
+El Bosque;13-312;Centro de Salud Familiar Dr. Carlos Lorca Tobar;1ra dosis;88;Vacunación Programática;Varicela;Sur;13-312;-33.554149;-70.666968
+El Bosque;13-314;Centro de Salud Familiar Cóndores de Chile;1ra dosis;58;Vacunación Programática;Varicela;Sur;13-314;-33.561362;-70.674691
+El Bosque;13-317;Centro de Salud Familiar Santa Laura;1ra dosis;75;Vacunación Programática;Varicela;Sur;13-317;-33.552491;-70.688809
+El Bosque;13-323;Centro de Salud Familiar Dr. Mario Salcedo;1ra dosis;77;Vacunación Programática;Varicela;Sur;13-323;-33.582081;-70.668768
+El Bosque;13-324;Centro de Salud Familiar Dra. Haydeé López Casoou;1ra dosis;75;Vacunación Programática;Varicela;Sur;13-324;-33.572212;-70.667054
+El Bosque;13-329;Centro de Salud Familiar Canciller Orlando Letelier;1ra dosis;62;Vacunación Programática;Varicela;Sur;13-329;-33.578041;-70.67785
+El Monte;10-370;Centro de Salud Familiar El Monte;1ra dosis;93;Vacunación Programática;Varicela;Occidente;10-370;-33.681919;-70.986091
+Estación Central;11-230;Clínica Hospital del Profesor;1ra dosis;62;Vacunación Programática;Varicela;Central;11-230;-33.457755;-70.702639
+Estación Central;11-295;Red Salud Santiago ex Clínica Bicentenario;1ra dosis;149;Vacunación Programática;Varicela;Central;11-295;-33.457336;-70.701792
+Estación Central;11-302;Centro de Salud Familiar Padre Vicente Irarrázabal;1ra dosis;84;Vacunación Programática;Varicela;Central;11-302;-33.47284;-70.691894
+Estación Central;11-306;Centro de Salud Familiar San José de Chuchunco;1ra dosis;52;Vacunación Programática;Varicela;Central;11-306;-33.473682;-70.705982
+Estación Central;11-310;Centro de Salud Familiar Las Mercedes;1ra dosis;166;Vacunación Programática;Varicela;Central;11-310;-33.451977;-70.703928
+Huechuraba;09-305;Centro de Salud Familiar La Pincoya;1ra dosis;50;Vacunación Programática;Varicela;Norte;09-305;-33.373386;-70.63702
+Huechuraba;09-317;Centro de Salud Familiar El Barrero;1ra dosis;29;Vacunación Programática;Varicela;Norte;09-317;-33.375909;-70.624663
+Huechuraba;09-323;Centro de Salud Familiar Dr. Salvador Allende Gossens;1ra dosis;45;Vacunación Programática;Varicela;Norte;09-323;-33.363415;-70.632789
+Huechuraba;09-718;Centro Comunitario de Salud Familiar Los Libertadores;1ra dosis;14;Vacunación Programática;Varicela;Norte;09-718;-33.360049;-70.683527
+Huechuraba;09-915;Centro de Salud Familiar Dr. Victor Castro Wiren;1ra dosis;50;Vacunación Programática;Varicela;Norte;09-915;-33.352605;-70.67705
+Independencia;09-101;Hospital Clínico de Niños Dr. Roberto del Río (Santiago, Independencia);1ra dosis;9;Vacunación Programática;Varicela;Norte;09-101;-33.415335;-70.655086
+Independencia;09-200;Hospital Clínico Universidad de Chile;1ra dosis;34;Vacunación Programática;Varicela;Norte;09-200;-33.420057;-70.653116
+Independencia;09-300;Centro de Salud Familiar Agustín Cruz Melo;1ra dosis;189;Vacunación Programática;Varicela;Norte;09-300;-33.415155;-70.657119
+Independencia;09-321;Centro de Salud Familiar Juan Antonio Ríos;1ra dosis;44;Vacunación Programática;Varicela;Norte;09-321;-33.417373;-70.668652
+Isla de Maipo;10-375;Centro de Salud Familiar Isla de Maipo;1ra dosis;55;Vacunación Programática;Varicela;Occidente;10-375;-33.749042;-70.903306
+Isla de Maipo;10-425;Centro de Salud Familiar La Islita;1ra dosis;51;Vacunación Programática;Varicela;Occidente;10-425;-33.734795;-70.861701
+La Cisterna;13-311;Centro de Salud Familiar Santa Anselma;1ra dosis;101;Vacunación Programática;Varicela;Sur;13-311;-33.529594;-70.667368
+La Cisterna;13-326;Centro de Salud Familiar Eduardo Frei Montalva;1ra dosis;74;Vacunación Programática;Varicela;Sur;13-326;-33.538937;-70.66238
+La Florida;14-223;Clínica Vespucio;1ra dosis;224;Vacunación Programática;Varicela;Suroriente;14-223;-33.519116;-70.596867
+La Florida;14-302;Centro de Salud Familiar Los Castaños;1ra dosis;66;Vacunación Programática;Varicela;Suroriente;14-302;-33.511875;-70.577975
+La Florida;14-303;Centro de Salud Familiar Bellavista;1ra dosis;87;Vacunación Programática;Varicela;Suroriente;14-303;-33.518563;-70.602218
+La Florida;14-304;Centro de Salud Familiar Villa O'Higgins;1ra dosis;76;Vacunación Programática;Varicela;Suroriente;14-304;-33.531236;-70.604217
+La Florida;14-305;Centro de Salud Familiar Los Quillayes;1ra dosis;112;Vacunación Programática;Varicela;Suroriente;14-305;-33.560178;-70.60598
+La Florida;14-316;Centro de Salud Familiar Dr. Fernando Maffioletti;1ra dosis;94;Vacunación Programática;Varicela;Suroriente;14-316;-33.560204;-70.578515
+La Florida;14-324;Centro de Salud Familiar Santa Amalia;1ra dosis;72;Vacunación Programática;Varicela;Suroriente;14-324;-33.54375;-70.592829
+La Florida;14-330;Centro de Salud Familiar Trinidad;1ra dosis;54;Vacunación Programática;Varicela;Suroriente;14-330;-33.547211;-70.60862
+La Florida;14-331;Centro de Salud Familiar La Florida;1ra dosis;69;Vacunación Programática;Varicela;Suroriente;14-331;-33.514659;-70.585809
+La Florida;14-334;Centro de Salud Familiar José Alvo;1ra dosis;56;Vacunación Programática;Varicela;Suroriente;14-334;-33.557178;-70.582012
+La Florida;14-908;Clínica Bupa Santiago;1ra dosis;84;Vacunación Programática;Varicela;Suroriente;14-908;-33.509903;-70.598229
+La Granja;13-307;Centro de Salud Familiar Padre Esteban Gumucio Vives;1ra dosis;48;Vacunación Programática;Varicela;Suroriente;13-307;-33.519604;-70.623975
+La Granja;14-306;Centro de Salud Familiar La Granja;1ra dosis;92;Vacunación Programática;Varicela;Suroriente;14-306;-33.536995;-70.633668
+La Granja;14-315;Centro de Salud Familiar Malaquías Concha;1ra dosis;38;Vacunación Programática;Varicela;Suroriente;14-315;-33.527458;-70.621298
+La Granja;14-325;Centro de Salud Familiar Granja Sur;1ra dosis;104;Vacunación Programática;Varicela;Suroriente;14-325;-33.551822;-70.629548
+La Pintana;14-308;Centro de Salud Familiar San Rafael;1ra dosis;79;Vacunación Programática;Varicela;Suroriente;14-308;-33.579577;-70.639086
+La Pintana;14-309;Centro de Salud Familiar Pablo de Rokha;1ra dosis;26;Vacunación Programática;Varicela;Suroriente;14-309;-33.576624;-70.64964
+La Pintana;14-311;Centro de Salud Familiar Santiago de Nueva Extremadura;1ra dosis;50;Vacunación Programática;Varicela;Suroriente;14-311;-33.588977;-70.618578
+La Pintana;14-317;Centro de Salud Familiar Santo Tomás;1ra dosis;64;Vacunación Programática;Varicela;Suroriente;14-317;-33.556972;-70.616542
+La Pintana;14-318;Centro de Salud Familiar Flor Fernández;1ra dosis;30;Vacunación Programática;Varicela;Suroriente;14-318;-33.585495;-70.636257
+La Pintana;14-319;Centro de Salud Familiar El Roble;1ra dosis;76;Vacunación Programática;Varicela;Suroriente;14-319;-33.563873;-70.647535
+La Pintana;14-327;Centro de Salud Familiar Juan Pablo II Red de Salud UC CHRISTUS;1ra dosis;45;Vacunación Programática;Varicela;Suroriente;14-327;-33.595431;-70.621698
+La Reina;12-317;Centro de Salud Familiar Ossandon;1ra dosis;27;Vacunación Programática;Varicela;Oriente;12-317;-33.442855;-70.54447
+La Reina;12-320;Centro de Salud Familiar Juan Pablo II ( La Reina);1ra dosis;38;Vacunación Programática;Varicela;Oriente;12-320;-33.456864;-70.532647
+La Reina;12-530;Hospital Militar de Santiago;1ra dosis;41;Vacunación Programática;Varicela;Oriente;12-530;-33.45281;-70.56351
+Lampa;09-311;Centro de Salud Familiar José Bauza Frau;1ra dosis;180;Vacunación Programática;Varicela;Norte;09-311;-33.285648;-70.876237
+Lampa;09-312;Centro de Salud Familiar Batuco;1ra dosis;64;Vacunación Programática;Varicela;Norte;09-312;-33.241849;-70.81415
+Las Condes;12-204;Nueva Clínica Cordillera;1ra dosis;20;Vacunación Programática;Varicela;Oriente;12-204;-33.42206;-70.52727
+Las Condes;12-212;Clínica Las Condes;1ra dosis;272;Vacunación Programática;Varicela;Oriente;12-212;-33.384094;-70.530151
+Las Condes;12-238;Hospital FACH;1ra dosis;24;Vacunación Programática;Varicela;Oriente;12-238;-33.395327;-70.548074
+Las Condes;12-261;Clínica San Carlos de Apoquindo Red de Salud UC CHRISTUS;1ra dosis;122;Vacunación Programática;Varicela;Oriente;12-261;-33.40132;-70.51837
+Las Condes;12-272;Centro Médico Militar Rosa O'Higgins;1ra dosis;16;Vacunación Programática;Varicela;Oriente;12-272;-33.405309;-70.585445
+Las Condes;12-304;Centro de Salud Familiar Apoquindo;1ra dosis;31;Vacunación Programática;Varicela;Oriente;12-304;-33.400414;-70.56441
+Las Condes;12-306;Centro de Salud Familiar Aníbal Ariztía;1ra dosis;59;Vacunación Programática;Varicela;Oriente;12-306;-33.417067;-70.53311
+Las Condes;12-950;Hospital Clínico Universidad de Los Andes;1ra dosis;138;Vacunación Programática;Varicela;Oriente;12-950;-33.40656;-70.50017
+Las Condes;201094;Vacunatorio Medicien Alto El Plomo;1ra dosis;10;Vacunación Programática;Varicela;Oriente;201094;-33.404764;-70.570812
+Las Condes;201157;Centro Médico y Dental Arauco Salud;1ra dosis;41;Vacunación Programática;Varicela;Oriente;201157;-33.402191;-70.578247
+Lo Barnechea;12-307;Centro de Salud Familiar Lo Barnechea;1ra dosis;94;Vacunación Programática;Varicela;Oriente;12-307;-33.351854;-70.509989
+Lo Barnechea;12-522;Centro Médico Clínica Santa María La Dehesa;1ra dosis;66;Vacunación Programática;Varicela;Oriente;12-522;-33.357673;-70.51444
+Lo Barnechea;12-527;Centro Médico Clínica Alemana (La Dehesa);1ra dosis;252;Vacunación Programática;Varicela;Oriente;12-527;-33.355705;-70.526293
+Lo Barnechea;12-906;Clínica MEDS La Dehesa;1ra dosis;7;Vacunación Programática;Varicela;Oriente;12-906;-33.36385;-70.5446
+Lo Espejo;13-308;Centro de Salud Familiar Clara Estrella;1ra dosis;50;Vacunación Programática;Varicela;Sur;13-308;-33.514933;-70.676174
+Lo Espejo;13-309;Centro de Salud Familiar Julio Acuña Pinzón;1ra dosis;87;Vacunación Programática;Varicela;Sur;13-309;-33.522431;-70.69732
+Lo Espejo;13-310;Centro de Salud Familiar Dra. Mariela Salgado Zepeda;1ra dosis;49;Vacunación Programática;Varicela;Sur;13-310;-33.507423;-70.694073
+Lo Espejo;13-396;Centro de Salud Familiar Pueblo Lo Espejo;1ra dosis;59;Vacunación Programática;Varicela;Sur;13-396;-33.53472;-70.696425
+Lo Prado;10-315;Centro de Salud Familiar Santa Anita;1ra dosis;85;Vacunación Programática;Varicela;Occidente;10-315;-33.43929;-70.7093
+Lo Prado;10-316;Centro de Salud Familiar Pablo Neruda;1ra dosis;61;Vacunación Programática;Varicela;Occidente;10-316;-33.450001;-70.730087
+Lo Prado;10-340;Centro de Salud Familiar Dr. Raúl Yazigi;1ra dosis;73;Vacunación Programática;Varicela;Occidente;10-340;-33.451755;-70.71605
+Lo Prado;10-345;Centro de Salud Familiar Dr. Carlos Avendaño;1ra dosis;57;Vacunación Programática;Varicela;Occidente;10-345;-33.436875;-70.740448
+Macul;12-312;Centro de Salud Familiar Félix de Amesti;1ra dosis;59;Vacunación Programática;Varicela;Oriente;12-312;-33.501502;-70.593927
+Macul;12-313;Centro de Salud Familiar Santa Julia;1ra dosis;60;Vacunación Programática;Varicela;Oriente;12-313;-33.476364;-70.592875
+Macul;12-319;Centro de Salud Familiar Padre Alberto Hurtado;1ra dosis;54;Vacunación Programática;Varicela;Oriente;12-319;-33.493484;-70.615109
+Macul;12-512;Centro Médico San Joaquín Red de Salud UC CHRISTUS;1ra dosis;123;Vacunación Programática;Varicela;Oriente;12-512;-33.497116;-70.614619
+Maipú;11-304;Centro de Salud Familiar Maipú;1ra dosis;125;Vacunación Programática;Varicela;Central;11-304;-33.504315;-70.75815
+Maipú;11-308;Centro de Salud Familiar Dr. José Eduardo Ahués Salame;1ra dosis;124;Vacunación Programática;Varicela;Central;11-308;-33.505433;-70.774352
+Maipú;11-309;Centro de Salud Familiar Dra. Ana María Juricic;1ra dosis;77;Vacunación Programática;Varicela;Central;11-309;-33.514065;-70.796603
+Maipú;11-378;Centro de Salud Familiar Dr. Iván Insunza;1ra dosis;69;Vacunación Programática;Varicela;Central;11-378;-33.484273;-70.771353
+Maipú;11-379;Centro de Salud Familiar Clotario Blest;1ra dosis;74;Vacunación Programática;Varicela;Central;11-379;-33.490025;-70.744879
+Maipú;11-380;Centro de Salud Familiar Dr. Carlos Godoy;1ra dosis;159;Vacunación Programática;Varicela;Central;11-380;-33.52776;-70.796393
+Maipú;11-382;Centro de Salud Familiar Presidenta Michelle Bachelet;1ra dosis;95;Vacunación Programática;Varicela;Central;11-382;-33.525395;-70.767836
+Maipú;11-383;Centro de Salud Familiar Dr. Luis Ferrada;1ra dosis;58;Vacunación Programática;Varicela;Central;11-383;-33.473168;-70.75602
+Maipú;201290;Vacunatorio INMUVAX;1ra dosis;4;Vacunación Programática;Varicela;Central;201290;-33.498106;-70.75715
+María Pinto;10-385;Centro de Salud Familiar Adriana Madrid De Costabal;1ra dosis;44;Vacunación Programática;Varicela;Occidente;10-385;-33.51714;-71.125008
+Melipilla;10-270;Clínica Los Maitenes;1ra dosis;42;Vacunación Programática;Varicela;Occidente;10-270;-33.6721;-71.21718
+Melipilla;10-378;Centro de Salud Familiar Dr. Edelberto Elgueta;1ra dosis;88;Vacunación Programática;Varicela;Occidente;10-378;-33.681498;-71.22595
+Melipilla;10-379;Centro de Salud Familiar Dr. Francisco Boris Soler;1ra dosis;89;Vacunación Programática;Varicela;Occidente;10-379;-33.700239;-71.218134
+Melipilla;10-380;Centro de Salud Familiar San Manuel;1ra dosis;32;Vacunación Programática;Varicela;Occidente;10-380;-33.773496;-71.257568
+Melipilla;10-381;Centro de Salud Familiar Alfarera Rosa Reyes Vilches;1ra dosis;17;Vacunación Programática;Varicela;Occidente;10-381;-33.649845;-71.15045
+Melipilla;10-440;Posta de Salud Rural Bollenar;1ra dosis;22;Vacunación Programática;Varicela;Occidente;10-440;-33.569087;-71.210906
+Melipilla;10-445;Posta de Salud Rural Pahuilmo;1ra dosis;6;Vacunación Programática;Varicela;Occidente;10-445;-33.569161;-71.11575
+Melipilla;10-455;Posta de salud Rural Pabellón;1ra dosis;7;Vacunación Programática;Varicela;Occidente;10-455;-33.750621;-71.198276
+Melipilla;10-938;Centro de Salud Familiar Florencia;1ra dosis;65;Vacunación Programática;Varicela;Occidente;10-938;-33.684442;-71.213312
+Padre Hurtado;10-366;Centro de Salud Familiar Juan Pablo II ( Padre Hurtado);1ra dosis;163;Vacunación Programática;Varicela;Occidente;10-366;-33.569779;-70.805151
+Paine;13-318;Centro de Salud Familiar Dr. Miguel Ángel Solar (ex CESFAM Paine);1ra dosis;119;Vacunación Programática;Varicela;Sur;13-318;-33.804827;-70.741211
+Paine;13-319;Centro de Salud Familiar Dr. Raúl Moya;1ra dosis;44;Vacunación Programática;Varicela;Sur;13-319;-33.868535;-70.747995
+Paine;13-408;Posta de Salud Rural Pintué;1ra dosis;11;Vacunación Programática;Varicela;Sur;13-408;-33.88597;-70.892169
+Paine;13-409;Posta de Salud Rural Huelquén;1ra dosis;24;Vacunación Programática;Varicela;Sur;13-409;-33.832761;-70.643261
+Paine;13-410;Posta de Salud Rural Rangue;1ra dosis;2;Vacunación Programática;Varicela;Sur;13-410;-33.850752;-70.942806
+Paine;13-411;Posta de Salud Rural Abrantes;1ra dosis;5;Vacunación Programática;Varicela;Sur;13-411;-33.85926;-70.850687
+Paine;13-412;Posta de Salud Rural Chada;1ra dosis;2;Vacunación Programática;Varicela;Sur;13-412;-33.900747;-70.660518
+Pedro Aguirre Cerda;11-303;Centro de Salud Familiar Lo Valledor Norte;1ra dosis;77;Vacunación Programática;Varicela;Sur;11-303;-33.488282;-70.686377
+Pedro Aguirre Cerda;13-303;Centro de Salud Familiar Amador Neghme;1ra dosis;60;Vacunación Programática;Varicela;Sur;13-303;-33.503461;-70.676059
+Pedro Aguirre Cerda;13-306;Centro de Salud Familiar Padre Pierre Dubois (Ex La Feria);1ra dosis;53;Vacunación Programática;Varicela;Sur;13-306;-33.48971;-70.676018
+Pedro Aguirre Cerda;13-331;Centro de Salud Familiar Edgardo Enríquez Fröedden;1ra dosis;43;Vacunación Programática;Varicela;Sur;13-331;-33.480185;-70.669075
+Peñaflor;10-308;Centro de Salud Familiar Peñaflor;1ra dosis;97;Vacunación Programática;Varicela;Occidente;10-308;-33.6088;-70.896258
+Peñaflor;10-369;Centro de Salud Familiar Dr. Fernando Monckeberg;1ra dosis;80;Vacunación Programática;Varicela;Occidente;10-369;-33.609978;-70.871635
+Peñalolén;12-275;Centro Médico Alto Tobalaba - Vacunatorio Vacci Protex;1ra dosis;50;Vacunación Programática;Varicela;Oriente;12-275;-33.48292;-70.557327
+Peñalolén;12-314;Centro de Salud Familiar La Faena;1ra dosis;49;Vacunación Programática;Varicela;Oriente;12-314;-33.467931;-70.556011
+Peñalolén;12-315;Centro de Salud Familiar San Luis;1ra dosis;40;Vacunación Programática;Varicela;Oriente;12-315;-33.508122;-70.577994
+Peñalolén;12-316;Centro de Salud Familiar Carol Urzúa Ibáñez;1ra dosis;73;Vacunación Programática;Varicela;Oriente;12-316;-33.476897;-70.542996
+Peñalolén;12-318;Centro de Salud Familiar Lo Hermida;1ra dosis;60;Vacunación Programática;Varicela;Oriente;12-318;-33.476942;-70.562722
+Peñalolén;12-321;Centro de Salud Familiar Cardenal Silva Henríquez;1ra dosis;51;Vacunación Programática;Varicela;Oriente;12-321;-33.470387;-70.532225
+Peñalolén;12-322;Centro de Salud Familiar Padre Gerardo Whelan;1ra dosis;51;Vacunación Programática;Varicela;Oriente;12-322;-33.473974;-70.574226
+Peñalolén;12-930;Clínica Las Condes Peñalolén;1ra dosis;79;Vacunación Programática;Varicela;Oriente;12-930;-33.489949;-70.544831
+Peñalolén;201112;CESFAM Las Torres;1ra dosis;58;Vacunación Programática;Varicela;Oriente;201112;-33.50287;-70.577602
+Pirque;14-310;Centro de Salud Familiar Dr. José Manuel Balmaceda;1ra dosis;33;Vacunación Programática;Varicela;Suroriente;14-310;-33.635077;-70.572477
+Pirque;14-333;Centro de Salud Rural El Principal;1ra dosis;28;Vacunación Programática;Varicela;Suroriente;14-333;-33.720684;-70.553279
+Providencia;12-211;Clínica Indisa;1ra dosis;565;Vacunación Programática;Varicela;Oriente;12-211;-33.43333;-70.62855
+Providencia;12-249;Clínica Santa María;1ra dosis;204;Vacunación Programática;Varicela;Oriente;12-249;-33.43282;-70.62822
+Providencia;12-301;Centro de Salud Familiar Dr. Hernán Alessandri;1ra dosis;48;Vacunación Programática;Varicela;Oriente;12-301;-33.444228;-70.620427
+Providencia;12-302;Centro de Salud Familiar Dr. Alfonso Leng;1ra dosis;22;Vacunación Programática;Varicela;Oriente;12-302;-33.431406;-70.618809
+Providencia;12-303;Centro de Salud Familiar Aguilucho;1ra dosis;46;Vacunación Programática;Varicela;Oriente;12-303;-33.442673;-70.597096
+Providencia;12-944;Vacunatorio Internacional Immunitas SpA;1ra dosis;25;Vacunación Programática;Varicela;Oriente;12-944;-33.423268;-70.609892
+Providencia;12-945;Vacunatorio Clínica El Bosque;1ra dosis;60;Vacunación Programática;Varicela;Oriente;12-945;-33.42821;-70.619211
+Providencia;200919;VACUMED;1ra dosis;7;Vacunación Programática;Varicela;Oriente;200919;-33.435545;-70.631183
+Providencia;201156;VAXPROSALUD;1ra dosis;17;Vacunación Programática;Varicela;Oriente;201156;-33.427625;-70.592504
+Pudahuel;10-350;Centro de Salud Familiar Pudahuel Estrella;1ra dosis;95;Vacunación Programática;Varicela;Occidente;10-350;-33.437387;-70.750666
+Pudahuel;10-351;Centro de Salud Familiar Pudahuel Poniente;1ra dosis;87;Vacunación Programática;Varicela;Occidente;10-351;-33.447426;-70.76289
+Pudahuel;10-352;Centro de Salud Familiar Dr. Gustavo Molina;1ra dosis;68;Vacunación Programática;Varicela;Occidente;10-352;-33.458131;-70.76084
+Pudahuel;10-353;Centro de Salud Familiar Cardenal Raúl Silva Henríquez;1ra dosis;56;Vacunación Programática;Varicela;Occidente;10-353;-33.429;-70.770919
+Pudahuel;10-354;Centro de Salud Familiar Violeta Parra;1ra dosis;124;Vacunación Programática;Varicela;Occidente;10-354;-33.456935;-70.742752
+Pudahuel;201146;Centro Medico y Dental Del Valle;1ra dosis;6;Vacunación Programática;Varicela;Occidente;201146;-33.45267;-70.848608
+Puente Alto;14-301;Centro de Salud Familiar Dr. Alejandro del Río;1ra dosis;146;Vacunación Programática;Varicela;Suroriente;14-301;-33.607158;-70.578452
+Puente Alto;14-312;Centro de Salud Familiar San Gerónimo;1ra dosis;104;Vacunación Programática;Varicela;Suroriente;14-312;-33.623527;-70.588387
+Puente Alto;14-313;Centro de Salud Familiar Vista Hermosa;1ra dosis;100;Vacunación Programática;Varicela;Suroriente;14-313;-33.61107;-70.521039
+Puente Alto;14-320;Centro de Salud Familiar Bernardo Leighton;1ra dosis;112;Vacunación Programática;Varicela;Suroriente;14-320;-33.584276;-70.604383
+Puente Alto;14-321;Centro de Salud Familiar Cardenal Silva Henríquez;1ra dosis;91;Vacunación Programática;Varicela;Suroriente;14-321;-33.627923;-70.616459
+Puente Alto;14-322;Centro de Salud Familiar Padre Manuel Villaseca;1ra dosis;106;Vacunación Programática;Varicela;Suroriente;14-322;-33.583959;-70.556326
+Puente Alto;14-323;Centro de Salud Familiar Madre Teresa de Calcuta Red de Salud UC CHRISTUS;1ra dosis;49;Vacunación Programática;Varicela;Suroriente;14-323;-33.614332;-70.552683
+Puente Alto;14-326;Centro de Salud Familiar Karol Wojtyla;1ra dosis;96;Vacunación Programática;Varicela;Suroriente;14-326;-33.625966;-70.625759
+Puente Alto;14-329;Centro de Salud Familiar San Alberto Hurtado Red de Salud UC CHRISTUS;1ra dosis;79;Vacunación Programática;Varicela;Suroriente;14-329;-33.59663;-70.556535
+Puente Alto;14-332;Centro de Salud Familiar Laurita Vicuña;1ra dosis;102;Vacunación Programática;Varicela;Suroriente;14-332;-33.591149;-70.595281
+Quilicura;09-313;Centro de Salud Familiar Irene Frei de Cid;1ra dosis;131;Vacunación Programática;Varicela;Norte;09-313;-33.365842;-70.746633
+Quilicura;09-315;Centro de Salud Familiar Manuel Bustos Huerta;1ra dosis;80;Vacunación Programática;Varicela;Norte;09-315;-33.354232;-70.720395
+Quilicura;09-324;Centro de Salud Familiar Presidente Salvador Allende Gossens;1ra dosis;154;Vacunación Programática;Varicela;Norte;09-324;-33.354498;-70.737981
+Quilicura;201091;CESFAM Marta Ugarte Román;1ra dosis;100;Vacunación Programática;Varicela;Norte;201091;-33.369414;-70.73201
+Quinta Normal;10-120;Hospital Dr. Félix Bulnes Cerda (Santiago, Quinta Normal);1ra dosis;1;Vacunación Programática;Varicela;Occidente;10-120;-33.415057;-70.696103
+Quinta Normal;10-310;Centro de Salud Familiar Andes;1ra dosis;102;Vacunación Programática;Varicela;Occidente;10-310;-33.434192;-70.692944
+Quinta Normal;10-320;Centro de Salud Familiar Lo Franco;1ra dosis;66;Vacunación Programática;Varicela;Occidente;10-320;-33.422508;-70.694803
+Quinta Normal;10-325;Centro de Salud Familiar Garín;1ra dosis;60;Vacunación Programática;Varicela;Occidente;10-325;-33.430421;-70.714351
+Recoleta;09-201;Clínica Dávila;1ra dosis;169;Vacunación Programática;Varicela;Norte;09-201;-33.427257;-70.648544
+Recoleta;09-301;Centro de Salud Familiar Recoleta;1ra dosis;102;Vacunación Programática;Varicela;Norte;09-301;-33.423922;-70.645768
+Recoleta;09-303;Centro de Salud Familiar Quinta Bella;1ra dosis;103;Vacunación Programática;Varicela;Norte;09-303;-33.403207;-70.634602
+Recoleta;09-304;Centro de Salud Familiar Valdivieso;1ra dosis;22;Vacunación Programática;Varicela;Norte;09-304;-33.410322;-70.631219
+Recoleta;09-307;Centro de Salud Familiar Dr. Juan Petrinovic (Ex Scroggie);1ra dosis;55;Vacunación Programática;Varicela;Norte;09-307;-33.384392;-70.644939
+Recoleta;09-390;Centro de Salud Familiar Cristo Vive (ONG);1ra dosis;63;Vacunación Programática;Varicela;Norte;09-390;-33.387053;-70.641803
+Renca;10-360;Centro de Salud Familiar Renca;1ra dosis;136;Vacunación Programática;Varicela;Occidente;10-360;-33.403452;-70.709698
+Renca;10-361;Centro de Salud Familiar Bicentenario;1ra dosis;103;Vacunación Programática;Varicela;Occidente;10-361;-33.397669;-70.749713
+Renca;10-362;Centro de Salud Familiar Dr. Hernán Urzúa Merino;1ra dosis;72;Vacunación Programática;Varicela;Occidente;10-362;-33.411478;-70.728472
+Renca;10-364;Centro de Salud Familiar Huamachuco;1ra dosis;46;Vacunación Programática;Varicela;Occidente;10-364;-33.39126;-70.698932
+San Bernardo;13-313;Centro de Salud Familiar Raúl Cuevas (Ex-San Bernardo);1ra dosis;85;Vacunación Programática;Varicela;Sur;13-313;-33.597631;-70.714846
+San Bernardo;13-315;Centro de Salud Familiar Confraternidad;1ra dosis;66;Vacunación Programática;Varicela;Sur;13-315;-33.589661;-70.682857
+San Bernardo;13-316;Centro de Salud Familiar Carol Urzúa;1ra dosis;62;Vacunación Programática;Varicela;Sur;13-316;-33.575808;-70.703607
+San Bernardo;13-328;Centro de Salud Familiar Padre Joan Alsina;1ra dosis;137;Vacunación Programática;Varicela;Sur;13-328;-33.613987;-70.697869
+San Bernardo;13-330;Centro de Salud Familiar Raúl Brañes F.;1ra dosis;116;Vacunación Programática;Varicela;Sur;13-330;-33.59866;-70.68036
+San Bernardo;13-332;Centro de Salud Familiar Juan Pablo II ( San Bernardo);1ra dosis;50;Vacunación Programática;Varicela;Sur;13-332;-33.584476;-70.692076
+San Bernardo;13-394;Centro de Salud Familiar El Manzano;1ra dosis;87;Vacunación Programática;Varicela;Sur;13-394;-33.590706;-70.666217
+San Joaquín;13-301;Centro de Salud Familiar San Joaquín;1ra dosis;55;Vacunación Programática;Varicela;Sur;13-301;-33.486494;-70.623533
+San Joaquín;13-305;Centro de Salud Familiar Arturo Baeza Goñi;1ra dosis;58;Vacunación Programática;Varicela;Sur;13-305;-33.491964;-70.633221
+San Joaquín;13-322;Centro de Salud Familiar Santa Teresa de Los Andes;1ra dosis;62;Vacunación Programática;Varicela;Sur;13-322;-33.506303;-70.624386
+San José de Maipo;14-102;Hospital San José de Maipo;1ra dosis;31;Vacunación Programática;Varicela;Suroriente;14-102;-33.641256;-70.352299
+San José de Maipo;14-407;Posta de Salud Rural Las Vertientes;1ra dosis;12;Vacunación Programática;Varicela;Suroriente;14-407;-33.592102;-70.482171
+San Miguel;13-130;Hospital Dr. Exequiel González Cortés (Santiago, San Miguel);1ra dosis;1;Vacunación Programática;Varicela;Sur;13-130;-33.484761;-70.648129
+San Miguel;13-300;Centro de Salud Familiar Barros Luco;1ra dosis;142;Vacunación Programática;Varicela;Sur;13-300;-33.48279;-70.648764
+San Miguel;13-302;Centro de Salud Familiar Recreo;1ra dosis;121;Vacunación Programática;Varicela;Sur;13-302;-33.510116;-70.64902
+San Pedro;10-387;Centro de Salud Familiar San Pedro;1ra dosis;23;Vacunación Programática;Varicela;Occidente;10-387;-33.895313;-71.454412
+San Ramón;14-307;Centro de Salud Familiar La Bandera;1ra dosis;50;Vacunación Programática;Varicela;Suroriente;14-307;-33.545428;-70.644824
+San Ramón;14-314;Centro de Salud Familiar Dr. Salvador Allende (Ex Consultorio San Ramón);1ra dosis;51;Vacunación Programática;Varicela;Suroriente;14-314;-33.537986;-70.640552
+San Ramón;14-328;Centro de Salud Familiar Poetisa Gabriela Mistral;1ra dosis;50;Vacunación Programática;Varicela;Suroriente;14-328;-33.551606;-70.640729
+Santiago;10-100;Hospital San Juan de Dios (Santiago, Santiago);1ra dosis;3;Vacunación Programática;Varicela;Central;10-100;-33.442394;-70.679188
+Santiago;11-100;Hospital Clínico San Borja Arriarán;1ra dosis;1;Vacunación Programática;Varicela;Central;11-100;-33.460498;-70.64232
+Santiago;11-267;Centro Médico Vida Integra Alameda;1ra dosis;5;Vacunación Programática;Varicela;Central;11-267;-33.446412;-70.658798
+Santiago;11-291;Centro Médico y Dental Fundación Asistencial Trabajadores Del Banco del Estado de Chile;1ra dosis;4;Vacunación Programática;Varicela;Central;11-291;-33.442973;-70.655523
+Santiago;11-292;Vacunatorio Marcoleta de la Pontificia Universidad Católica de Chile;1ra dosis;119;Vacunación Programática;Varicela;Central;11-292;-33.442163;-70.640257
+Santiago;11-300;Centro de Salud Familiar N° 1 Dr. Ramón Corbalán Melgarejo;1ra dosis;210;Vacunación Programática;Varicela;Central;11-300;-33.455442;-70.652731
+Santiago;11-301;Centro de Salud Familiar Nº 5;1ra dosis;71;Vacunación Programática;Varicela;Central;11-301;-33.45118;-70.673769
+Santiago;11-370;Centro de Salud Familiar Padre Orellana;1ra dosis;79;Vacunación Programática;Varicela;Central;11-370;-33.466621;-70.629593
+Santiago;11-372;Centro de Salud Familiar Arauco;1ra dosis;34;Vacunación Programática;Varicela;Central;11-372;-33.46803;-70.670454
+Santiago;11-376;Centro de Salud Familiar Matta Sur;1ra dosis;85;Vacunación Programática;Varicela;Central;11-376;-33.461578;-70.655451
+Santiago;11-381;Centro de Salud Familiar Ignacio Domeyko;1ra dosis;191;Vacunación Programática;Varicela;Central;11-381;-33.438921;-70.672467
+Talagante;10-390;Centro de Salud Familiar Dr. Alberto Allende Jones;1ra dosis;186;Vacunación Programática;Varicela;Occidente;10-390;-33.669665;-70.937614
+Tiltil;09-104;Hospital de Til Til;1ra dosis;27;Vacunación Programática;Varicela;Norte;09-104;-33.086793;-70.924522
+Tiltil;09-320;Centro de Salud Familiar Huertos Familiares;1ra dosis;18;Vacunación Programática;Varicela;Norte;09-320;-33.135821;-70.799456
+Tiltil;09-413;Posta de Salud Rural Rungue;1ra dosis;5;Vacunación Programática;Varicela;Norte;09-413;-33.008385;-70.892433
+Tiltil;09-414;Posta de Salud Rural Polpaico;1ra dosis;3;Vacunación Programática;Varicela;Norte;09-414;-33.167398;-70.887052
+Vitacura;12-200;Clínica Alemana;1ra dosis;489;Vacunación Programática;Varicela;Oriente;12-200;-33.391276;-70.572983
+Vitacura;12-201;Clínica Tabancura;1ra dosis;103;Vacunación Programática;Varicela;Oriente;12-201;-33.38216;-70.53534
+Vitacura;12-274;Procedimientos Clínicos Alto Tabancura;1ra dosis;71;Vacunación Programática;Varicela;Oriente;12-274;-33.380903;-70.536344
+Vitacura;12-309;Centro de Salud Familiar Vitacura;1ra dosis;28;Vacunación Programática;Varicela;Oriente;12-309;-33.38985;-70.555009
+Vitacura;201092;Vacunatorio Medicien_Vitacura;1ra dosis;4;Vacunación Programática;Varicela;Oriente;201092;-33.371854;-70.518529
+Ñuñoa;12-240;Hospital Carabineros;1ra dosis;63;Vacunación Programática;Varicela;Oriente;12-240;-33.450658;-70.608463
+Ñuñoa;12-310;Centro de Salud Familiar Rosita Renard;1ra dosis;80;Vacunación Programática;Varicela;Oriente;12-310;-33.469243;-70.602904
+Ñuñoa;12-311;Centro de Salud Familiar Salvador Bustos;1ra dosis;88;Vacunación Programática;Varicela;Oriente;12-311;-33.465998;-70.587774
+Ñuñoa;12-942;Vacunatorio Varik;1ra dosis;113;Vacunación Programática;Varicela;Oriente;12-942;-33.45454;-70.606179
+Ñuñoa;201093;Vacunatorio Medicien_Ñuñoa;1ra dosis;19;Vacunación Programática;Varicela;Oriente;201093;-33.455441;-70.595222
+Alhué;10-393;Centro de Salud Familiar Villa Alhué;2da dosis;19;Vacunación Programática;Varicela;Occidente;10-393;-34.032484;-71.100076
+Buin;13-320;Centro de Salud Familiar Maipo;2da dosis;14;Vacunación Programática;Varicela;Sur;13-320;-33.734885;-70.784598
+Buin;13-333;Centro de Salud Familiar Alto Jahuel;2da dosis;8;Vacunación Programática;Varicela;Sur;13-333;-33.735249;-70.684161
+Buin;13-390;Centro de Salud Familiar Dr. Héctor García;2da dosis;31;Vacunación Programática;Varicela;Sur;13-390;-33.737754;-70.741333
+Buin;13-402;Centro Comunitario de Salud Familiar Dr. Ramón Galindo;2da dosis;1;Vacunación Programática;Varicela;Sur;13-402;-33.75109;-70.735556
+Buin;13-404;Posta de Salud Rural Valdivia de Paine;2da dosis;4;Vacunación Programática;Varicela;Sur;13-404;-33.811928;-70.86063
+Buin;13-405;Posta de Salud Rural Viluco;2da dosis;6;Vacunación Programática;Varicela;Sur;13-405;-33.782229;-70.791771
+Buin;13-406;Posta de Salud Rural El Recurso;2da dosis;2;Vacunación Programática;Varicela;Sur;13-406;-33.690787;-70.701729
+Buin;13-407;Posta de Salud Rural Los Morros;2da dosis;2;Vacunación Programática;Varicela;Sur;13-407;-33.67046;-70.665548
+Buin;13-790;Centro Comunitario de Salud Familiar Dr. Héctor García;2da dosis;1;Vacunación Programática;Varicela;Sur;13-790;-33.711787;-70.739533
+Buin;201098;Centro Medico KINEROD;2da dosis;4;Vacunación Programática;Varicela;Sur;201098;-33.73418;-70.744272
+Buin;201162;KUME FELEN SPA;2da dosis;9;Vacunación Programática;Varicela;Sur;201162;-33.730461;-70.741187
+Calera de Tango;13-321;Centro de Salud Familiar Calera de Tango;2da dosis;9;Vacunación Programática;Varicela;Sur;13-321;-33.636009;-70.811012
+Calera de Tango;13-334;Centro de Salud Familiar Los Bajos de San Agustín;2da dosis;18;Vacunación Programática;Varicela;Sur;13-334;-33.625946;-70.782415
+Cerrillos;11-305;Centro de Salud Familiar Dr. Norman Voulliéme;2da dosis;53;Vacunación Programática;Varicela;Central;11-305;-33.49331;-70.719201
+Cerrillos;11-307;Centro de Salud Familiar Enfermera Sofía Pincheira;2da dosis;24;Vacunación Programática;Varicela;Central;11-307;-33.501479;-70.733545
+Cerro Navia;10-330;Centro de Salud Familiar Dr. Adalberto Steeger;2da dosis;35;Vacunación Programática;Varicela;Occidente;10-330;-33.417518;-70.741198
+Cerro Navia;10-331;Centro de Salud Familiar Lo Amor;2da dosis;17;Vacunación Programática;Varicela;Occidente;10-331;-33.417581;-70.717399
+Cerro Navia;10-335;Centro de Salud Familiar Cerro Navia;2da dosis;34;Vacunación Programática;Varicela;Occidente;10-335;-33.419555;-70.750834
+Cerro Navia;10-355;Centro de Salud Familiar Dr. Arturo Albertz;2da dosis;22;Vacunación Programática;Varicela;Occidente;10-355;-33.433502;-70.731655
+Colina;09-310;Centro de Salud Familiar Colina;2da dosis;57;Vacunación Programática;Varicela;Norte;09-310;-33.205979;-70.670553
+Colina;09-316;Centro de Salud Familiar Esmeralda;2da dosis;61;Vacunación Programática;Varicela;Norte;09-316;-33.184133;-70.653657
+Colina;09-417;Posta de Salud Rural Los Ingleses;2da dosis;1;Vacunación Programática;Varicela;Norte;09-417;-33.267323;-70.678694
+Colina;09-419;Posta de Salud Rural Santa Marta de Liray;2da dosis;1;Vacunación Programática;Varicela;Norte;09-419;-33.240239;-70.736763
+Colina;09-905;Centro Médico Clínica Alemana de Chicureo;2da dosis;68;Vacunación Programática;Varicela;Norte;09-905;-33.286284;-70.651801
+Colina;09-927;Centro Médico Clinica Las Condes de Chicureo (Servicios de Salud Integrados S.A.);2da dosis;34;Vacunación Programática;Varicela;Norte;09-927;-33.283002;-70.651101
+Colina;201087;VACUNATORIO CHICUREO SpA;2da dosis;1;Vacunación Programática;Varicela;Norte;201087;-33.278421;-70.706218
+Conchalí;09-302;Centro de Salud Familiar Lucas Sierra;2da dosis;42;Vacunación Programática;Varicela;Norte;09-302;-33.388856;-70.671249
+Conchalí;09-308;Centro de Salud Familiar Alberto Bachelet Martínez;2da dosis;21;Vacunación Programática;Varicela;Norte;09-308;-33.394414;-70.658337
+Conchalí;09-309;Centro de Salud Familiar José Symon Ojeda;2da dosis;24;Vacunación Programática;Varicela;Norte;09-309;-33.378315;-70.692373
+Conchalí;09-314;Centro de Salud Familiar Juanita Aguirre;2da dosis;13;Vacunación Programática;Varicela;Norte;09-314;-33.370386;-70.683005
+Curacaví;10-160;Hospital de Curacaví;2da dosis;35;Vacunación Programática;Varicela;Occidente;10-160;-33.4095;-71.145664
+El Bosque;13-312;Centro de Salud Familiar Dr. Carlos Lorca Tobar;2da dosis;24;Vacunación Programática;Varicela;Sur;13-312;-33.554149;-70.666968
+El Bosque;13-314;Centro de Salud Familiar Cóndores de Chile;2da dosis;32;Vacunación Programática;Varicela;Sur;13-314;-33.561362;-70.674691
+El Bosque;13-317;Centro de Salud Familiar Santa Laura;2da dosis;24;Vacunación Programática;Varicela;Sur;13-317;-33.552491;-70.688809
+El Bosque;13-323;Centro de Salud Familiar Dr. Mario Salcedo;2da dosis;46;Vacunación Programática;Varicela;Sur;13-323;-33.582081;-70.668768
+El Bosque;13-324;Centro de Salud Familiar Dra. Haydeé López Casoou;2da dosis;32;Vacunación Programática;Varicela;Sur;13-324;-33.572212;-70.667054
+El Bosque;13-329;Centro de Salud Familiar Canciller Orlando Letelier;2da dosis;31;Vacunación Programática;Varicela;Sur;13-329;-33.578041;-70.67785
+El Monte;10-370;Centro de Salud Familiar El Monte;2da dosis;17;Vacunación Programática;Varicela;Occidente;10-370;-33.681919;-70.986091
+Estación Central;11-230;Clínica Hospital del Profesor;2da dosis;35;Vacunación Programática;Varicela;Central;11-230;-33.457755;-70.702639
+Estación Central;11-295;Red Salud Santiago ex Clínica Bicentenario;2da dosis;40;Vacunación Programática;Varicela;Central;11-295;-33.457336;-70.701792
+Estación Central;11-302;Centro de Salud Familiar Padre Vicente Irarrázabal;2da dosis;26;Vacunación Programática;Varicela;Central;11-302;-33.47284;-70.691894
+Estación Central;11-306;Centro de Salud Familiar San José de Chuchunco;2da dosis;29;Vacunación Programática;Varicela;Central;11-306;-33.473682;-70.705982
+Estación Central;11-310;Centro de Salud Familiar Las Mercedes;2da dosis;51;Vacunación Programática;Varicela;Central;11-310;-33.451977;-70.703928
+Huechuraba;09-305;Centro de Salud Familiar La Pincoya;2da dosis;37;Vacunación Programática;Varicela;Norte;09-305;-33.373386;-70.63702
+Huechuraba;09-317;Centro de Salud Familiar El Barrero;2da dosis;7;Vacunación Programática;Varicela;Norte;09-317;-33.375909;-70.624663
+Huechuraba;09-323;Centro de Salud Familiar Dr. Salvador Allende Gossens;2da dosis;19;Vacunación Programática;Varicela;Norte;09-323;-33.363415;-70.632789
+Huechuraba;09-718;Centro Comunitario de Salud Familiar Los Libertadores;2da dosis;9;Vacunación Programática;Varicela;Norte;09-718;-33.360049;-70.683527
+Huechuraba;09-915;Centro de Salud Familiar Dr. Victor Castro Wiren;2da dosis;5;Vacunación Programática;Varicela;Norte;09-915;-33.352605;-70.67705
+Independencia;09-101;Hospital Clínico de Niños Dr. Roberto del Río (Santiago, Independencia);2da dosis;1;Vacunación Programática;Varicela;Norte;09-101;-33.415335;-70.655086
+Independencia;09-200;Hospital Clínico Universidad de Chile;2da dosis;2;Vacunación Programática;Varicela;Norte;09-200;-33.420057;-70.653116
+Independencia;09-300;Centro de Salud Familiar Agustín Cruz Melo;2da dosis;86;Vacunación Programática;Varicela;Norte;09-300;-33.415155;-70.657119
+Independencia;09-321;Centro de Salud Familiar Juan Antonio Ríos;2da dosis;26;Vacunación Programática;Varicela;Norte;09-321;-33.417373;-70.668652
+Isla de Maipo;10-375;Centro de Salud Familiar Isla de Maipo;2da dosis;22;Vacunación Programática;Varicela;Occidente;10-375;-33.749042;-70.903306
+Isla de Maipo;10-425;Centro de Salud Familiar La Islita;2da dosis;55;Vacunación Programática;Varicela;Occidente;10-425;-33.734795;-70.861701
+La Cisterna;13-311;Centro de Salud Familiar Santa Anselma;2da dosis;37;Vacunación Programática;Varicela;Sur;13-311;-33.529594;-70.667368
+La Cisterna;13-326;Centro de Salud Familiar Eduardo Frei Montalva;2da dosis;30;Vacunación Programática;Varicela;Sur;13-326;-33.538937;-70.66238
+La Florida;14-223;Clínica Vespucio;2da dosis;84;Vacunación Programática;Varicela;Suroriente;14-223;-33.519116;-70.596867
+La Florida;14-302;Centro de Salud Familiar Los Castaños;2da dosis;29;Vacunación Programática;Varicela;Suroriente;14-302;-33.511875;-70.577975
+La Florida;14-303;Centro de Salud Familiar Bellavista;2da dosis;27;Vacunación Programática;Varicela;Suroriente;14-303;-33.518563;-70.602218
+La Florida;14-304;Centro de Salud Familiar Villa O'Higgins;2da dosis;43;Vacunación Programática;Varicela;Suroriente;14-304;-33.531236;-70.604217
+La Florida;14-305;Centro de Salud Familiar Los Quillayes;2da dosis;53;Vacunación Programática;Varicela;Suroriente;14-305;-33.560178;-70.60598
+La Florida;14-316;Centro de Salud Familiar Dr. Fernando Maffioletti;2da dosis;24;Vacunación Programática;Varicela;Suroriente;14-316;-33.560204;-70.578515
+La Florida;14-324;Centro de Salud Familiar Santa Amalia;2da dosis;31;Vacunación Programática;Varicela;Suroriente;14-324;-33.54375;-70.592829
+La Florida;14-330;Centro de Salud Familiar Trinidad;2da dosis;28;Vacunación Programática;Varicela;Suroriente;14-330;-33.547211;-70.60862
+La Florida;14-331;Centro de Salud Familiar La Florida;2da dosis;32;Vacunación Programática;Varicela;Suroriente;14-331;-33.514659;-70.585809
+La Florida;14-334;Centro de Salud Familiar José Alvo;2da dosis;22;Vacunación Programática;Varicela;Suroriente;14-334;-33.557178;-70.582012
+La Florida;14-908;Clínica Bupa Santiago;2da dosis;32;Vacunación Programática;Varicela;Suroriente;14-908;-33.509903;-70.598229
+La Granja;13-307;Centro de Salud Familiar Padre Esteban Gumucio Vives;2da dosis;21;Vacunación Programática;Varicela;Suroriente;13-307;-33.519604;-70.623975
+La Granja;14-306;Centro de Salud Familiar La Granja;2da dosis;53;Vacunación Programática;Varicela;Suroriente;14-306;-33.536995;-70.633668
+La Granja;14-315;Centro de Salud Familiar Malaquías Concha;2da dosis;12;Vacunación Programática;Varicela;Suroriente;14-315;-33.527458;-70.621298
+La Granja;14-325;Centro de Salud Familiar Granja Sur;2da dosis;39;Vacunación Programática;Varicela;Suroriente;14-325;-33.551822;-70.629548
+La Pintana;14-308;Centro de Salud Familiar San Rafael;2da dosis;35;Vacunación Programática;Varicela;Suroriente;14-308;-33.579577;-70.639086
+La Pintana;14-309;Centro de Salud Familiar Pablo de Rokha;2da dosis;12;Vacunación Programática;Varicela;Suroriente;14-309;-33.576624;-70.64964
+La Pintana;14-311;Centro de Salud Familiar Santiago de Nueva Extremadura;2da dosis;16;Vacunación Programática;Varicela;Suroriente;14-311;-33.588977;-70.618578
+La Pintana;14-317;Centro de Salud Familiar Santo Tomás;2da dosis;41;Vacunación Programática;Varicela;Suroriente;14-317;-33.556972;-70.616542
+La Pintana;14-318;Centro de Salud Familiar Flor Fernández;2da dosis;13;Vacunación Programática;Varicela;Suroriente;14-318;-33.585495;-70.636257
+La Pintana;14-319;Centro de Salud Familiar El Roble;2da dosis;41;Vacunación Programática;Varicela;Suroriente;14-319;-33.563873;-70.647535
+La Pintana;14-327;Centro de Salud Familiar Juan Pablo II Red de Salud UC CHRISTUS;2da dosis;17;Vacunación Programática;Varicela;Suroriente;14-327;-33.595431;-70.621698
+La Reina;12-317;Centro de Salud Familiar Ossandon;2da dosis;8;Vacunación Programática;Varicela;Oriente;12-317;-33.442855;-70.54447
+La Reina;12-320;Centro de Salud Familiar Juan Pablo II ( La Reina);2da dosis;10;Vacunación Programática;Varicela;Oriente;12-320;-33.456864;-70.532647
+La Reina;12-530;Hospital Militar de Santiago;2da dosis;27;Vacunación Programática;Varicela;Oriente;12-530;-33.45281;-70.56351
+Lampa;09-311;Centro de Salud Familiar José Bauza Frau;2da dosis;45;Vacunación Programática;Varicela;Norte;09-311;-33.285648;-70.876237
+Lampa;09-312;Centro de Salud Familiar Batuco;2da dosis;35;Vacunación Programática;Varicela;Norte;09-312;-33.241849;-70.81415
+Las Condes;12-212;Clínica Las Condes;2da dosis;84;Vacunación Programática;Varicela;Oriente;12-212;-33.384094;-70.530151
+Las Condes;12-238;Hospital FACH;2da dosis;17;Vacunación Programática;Varicela;Oriente;12-238;-33.395327;-70.548074
+Las Condes;12-261;Clínica San Carlos de Apoquindo Red de Salud UC CHRISTUS;2da dosis;38;Vacunación Programática;Varicela;Oriente;12-261;-33.40132;-70.51837
+Las Condes;12-272;Centro Médico Militar Rosa O'Higgins;2da dosis;5;Vacunación Programática;Varicela;Oriente;12-272;-33.405309;-70.585445
+Las Condes;12-304;Centro de Salud Familiar Apoquindo;2da dosis;10;Vacunación Programática;Varicela;Oriente;12-304;-33.400414;-70.56441
+Las Condes;12-306;Centro de Salud Familiar Aníbal Ariztía;2da dosis;17;Vacunación Programática;Varicela;Oriente;12-306;-33.417067;-70.53311
+Las Condes;12-950;Hospital Clínico Universidad de Los Andes;2da dosis;56;Vacunación Programática;Varicela;Oriente;12-950;-33.40656;-70.50017
+Las Condes;201094;Vacunatorio Medicien Alto El Plomo;2da dosis;3;Vacunación Programática;Varicela;Oriente;201094;-33.404764;-70.570812
+Las Condes;201157;Centro Médico y Dental Arauco Salud;2da dosis;9;Vacunación Programática;Varicela;Oriente;201157;-33.402191;-70.578247
+Lo Barnechea;12-307;Centro de Salud Familiar Lo Barnechea;2da dosis;34;Vacunación Programática;Varicela;Oriente;12-307;-33.351854;-70.509989
+Lo Barnechea;12-522;Centro Médico Clínica Santa María La Dehesa;2da dosis;13;Vacunación Programática;Varicela;Oriente;12-522;-33.357673;-70.51444
+Lo Barnechea;12-527;Centro Médico Clínica Alemana (La Dehesa);2da dosis;102;Vacunación Programática;Varicela;Oriente;12-527;-33.355705;-70.526293
+Lo Barnechea;12-906;Clínica MEDS La Dehesa;2da dosis;5;Vacunación Programática;Varicela;Oriente;12-906;-33.36385;-70.5446
+Lo Espejo;13-308;Centro de Salud Familiar Clara Estrella;2da dosis;37;Vacunación Programática;Varicela;Sur;13-308;-33.514933;-70.676174
+Lo Espejo;13-309;Centro de Salud Familiar Julio Acuña Pinzón;2da dosis;26;Vacunación Programática;Varicela;Sur;13-309;-33.522431;-70.69732
+Lo Espejo;13-310;Centro de Salud Familiar Dra. Mariela Salgado Zepeda;2da dosis;25;Vacunación Programática;Varicela;Sur;13-310;-33.507423;-70.694073
+Lo Espejo;13-396;Centro de Salud Familiar Pueblo Lo Espejo;2da dosis;27;Vacunación Programática;Varicela;Sur;13-396;-33.53472;-70.696425
+Lo Prado;10-315;Centro de Salud Familiar Santa Anita;2da dosis;50;Vacunación Programática;Varicela;Occidente;10-315;-33.43929;-70.7093
+Lo Prado;10-316;Centro de Salud Familiar Pablo Neruda;2da dosis;31;Vacunación Programática;Varicela;Occidente;10-316;-33.450001;-70.730087
+Lo Prado;10-340;Centro de Salud Familiar Dr. Raúl Yazigi;2da dosis;24;Vacunación Programática;Varicela;Occidente;10-340;-33.451755;-70.71605
+Lo Prado;10-345;Centro de Salud Familiar Dr. Carlos Avendaño;2da dosis;21;Vacunación Programática;Varicela;Occidente;10-345;-33.436875;-70.740448
+Macul;12-312;Centro de Salud Familiar Félix de Amesti;2da dosis;17;Vacunación Programática;Varicela;Oriente;12-312;-33.501502;-70.593927
+Macul;12-313;Centro de Salud Familiar Santa Julia;2da dosis;23;Vacunación Programática;Varicela;Oriente;12-313;-33.476364;-70.592875
+Macul;12-319;Centro de Salud Familiar Padre Alberto Hurtado;2da dosis;16;Vacunación Programática;Varicela;Oriente;12-319;-33.493484;-70.615109
+Macul;12-512;Centro Médico San Joaquín Red de Salud UC CHRISTUS;2da dosis;41;Vacunación Programática;Varicela;Oriente;12-512;-33.497116;-70.614619
+Maipú;11-304;Centro de Salud Familiar Maipú;2da dosis;36;Vacunación Programática;Varicela;Central;11-304;-33.504315;-70.75815
+Maipú;11-308;Centro de Salud Familiar Dr. José Eduardo Ahués Salame;2da dosis;50;Vacunación Programática;Varicela;Central;11-308;-33.505433;-70.774352
+Maipú;11-309;Centro de Salud Familiar Dra. Ana María Juricic;2da dosis;24;Vacunación Programática;Varicela;Central;11-309;-33.514065;-70.796603
+Maipú;11-378;Centro de Salud Familiar Dr. Iván Insunza;2da dosis;20;Vacunación Programática;Varicela;Central;11-378;-33.484273;-70.771353
+Maipú;11-379;Centro de Salud Familiar Clotario Blest;2da dosis;47;Vacunación Programática;Varicela;Central;11-379;-33.490025;-70.744879
+Maipú;11-380;Centro de Salud Familiar Dr. Carlos Godoy;2da dosis;45;Vacunación Programática;Varicela;Central;11-380;-33.52776;-70.796393
+Maipú;11-382;Centro de Salud Familiar Presidenta Michelle Bachelet;2da dosis;37;Vacunación Programática;Varicela;Central;11-382;-33.525395;-70.767836
+Maipú;11-383;Centro de Salud Familiar Dr. Luis Ferrada;2da dosis;25;Vacunación Programática;Varicela;Central;11-383;-33.473168;-70.75602
+Maipú;201290;Vacunatorio INMUVAX;2da dosis;2;Vacunación Programática;Varicela;Central;201290;-33.498106;-70.75715
+María Pinto;10-385;Centro de Salud Familiar Adriana Madrid De Costabal;2da dosis;15;Vacunación Programática;Varicela;Occidente;10-385;-33.51714;-71.125008
+Melipilla;10-270;Clínica Los Maitenes;2da dosis;16;Vacunación Programática;Varicela;Occidente;10-270;-33.6721;-71.21718
+Melipilla;10-378;Centro de Salud Familiar Dr. Edelberto Elgueta;2da dosis;23;Vacunación Programática;Varicela;Occidente;10-378;-33.681498;-71.22595
+Melipilla;10-379;Centro de Salud Familiar Dr. Francisco Boris Soler;2da dosis;30;Vacunación Programática;Varicela;Occidente;10-379;-33.700239;-71.218134
+Melipilla;10-380;Centro de Salud Familiar San Manuel;2da dosis;13;Vacunación Programática;Varicela;Occidente;10-380;-33.773496;-71.257568
+Melipilla;10-381;Centro de Salud Familiar Alfarera Rosa Reyes Vilches;2da dosis;7;Vacunación Programática;Varicela;Occidente;10-381;-33.649845;-71.15045
+Melipilla;10-440;Posta de Salud Rural Bollenar;2da dosis;7;Vacunación Programática;Varicela;Occidente;10-440;-33.569087;-71.210906
+Melipilla;10-445;Posta de Salud Rural Pahuilmo;2da dosis;5;Vacunación Programática;Varicela;Occidente;10-445;-33.569161;-71.11575
+Melipilla;10-455;Posta de salud Rural Pabellón;2da dosis;1;Vacunación Programática;Varicela;Occidente;10-455;-33.750621;-71.198276
+Melipilla;10-938;Centro de Salud Familiar Florencia;2da dosis;28;Vacunación Programática;Varicela;Occidente;10-938;-33.684442;-71.213312
+Padre Hurtado;10-366;Centro de Salud Familiar Juan Pablo II ( Padre Hurtado);2da dosis;41;Vacunación Programática;Varicela;Occidente;10-366;-33.569779;-70.805151
+Paine;13-318;Centro de Salud Familiar Dr. Miguel Ángel Solar (ex CESFAM Paine);2da dosis;70;Vacunación Programática;Varicela;Sur;13-318;-33.804827;-70.741211
+Paine;13-319;Centro de Salud Familiar Dr. Raúl Moya;2da dosis;16;Vacunación Programática;Varicela;Sur;13-319;-33.868535;-70.747995
+Paine;13-408;Posta de Salud Rural Pintué;2da dosis;11;Vacunación Programática;Varicela;Sur;13-408;-33.88597;-70.892169
+Paine;13-409;Posta de Salud Rural Huelquén;2da dosis;12;Vacunación Programática;Varicela;Sur;13-409;-33.832761;-70.643261
+Paine;13-410;Posta de Salud Rural Rangue;2da dosis;4;Vacunación Programática;Varicela;Sur;13-410;-33.850752;-70.942806
+Paine;13-411;Posta de Salud Rural Abrantes;2da dosis;4;Vacunación Programática;Varicela;Sur;13-411;-33.85926;-70.850687
+Paine;13-412;Posta de Salud Rural Chada;2da dosis;2;Vacunación Programática;Varicela;Sur;13-412;-33.900747;-70.660518
+Pedro Aguirre Cerda;11-303;Centro de Salud Familiar Lo Valledor Norte;2da dosis;38;Vacunación Programática;Varicela;Sur;11-303;-33.488282;-70.686377
+Pedro Aguirre Cerda;13-303;Centro de Salud Familiar Amador Neghme;2da dosis;22;Vacunación Programática;Varicela;Sur;13-303;-33.503461;-70.676059
+Pedro Aguirre Cerda;13-306;Centro de Salud Familiar Padre Pierre Dubois (Ex La Feria);2da dosis;20;Vacunación Programática;Varicela;Sur;13-306;-33.48971;-70.676018
+Pedro Aguirre Cerda;13-331;Centro de Salud Familiar Edgardo Enríquez Fröedden;2da dosis;39;Vacunación Programática;Varicela;Sur;13-331;-33.480185;-70.669075
+Peñaflor;10-308;Centro de Salud Familiar Peñaflor;2da dosis;26;Vacunación Programática;Varicela;Occidente;10-308;-33.6088;-70.896258
+Peñaflor;10-369;Centro de Salud Familiar Dr. Fernando Monckeberg;2da dosis;32;Vacunación Programática;Varicela;Occidente;10-369;-33.609978;-70.871635
+Peñalolén;12-275;Centro Médico Alto Tobalaba - Vacunatorio Vacci Protex;2da dosis;26;Vacunación Programática;Varicela;Oriente;12-275;-33.48292;-70.557327
+Peñalolén;12-314;Centro de Salud Familiar La Faena;2da dosis;25;Vacunación Programática;Varicela;Oriente;12-314;-33.467931;-70.556011
+Peñalolén;12-315;Centro de Salud Familiar San Luis;2da dosis;16;Vacunación Programática;Varicela;Oriente;12-315;-33.508122;-70.577994
+Peñalolén;12-316;Centro de Salud Familiar Carol Urzúa Ibáñez;2da dosis;37;Vacunación Programática;Varicela;Oriente;12-316;-33.476897;-70.542996
+Peñalolén;12-318;Centro de Salud Familiar Lo Hermida;2da dosis;26;Vacunación Programática;Varicela;Oriente;12-318;-33.476942;-70.562722
+Peñalolén;12-321;Centro de Salud Familiar Cardenal Silva Henríquez;2da dosis;21;Vacunación Programática;Varicela;Oriente;12-321;-33.470387;-70.532225
+Peñalolén;12-322;Centro de Salud Familiar Padre Gerardo Whelan;2da dosis;27;Vacunación Programática;Varicela;Oriente;12-322;-33.473974;-70.574226
+Peñalolén;12-930;Clínica Las Condes Peñalolén;2da dosis;36;Vacunación Programática;Varicela;Oriente;12-930;-33.489949;-70.544831
+Peñalolén;201112;CESFAM Las Torres;2da dosis;39;Vacunación Programática;Varicela;Oriente;201112;-33.50287;-70.577602
+Pirque;14-310;Centro de Salud Familiar Dr. José Manuel Balmaceda;2da dosis;12;Vacunación Programática;Varicela;Suroriente;14-310;-33.635077;-70.572477
+Pirque;14-333;Centro de Salud Rural El Principal;2da dosis;12;Vacunación Programática;Varicela;Suroriente;14-333;-33.720684;-70.553279
+Providencia;12-211;Clínica Indisa;2da dosis;129;Vacunación Programática;Varicela;Oriente;12-211;-33.43333;-70.62855
+Providencia;12-249;Clínica Santa María;2da dosis;80;Vacunación Programática;Varicela;Oriente;12-249;-33.43282;-70.62822
+Providencia;12-301;Centro de Salud Familiar Dr. Hernán Alessandri;2da dosis;9;Vacunación Programática;Varicela;Oriente;12-301;-33.444228;-70.620427
+Providencia;12-302;Centro de Salud Familiar Dr. Alfonso Leng;2da dosis;6;Vacunación Programática;Varicela;Oriente;12-302;-33.431406;-70.618809
+Providencia;12-303;Centro de Salud Familiar Aguilucho;2da dosis;21;Vacunación Programática;Varicela;Oriente;12-303;-33.442673;-70.597096
+Providencia;12-943;Vacunatorio RENVAC;2da dosis;1;Vacunación Programática;Varicela;Oriente;12-943;-33.425381;-70.614023
+Providencia;12-944;Vacunatorio Internacional Immunitas SpA;2da dosis;7;Vacunación Programática;Varicela;Oriente;12-944;-33.423268;-70.609892
+Providencia;12-945;Vacunatorio Clínica El Bosque;2da dosis;14;Vacunación Programática;Varicela;Oriente;12-945;-33.42821;-70.619211
+Providencia;200919;VACUMED;2da dosis;1;Vacunación Programática;Varicela;Oriente;200919;-33.435545;-70.631183
+Providencia;201156;VAXPROSALUD;2da dosis;7;Vacunación Programática;Varicela;Oriente;201156;-33.427625;-70.592504
+Pudahuel;10-350;Centro de Salud Familiar Pudahuel Estrella;2da dosis;63;Vacunación Programática;Varicela;Occidente;10-350;-33.437387;-70.750666
+Pudahuel;10-351;Centro de Salud Familiar Pudahuel Poniente;2da dosis;22;Vacunación Programática;Varicela;Occidente;10-351;-33.447426;-70.76289
+Pudahuel;10-352;Centro de Salud Familiar Dr. Gustavo Molina;2da dosis;31;Vacunación Programática;Varicela;Occidente;10-352;-33.458131;-70.76084
+Pudahuel;10-353;Centro de Salud Familiar Cardenal Raúl Silva Henríquez;2da dosis;32;Vacunación Programática;Varicela;Occidente;10-353;-33.429;-70.770919
+Pudahuel;10-354;Centro de Salud Familiar Violeta Parra;2da dosis;31;Vacunación Programática;Varicela;Occidente;10-354;-33.456935;-70.742752
+Pudahuel;201146;Centro Medico y Dental Del Valle;2da dosis;2;Vacunación Programática;Varicela;Occidente;201146;-33.45267;-70.848608
+Puente Alto;14-301;Centro de Salud Familiar Dr. Alejandro del Río;2da dosis;76;Vacunación Programática;Varicela;Suroriente;14-301;-33.607158;-70.578452
+Puente Alto;14-312;Centro de Salud Familiar San Gerónimo;2da dosis;39;Vacunación Programática;Varicela;Suroriente;14-312;-33.623527;-70.588387
+Puente Alto;14-313;Centro de Salud Familiar Vista Hermosa;2da dosis;21;Vacunación Programática;Varicela;Suroriente;14-313;-33.61107;-70.521039
+Puente Alto;14-320;Centro de Salud Familiar Bernardo Leighton;2da dosis;47;Vacunación Programática;Varicela;Suroriente;14-320;-33.584276;-70.604383
+Puente Alto;14-321;Centro de Salud Familiar Cardenal Silva Henríquez;2da dosis;56;Vacunación Programática;Varicela;Suroriente;14-321;-33.627923;-70.616459
+Puente Alto;14-322;Centro de Salud Familiar Padre Manuel Villaseca;2da dosis;41;Vacunación Programática;Varicela;Suroriente;14-322;-33.583959;-70.556326
+Puente Alto;14-323;Centro de Salud Familiar Madre Teresa de Calcuta Red de Salud UC CHRISTUS;2da dosis;29;Vacunación Programática;Varicela;Suroriente;14-323;-33.614332;-70.552683
+Puente Alto;14-326;Centro de Salud Familiar Karol Wojtyla;2da dosis;40;Vacunación Programática;Varicela;Suroriente;14-326;-33.625966;-70.625759
+Puente Alto;14-329;Centro de Salud Familiar San Alberto Hurtado Red de Salud UC CHRISTUS;2da dosis;46;Vacunación Programática;Varicela;Suroriente;14-329;-33.59663;-70.556535
+Puente Alto;14-332;Centro de Salud Familiar Laurita Vicuña;2da dosis;49;Vacunación Programática;Varicela;Suroriente;14-332;-33.591149;-70.595281
+Quilicura;09-313;Centro de Salud Familiar Irene Frei de Cid;2da dosis;35;Vacunación Programática;Varicela;Norte;09-313;-33.365842;-70.746633
+Quilicura;09-315;Centro de Salud Familiar Manuel Bustos Huerta;2da dosis;36;Vacunación Programática;Varicela;Norte;09-315;-33.354232;-70.720395
+Quilicura;09-324;Centro de Salud Familiar Presidente Salvador Allende Gossens;2da dosis;59;Vacunación Programática;Varicela;Norte;09-324;-33.354498;-70.737981
+Quilicura;201091;CESFAM Marta Ugarte Román;2da dosis;41;Vacunación Programática;Varicela;Norte;201091;-33.369414;-70.73201
+Quinta Normal;10-310;Centro de Salud Familiar Andes;2da dosis;27;Vacunación Programática;Varicela;Occidente;10-310;-33.434192;-70.692944
+Quinta Normal;10-320;Centro de Salud Familiar Lo Franco;2da dosis;16;Vacunación Programática;Varicela;Occidente;10-320;-33.422508;-70.694803
+Quinta Normal;10-325;Centro de Salud Familiar Garín;2da dosis;28;Vacunación Programática;Varicela;Occidente;10-325;-33.430421;-70.714351
+Recoleta;09-201;Clínica Dávila;2da dosis;71;Vacunación Programática;Varicela;Norte;09-201;-33.427257;-70.648544
+Recoleta;09-301;Centro de Salud Familiar Recoleta;2da dosis;34;Vacunación Programática;Varicela;Norte;09-301;-33.423922;-70.645768
+Recoleta;09-303;Centro de Salud Familiar Quinta Bella;2da dosis;48;Vacunación Programática;Varicela;Norte;09-303;-33.403207;-70.634602
+Recoleta;09-304;Centro de Salud Familiar Valdivieso;2da dosis;9;Vacunación Programática;Varicela;Norte;09-304;-33.410322;-70.631219
+Recoleta;09-307;Centro de Salud Familiar Dr. Juan Petrinovic (Ex Scroggie);2da dosis;28;Vacunación Programática;Varicela;Norte;09-307;-33.384392;-70.644939
+Recoleta;09-390;Centro de Salud Familiar Cristo Vive (ONG);2da dosis;19;Vacunación Programática;Varicela;Norte;09-390;-33.387053;-70.641803
+Renca;10-360;Centro de Salud Familiar Renca;2da dosis;43;Vacunación Programática;Varicela;Occidente;10-360;-33.403452;-70.709698
+Renca;10-361;Centro de Salud Familiar Bicentenario;2da dosis;37;Vacunación Programática;Varicela;Occidente;10-361;-33.397669;-70.749713
+Renca;10-362;Centro de Salud Familiar Dr. Hernán Urzúa Merino;2da dosis;44;Vacunación Programática;Varicela;Occidente;10-362;-33.411478;-70.728472
+Renca;10-364;Centro de Salud Familiar Huamachuco;2da dosis;34;Vacunación Programática;Varicela;Occidente;10-364;-33.39126;-70.698932
+San Bernardo;13-313;Centro de Salud Familiar Raúl Cuevas (Ex-San Bernardo);2da dosis;38;Vacunación Programática;Varicela;Sur;13-313;-33.597631;-70.714846
+San Bernardo;13-315;Centro de Salud Familiar Confraternidad;2da dosis;20;Vacunación Programática;Varicela;Sur;13-315;-33.589661;-70.682857
+San Bernardo;13-316;Centro de Salud Familiar Carol Urzúa;2da dosis;49;Vacunación Programática;Varicela;Sur;13-316;-33.575808;-70.703607
+San Bernardo;13-328;Centro de Salud Familiar Padre Joan Alsina;2da dosis;32;Vacunación Programática;Varicela;Sur;13-328;-33.613987;-70.697869
+San Bernardo;13-330;Centro de Salud Familiar Raúl Brañes F.;2da dosis;65;Vacunación Programática;Varicela;Sur;13-330;-33.59866;-70.68036
+San Bernardo;13-332;Centro de Salud Familiar Juan Pablo II ( San Bernardo);2da dosis;28;Vacunación Programática;Varicela;Sur;13-332;-33.584476;-70.692076
+San Bernardo;13-394;Centro de Salud Familiar El Manzano;2da dosis;41;Vacunación Programática;Varicela;Sur;13-394;-33.590706;-70.666217
+San Joaquín;13-301;Centro de Salud Familiar San Joaquín;2da dosis;25;Vacunación Programática;Varicela;Sur;13-301;-33.486494;-70.623533
+San Joaquín;13-305;Centro de Salud Familiar Arturo Baeza Goñi;2da dosis;14;Vacunación Programática;Varicela;Sur;13-305;-33.491964;-70.633221
+San Joaquín;13-322;Centro de Salud Familiar Santa Teresa de Los Andes;2da dosis;35;Vacunación Programática;Varicela;Sur;13-322;-33.506303;-70.624386
+San José de Maipo;14-102;Hospital San José de Maipo;2da dosis;14;Vacunación Programática;Varicela;Suroriente;14-102;-33.641256;-70.352299
+San José de Maipo;14-407;Posta de Salud Rural Las Vertientes;2da dosis;7;Vacunación Programática;Varicela;Suroriente;14-407;-33.592102;-70.482171
+San Miguel;13-300;Centro de Salud Familiar Barros Luco;2da dosis;47;Vacunación Programática;Varicela;Sur;13-300;-33.48279;-70.648764
+San Miguel;13-302;Centro de Salud Familiar Recreo;2da dosis;36;Vacunación Programática;Varicela;Sur;13-302;-33.510116;-70.64902
+San Pedro;10-387;Centro de Salud Familiar San Pedro;2da dosis;5;Vacunación Programática;Varicela;Occidente;10-387;-33.895313;-71.454412
+San Ramón;14-307;Centro de Salud Familiar La Bandera;2da dosis;26;Vacunación Programática;Varicela;Suroriente;14-307;-33.545428;-70.644824
+San Ramón;14-314;Centro de Salud Familiar Dr. Salvador Allende (Ex Consultorio San Ramón);2da dosis;20;Vacunación Programática;Varicela;Suroriente;14-314;-33.537986;-70.640552
+San Ramón;14-328;Centro de Salud Familiar Poetisa Gabriela Mistral;2da dosis;25;Vacunación Programática;Varicela;Suroriente;14-328;-33.551606;-70.640729
+Santiago;10-100;Hospital San Juan de Dios (Santiago, Santiago);2da dosis;1;Vacunación Programática;Varicela;Central;10-100;-33.442394;-70.679188
+Santiago;11-267;Centro Médico Vida Integra Alameda;2da dosis;3;Vacunación Programática;Varicela;Central;11-267;-33.446412;-70.658798
+Santiago;11-291;Centro Médico y Dental Fundación Asistencial Trabajadores Del Banco del Estado de Chile;2da dosis;2;Vacunación Programática;Varicela;Central;11-291;-33.442973;-70.655523
+Santiago;11-292;Vacunatorio Marcoleta de la Pontificia Universidad Católica de Chile;2da dosis;51;Vacunación Programática;Varicela;Central;11-292;-33.442163;-70.640257
+Santiago;11-300;Centro de Salud Familiar N° 1 Dr. Ramón Corbalán Melgarejo;2da dosis;48;Vacunación Programática;Varicela;Central;11-300;-33.455442;-70.652731
+Santiago;11-301;Centro de Salud Familiar Nº 5;2da dosis;30;Vacunación Programática;Varicela;Central;11-301;-33.45118;-70.673769
+Santiago;11-370;Centro de Salud Familiar Padre Orellana;2da dosis;23;Vacunación Programática;Varicela;Central;11-370;-33.466621;-70.629593
+Santiago;11-372;Centro de Salud Familiar Arauco;2da dosis;12;Vacunación Programática;Varicela;Central;11-372;-33.46803;-70.670454
+Santiago;11-376;Centro de Salud Familiar Matta Sur;2da dosis;17;Vacunación Programática;Varicela;Central;11-376;-33.461578;-70.655451
+Santiago;11-381;Centro de Salud Familiar Ignacio Domeyko;2da dosis;66;Vacunación Programática;Varicela;Central;11-381;-33.438921;-70.672467
+Talagante;10-390;Centro de Salud Familiar Dr. Alberto Allende Jones;2da dosis;69;Vacunación Programática;Varicela;Occidente;10-390;-33.669665;-70.937614
+Tiltil;09-104;Hospital de Til Til;2da dosis;9;Vacunación Programática;Varicela;Norte;09-104;-33.086793;-70.924522
+Tiltil;09-320;Centro de Salud Familiar Huertos Familiares;2da dosis;12;Vacunación Programática;Varicela;Norte;09-320;-33.135821;-70.799456
+Tiltil;09-410;Posta de Salud Rural La Capilla de Caleu;2da dosis;2;Vacunación Programática;Varicela;Norte;09-410;-33.002937;-70.995072
+Tiltil;09-413;Posta de Salud Rural Rungue;2da dosis;1;Vacunación Programática;Varicela;Norte;09-413;-33.008385;-70.892433
+Tiltil;09-414;Posta de Salud Rural Polpaico;2da dosis;1;Vacunación Programática;Varicela;Norte;09-414;-33.167398;-70.887052
+Vitacura;12-200;Clínica Alemana;2da dosis;141;Vacunación Programática;Varicela;Oriente;12-200;-33.391276;-70.572983
+Vitacura;12-201;Clínica Tabancura;2da dosis;28;Vacunación Programática;Varicela;Oriente;12-201;-33.38216;-70.53534
+Vitacura;12-274;Procedimientos Clínicos Alto Tabancura;2da dosis;12;Vacunación Programática;Varicela;Oriente;12-274;-33.380903;-70.536344
+Vitacura;12-309;Centro de Salud Familiar Vitacura;2da dosis;7;Vacunación Programática;Varicela;Oriente;12-309;-33.38985;-70.555009
+Ñuñoa;12-240;Hospital Carabineros;2da dosis;45;Vacunación Programática;Varicela;Oriente;12-240;-33.450658;-70.608463
+Ñuñoa;12-310;Centro de Salud Familiar Rosita Renard;2da dosis;42;Vacunación Programática;Varicela;Oriente;12-310;-33.469243;-70.602904
+Ñuñoa;12-311;Centro de Salud Familiar Salvador Bustos;2da dosis;21;Vacunación Programática;Varicela;Oriente;12-311;-33.465998;-70.587774
+Ñuñoa;12-942;Vacunatorio Varik;2da dosis;35;Vacunación Programática;Varicela;Oriente;12-942;-33.45454;-70.606179
+Ñuñoa;201093;Vacunatorio Medicien_Ñuñoa;2da dosis;4;Vacunación Programática;Varicela;Oriente;201093;-33.455441;-70.595222
