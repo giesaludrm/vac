@@ -5,26 +5,33 @@ import plotly.graph_objects as go
 import geopandas as gpd
 import numpy as np
 from datetime import datetime, timedelta
+import fastparquet
 import locale
-#locale.setlocale(locale.LC_ALL, 'es_ES.utf8')
+locale.setlocale(locale.LC_ALL, 'es_ES.utf8')
 
 ################# TÍTULO Y NOMBRE DE PÁGINA #############################################
 st.set_page_config("Monitoreo Vacunación Influenza", layout="wide")
 st.title("Monitoreo Vacunación Influenza - Campaña 2023")
 
 ################################# CARGA DE DATOS ###########################################
-df = pd.read_csv("inf_avance_vac_2023.csv", sep=";", encoding="latin-1")
+df0 = pd.read_parquet("inf_total_2023.gzip")
+df = df0.loc[df0["dato"] == "Avance vacunación por comuna"]
 fecha_act = df["fecha_actualizacion"].iloc[0]
 st.markdown(f"Datos provisorios /    Fecha de actualización: {fecha_act} / Fecha corte de datos: día anterior a la fecha de actualización")
 st.markdown("---")
 fecha_act = pd.to_datetime(fecha_act, format='%d-%m-%Y').strftime('%Y-%m-%d %H:%M:%S')
 fecha_act = pd.to_datetime(fecha_act).date()
-vac_inf_com = pd.read_csv("inf_dosis_com_2023.csv", sep=";", encoding="latin-1")
-vacxdia = pd.read_csv("inf_vacxdia_com_2023.csv", sep=";", encoding="latin-1")
+vac_inf_com = df0.loc[df0["dato"] == "Dosis por comuna"]
+vacxdia = df0.loc[df0["dato"] == "Vacunas por día"]
+#vac_inf_com = pd.read_csv("inf_dosis_com_2023.csv", sep=";", encoding="latin-1")
+#vacxdia = pd.read_csv("inf_vacxdia_com_2023.csv", sep=";", encoding="latin-1")
 df_criterios = df.loc[df["Criterio_elegibilidad"]!= "Población General"]
-vac_inf_geo = pd.read_csv("inf_n_estab_geo_2023.csv", sep=";", encoding="latin-1")
+#vac_inf_geo = pd.read_csv("inf_n_estab_geo_2023.csv", sep=";", encoding="latin-1")
+vac_inf_geo = df0.loc[df0["dato"] == "Dosis por establecimiento"]
+vac_inf_geo = vac_inf_geo.loc[vac_inf_geo["latitud"].notna()]
 geo_df = gpd.read_file("comunas_rm.geojson")
-vacxdia_comp = pd.read_csv("inf_vacxdia_com_2022y2023.csv", sep=";", encoding="latin-1")
+#vacxdia_comp = pd.read_csv("inf_vacxdia_com_2022y2023.csv", sep=";", encoding="latin-1")
+vacxdia_comp = df0.loc[df0["dato"] == "Comparación anual vacunas por día"]
 vacxdia_comp["FECHA_INMUNIZACION"] = pd.to_datetime(vacxdia_comp["FECHA_INMUNIZACION"])
 vacxdia_comp['día-mes']=vacxdia_comp['FECHA_INMUNIZACION'].dt.strftime('%d-%b')
 vacxdia_comp['día-mes']=pd.to_datetime(vacxdia_comp['día-mes'],format='%d-%b',errors='coerce')
@@ -91,7 +98,8 @@ vacxdia_comp = vacxdia_comp.merge(df_filtro, on=["Servicio","Comuna","Criterio_e
 geo_df = geo_df.merge(df, on="Comuna", how="inner")
 
 ################# INDICADORES #################################################################
-promedio_cob = round(df["Avance vacunación"].mean(),1)
+#promedio_cob = round(df["Avance vacunación"].mean(),1)
+promedio_cob = round((df["N° de vacunados"].sum()* 100)/df["Población objetivo"].sum(),1)
 dif_promedio_cob = 85-promedio_cob
 dosis_adm = round(df["N° de vacunados"].sum())
 dosis_adm =str('{0:,}'.format(dosis_adm))
@@ -122,13 +130,7 @@ try:
     diferencia_mean_vacxdia_f = diferencia_mean_vacxdia_f.replace(",", ".")
 except ValueError:
     st.error("No se encuentran disponibles registros de la semana pasada")
-#mean_vacxdia_1sem = round(una_semana_atras["N° de vacunados"].mean())
-#mean_vacxdia_1sem_f =str('{0:,}'.format(mean_vacxdia_1sem))
-#mean_vacxdia_1sem_f = mean_vacxdia_1sem_f.replace(",", ".")
-#mean_vacxdia_2sem = round(dos_semana_atras["N° de vacunados"].mean())
-#diferencia_mean_vacxdia= mean_vacxdia_1sem - mean_vacxdia_2sem
-#diferencia_mean_vacxdia_f =str('{0:,}'.format(diferencia_mean_vacxdia))
-#diferencia_mean_vacxdia_f = diferencia_mean_vacxdia_f.replace(",", ".")
+
 
 df.loc[len(df)] = new_row
 
@@ -148,6 +150,7 @@ da_table= da_table.sort_values(by ="Comuna")
 # GRÁFICO BARRA: % AVANCE VACUNACIÓN
 fig = px.bar(df, x='Comuna', y='Avance vacunación',
             title= f"Porcentaje Avance vacunación", color=np.where((df['Comuna'] == "RM"), 'green', 'red'),
+            text = 'Avance vacunación',
             color_discrete_sequence=["#3057D3", "#DD3C2C"],height=450,
             labels={"Avance vacunación": "Avance vacunación (%)"})
 fig.update_layout(xaxis_categoryorder = 'total descending')
@@ -244,8 +247,8 @@ fig4.update_xaxes(rangeslider_visible=True)
 # GRÁFICO LÍNEA: COMPARATIVA TOTAL DOSIS DIARIAS CAMPAÑA 2022 Y 2023
 vacxdia_f2 =  vacxdia_comp.groupby(["día-mes", "Campaña"]).sum("N° de vacunados").reset_index()
 
-fig5 = px.line(vacxdia_f2, x='día-mes', y='N° de vacunados', title='Comparación Dosis diarias - Campañas 2022 y 2023',
-                color='Campaña',  color_discrete_sequence= ["#3057D3", "#EC5307"])
+fig5 = px.line(vacxdia_f2, x='día-mes', y='N° de vacunados', title='Comparación Dosis diarias - Campañas 2019, 2022 y 2023',
+                color='Campaña',  color_discrete_sequence= ["#1DC427","#3057D3", "#EC5307"])
 fig5.update_layout(xaxis_tickformat='%d-%b')
 fig5.update_traces(line=dict(width=1))
 fig5.update_xaxes(rangeslider_visible=True)

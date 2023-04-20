@@ -5,9 +5,9 @@ import plotly.graph_objects as go
 import geopandas as gpd
 import numpy as np
 from datetime import datetime, timedelta
+import fastparquet
 import locale
 locale.setlocale(locale.LC_ALL, 'es_ES.utf8')
-
 
 ################# TÍTULO Y NOMBRE DE PÁGINA #############################################
 st.set_page_config("Monitoreo Vacunas Programáticas", layout="wide")
@@ -15,15 +15,16 @@ st.set_page_config("Monitoreo Vacunas Programáticas", layout="wide")
 st.title("Monitoreo Vacunas Programáticas - 2023")
 
 ################################# CARGA DE DATOS ###########################################
-df = pd.read_csv("prog_avance_vac_2023.csv", sep=";", encoding="latin-1")
+df0 = pd.read_parquet("prog_total_2023.gzip")
+df = df0.loc[df0["dato"] == "Avance vacunación por comuna"]
 fecha_act = df["fecha_actualizacion"].iloc[0]
 st.markdown(f"Datos provisorios /    Fecha de actualización: {fecha_act} / Fecha corte de datos: día anterior a la fecha de actualización")
 st.markdown("---")
 fecha_act = pd.to_datetime(fecha_act, format='%d-%m-%Y').strftime('%Y-%m-%d %H:%M:%S')
 fecha_act = pd.to_datetime(fecha_act).date()
-vac_inf_com = pd.read_csv("prog_dosis_com_2023.csv", sep=";", encoding="latin-1")
-vacxdia = pd.read_csv("prog_vacxdia_2023.csv", sep=";", encoding="latin-1")
-vac_inf_geo = pd.read_csv("prog_n_estab_geo_2023.csv", sep=";", encoding="latin-1")
+vac_inf_com = df0.loc[df0["dato"] == "Dosis por comuna"]
+vacxdia = df0.loc[df0["dato"] == "Vacunas por día"]
+vac_inf_geo = df0.loc[df0["dato"] == "Dosis por establecimiento"]
 geo_df = gpd.read_file("comunas_rm.geojson")
 
 
@@ -98,7 +99,8 @@ vac_inf_geo_gb = vac_inf_geo.groupby(["Comuna", "Establecimiento","Vacuna", "lat
 geo_df = geo_df.merge(df, on="Comuna", how="inner")
 
 ################# INDICADORES #################################################################
-promedio_cob = round(df["Avance vacunación"].mean(),1)
+#promedio_cob = round(df["Avance vacunación"].mean(),1)
+promedio_cob = round((df["N° de vacunados"].sum()* 100)/df["Población objetivo"].sum(),1)
 dif_promedio_cob = 85-promedio_cob
 dosis_adm = round(df["N° de vacunados"].sum())
 dosis_adm =str('{0:,}'.format(dosis_adm))
@@ -155,6 +157,7 @@ da_table= da_table.sort_values(by ="Comuna")
 # GRÁFICO BARRA: % AVANCE VACUNACIÓN
 fig = px.bar(df, x='Comuna', y='Avance vacunación',
             title= f"Porcentaje Avance vacunación", color=np.where((df['Comuna'] == "RM"), 'green', 'red'),
+            text = 'Avance vacunación',
             color_discrete_sequence=["#3057D3", "#DD3C2C"],height=450,
             labels={"Avance vacunación": "Avance vacunación (%)"})
 fig.update_layout(xaxis_categoryorder = 'total descending')
