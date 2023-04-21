@@ -337,3 +337,23 @@ with col9:
 st.markdown("###### Tabla N° de vacunados y Avance de Vacunación por Comuna")
 with st.container():
     st.dataframe(da_table, use_container_width=True)
+
+st.markdown("##### Notas técnicas")
+
+st.markdown(f"""
+1. El n° de vacunas y dosis asociadas a la vacuna "Neumocócica polisacárida 23V", se obtuvo considerando todos los registros de pacientes que tienen o van a cumplir
+65 años entre el inicio de la campaña (15 de marzo) hasta el 31 de diciembre del vigente año.
+2.  
+- El n° de vacunas asociadas a las primeras dosis programáticas de Varicela se obtuvo considerando todos los registros de niños y niñas que tengan 18 meses cumplidos desde su nacimiento
+con respecto a las fechas en que se inicia el monitoreo (01 de enero) y se actualiza esta información ({fecha_act}). <br>
+- El n° de vacunas asociadas a las segundas dosis programáticas de Varicela se obtuvo considerando todos los registros de niños y niñas que tengan 36 meses cumplidos desde su nacimiento
+con respecto a las fechas en que se inicia el monitoreo (01 de enero) y se actualiza esta información ({fecha_act}). <br>
+- El n° de vacunas asociadas a las primeras dosis programáticas de SRP (trivirica) Monodosis se obtuvo considerando todos los registros de niños y niñas que tengan 12 meses cumplidos desde su nacimiento
+con respecto a las fechas en que se inicia el monitoreo (01 de enero) y se actualiza esta información ({fecha_act}). <br>
+- El n° de vacunas asociadas a las segundas dosis programáticas de SRP (trivirica) Monodosis se obtuvo considerando todos los registros de niños y niñas que tengan 36 meses cumplidos desde su nacimiento
+con respecto a las fechas en que se inicia el monitoreo (01 de enero) y se actualiza esta información ({fecha_act}). <br>
+3. La población objetivo para la vacuna Neumocócica se obtuvo a partir de la población de 65 años proyectada por el INE al 2023, con base en el Censo 2017.
+Las poblaciones objetivo de Varicela y SRP se calculan a partir de las bases de datos de nacidos vivos, tomando como referencia el mismo periodo utilizado para obtener el n° de vacunas.
+4. La agrupación o filtro por Servicio de Salud utiliza los datos calculados por comuna, ya sea por ocurrencia o residencia, según el criterio de elegibilidad.""", unsafe_allow_html=True)
+
+

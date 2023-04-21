@@ -337,3 +337,19 @@ with col9:
 st.markdown("###### Tabla N° de vacunados y Avance de Vacunación por Comuna")
 with st.container():
     st.dataframe(da_table, use_container_width=True)
+
+    st.markdown("---")
+
+st.markdown("##### Notas técnicas")
+
+st.markdown("""
+1. El n° de vacunas asociadas al criterio "Personas mayores de 65 años y más", se obtuvo considerando todos los registros de pacientes que tienen o van a cumplir
+65 o más años hasta el 31 de diciembre del vigente año de la campaña. Los n° de vacunas asociadas a los otros grupos se obtuvieron directamente de los criterios
+de elegibilidad indicados en el RNI.
+2. Los criterios "Niños y niñas de 6 meses a 5 años de edad", "Embarazadas", "Estrategia Capullo", "Enfermos cronicos de 11 a 64 años de edad" y
+"Personas mayores de 65 años y más" se calcularon por comuna de residencia. Los criterios "Escolares de 1° a 5° año básico", "P. de salud: Privado",
+"P. de salud: Público", "Trabajadores de la educación  preescolar y escolar hasta 5° año básico", "Trabajadores de avícolas y de criaderos de cerdo" y
+"Otras prioridades" se calcularon por comuna de ocurrencia.
+3. Las poblaciones objetivo de todos los criterios de elegibilidad corresponden a las informadas por el DEIS-MINSAL.
+4. El porcentaje de avance de vacunación considera sólo registros de 1° dosis o dosis únicas para el cálculo del numerador.
+5. La agrupación o filtro por Servicio de Salud utiliza los datos calculados por comuna, ya sea por ocurrencia o residencia, según el criterio de elegibilidad.""")

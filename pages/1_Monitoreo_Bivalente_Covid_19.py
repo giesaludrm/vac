@@ -321,8 +321,11 @@ st.markdown("---")
 st.markdown("##### Notas técnicas")
 
 st.markdown("""
-1. Los criterios "Personas crónicas entre 12 a 59 años" y "Personal de salud" se calcularon por comuna de ocurrencia.
+1. El n° de vacunas asociadas al criterio "Personas crónicas entre 12 a 59 años", se obtuvo considerando todos los registros que mencionan "crónicos" 
+dentro del criterio de elegibilidad. Luego realizó el filtro por rango de etario correspondiente, calculando la edad al momento de la fecha de inmunización.
+2. El n° de vacunas asociadas al criterio "Personal de salud", se obtuvo considerando todos los registros que mencionan "P. de salud" dentro del criterio de elegibilidad.
+3. Los criterios "Personas crónicas entre 12 a 59 años" y "Personal de salud" se calcularon por comuna de ocurrencia.
 Los criterios por grupos etarios se calcularon por comuna de residencia.
-2. Las poblaciones objetivo de "Personas crónicas entre 12 a 59 años" y "Personal de salud" corresponden a las informadas por el DEIS-MINSAL.
+4. Las poblaciones objetivo de "Personas crónicas entre 12 a 59 años" y "Personal de salud" corresponden a las informadas por el DEIS-MINSAL.
 Las poblaciones objetivo por grupo etario se obtuvieron de las proyecciones al año 2023 del INE.
-3. Los datos agrupados por Servicio de Salud """)
+5. La agrupación o filtro por Servicio de Salud utiliza los datos calculados por comuna, ya sea por ocurrencia o residencia, según el criterio de elegibilidad.""")
