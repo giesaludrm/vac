@@ -41,7 +41,7 @@ col1, col2, col3 = st.columns([1,2.5,1])
 with col2:
     st.markdown(
     """<div style="text-align: justify;"><br> Esta plataforma deja a disposición del sector Salud, información de alcance regional para
-    el monitoreo de vacunas del Programa Nacional de Inmunizaciones, siendo su objetivo principal el apoyo para la gestión, 
+    el monitoreo de vacunas del Programa Nacional de Inmunizaciones, siendo su objetivo principal el apoyo para la gestión interna, 
     basándose en la utilización de datos provisorios, los cuales se presentan a modo de indicadores y gráficos con desagregación por:
     Región Metropolitana, Servicios de Salud Metropolitanos, Comunas y Establecimientos de Salud. <br> <br>
     La herramienta fue desarrollada mediante un trabajo colaborativo entre el Subdepto. de Gestión de Información
