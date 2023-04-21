@@ -251,7 +251,7 @@ figmapa.update_layout(margin=dict(l=0, r=0, t=70, b=0))
 # GRÁFICO MAPA: TOTAL DOSIS ADMINISTRADAS POR ESTABLECIMIENTO DE SALUD
 figmapa2 = px.scatter_mapbox(vac_inf_geo_gb, lat="latitud",
                         lon="longitud",   color="N° de vacunados",size="N° de vacunados",
-                  color_continuous_scale="RdBu", size_max=15, zoom=8.5, height=500, mapbox_style="carto-positron",
+                  color_continuous_scale= px.colors.sequential.Jet[::-1], size_max=15, zoom=8.5, height=500, mapbox_style="carto-positron",
                   hover_data=["Comuna", "Establecimiento"],
                   title= "Distribución territorial Vacunados por establecimiento")
 
