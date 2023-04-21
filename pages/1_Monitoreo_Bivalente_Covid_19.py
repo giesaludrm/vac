@@ -14,12 +14,31 @@ st.set_page_config("Monitoreo Vacunación Bivalente Covid-19", layout="wide")
 
 st.title("Monitoreo Vacunación Bivalente Covid-19")
 
+def add_logo():
+    st.markdown(
+        """
+        <style>
+            [data-testid="stSidebarNav"] {
+                background-image: url(https://seremi13.redsalud.gob.cl/wrdprss_minsal/wp-content/uploads/2021/06/isologo2-2021.jpg);
+                background-repeat: no-repeat;
+                background-size: 130px 110px;
+                padding-top: 60px;
+                background-position: 50px 20px;
+            }
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )
+add_logo()
+
 ################################# CARGA DE DATOS ###########################################
 df0 = pd.read_parquet("biv_total_2023.gzip")
 df = df0.loc[df0["dato"] == "Avance vacunación por comuna"]
 df_criterios = df.loc[df["Criterio_elegibilidad"]!= "Personas de 50 o más años"]
 fecha_act = df["fecha_actualizacion"].iloc[0]
-st.markdown(f"Datos provisorios /    Fecha de actualización: {fecha_act} / Fecha corte de datos: día anterior a la fecha de actualización")
+fecha_ult = df["fecha_ultimo_registro"].iloc[0]
+st.markdown(f"""Datos provisorios /    Fecha de actualización: {fecha_act} / Fecha corte de datos: día anterior a la fecha de actualización
+ / Últimos registros de inmunización disponibles al {fecha_ult}""")
 st.markdown("---")
 fecha_act = pd.to_datetime(fecha_act, format='%d-%m-%Y').strftime('%Y-%m-%d %H:%M:%S')
 fecha_act = pd.to_datetime(fecha_act).date()
@@ -238,7 +257,7 @@ fig_ind = go.Figure(go.Indicator(
     mode = "gauge+number",
     value = promedio_cob,   number={"suffix": "%", 'font_color':'black', 'font_size':28}, 
     gauge = {'axis': {'range': [0, 100],'tickvals': [0, 25, 50, 75 ,100]},'threshold' : {'line': {'color': "red", 'width': 2}, 'thickness': 0.75, 'value': 85}},
-    domain = {'x': [0, 1], 'y': [0, 1]},
+    #domain = {'x': [0, 1], 'y': [0, 1]},
     title = {"text": "Avance de vacunación"}
     ))
 fig_ind.update_layout(height=200, width=200)
@@ -294,3 +313,15 @@ with col9:
 st.markdown("###### Tabla N° de vacunados y Avance de Vacunación por Comuna")
 with st.container():
     st.dataframe(da_table, use_container_width=True)
+
+
+st.markdown("---")
+
+st.markdown("##### Notas técnicas")
+
+st.markdown("""
+1. Los criterios "Personas crónicas entre 12 a 59 años" y "Personal de salud" se calcularon por comuna de ocurrencia.
+Los criterios por grupos etarios se calcularon por comuna de residencia.
+2. Las poblaciones objetivo de "Personas crónicas entre 12 a 59 años" y "Personal de salud" corresponden a las informadas por el DEIS-MINSAL.
+Las poblaciones objetivo por grupo etario se obtuvieron de las proyecciones al año 2023 del INE.
+3. Los datos agrupados por Servicio de Salud """)
