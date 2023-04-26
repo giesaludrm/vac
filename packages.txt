@@ -1,1 +1,4 @@
 locales-all
+build-essential
+python-dev
+default-libmysqlclient-dev
