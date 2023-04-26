@@ -7,7 +7,7 @@ import numpy as np
 from datetime import datetime, timedelta
 import fastparquet
 import locale
-locale.setlocale(locale.LC_ALL, 'es_ES.utf8')
+#locale.setlocale(locale.LC_ALL, 'es_ES.utf8')
 
 ################# TÍTULO Y NOMBRE DE PÁGINA #############################################
 st.set_page_config("Monitoreo Vacunación Influenza", layout="wide")
